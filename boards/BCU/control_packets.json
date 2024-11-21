@@ -1,0 +1,29 @@
+{
+    
+    "Packets":[
+    {
+        "id":"900",
+        "type": "ORDER",
+        "name":"Open Contactors",
+        "variables":[
+
+        ]
+    },
+    {
+        "id":"901",
+        "type": "ORDER",
+        "name":"Close Contactors",
+        "variables":[
+
+        ]
+    },
+    {
+        "id":"2",
+        "type": "ORDER",
+        "name":"Active Discharge",
+        "variables":[
+
+        ]
+    }
+    ]
+}

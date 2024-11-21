@@ -1,0 +1,61 @@
+{
+    "boards": [
+        {"BCU":"./boards/BCU/BCU.json"},
+        {"BLCU":"./boards/BLCU/BLCU.json"},
+        {"BMSL":"./boards/BMSL/BMSL.json"},
+        {"LCU":"./boards/LCU/LCU.json"},
+        {"OBCCU":"./boards/OBCCU/OBCCU.json"},
+        {"PCU":"./boards/PCU/PCU.json"},
+        {"VCU":"./boards/VCU/VCU.json"}
+    ],
+    "ports":[
+        {"TCP_CLIENT":"50401"},
+        {"TCP_SERVER":"50500"},
+        {"UDP":"50401"},
+        {"SNTP":"123"},
+        {"TFTP":"69"}
+    ],
+    "network_endpoints":[
+        {"HyperSwitch_0": "192.168.1.2"},
+        {"HyperPi": ["192.168.1.1", "192.168.0.1"]},
+        {"HyperRocket_0": "192.168.0.2"},
+        {"HyperRocket_1": "192.168.0.3"},
+        {"HyperSwitch_1": "192.168.0.4"},
+        {"HyperCam_0": "192.168.0.5"},
+        {"HyperCam_1": "192.168.0.6"},
+        {"HyperCam_2": "192.168.0.7"},
+        {"HyperSwitch_2": "192.168.0.8"},
+        {"MediaServer": "192.168.0.10"},
+        {"HyperRouter_0": ["192.168.0.11", "172.16.0.1"]},
+        {"HyperRouter_1": ["192.168.0.12", "192.168.2.1"]},
+        {"HyperSwitch_3": "192.168.0.13"},
+        {"HyperAP_0": "172.16.0.2"},
+        {"HyperAP_1": "172.16.0.3"},
+        {"HyperAP_2": "192.168.2.2"}
+    ],
+    "unit_conversions":[
+        {"V": "1"},
+        {"A": "1"},
+        {"ºC": "+273.15"},
+        {"m": "1"},
+        {"mm": "/1000"},
+        {"deg": "/57.2957"},
+        {"Hz": "1"},
+        {"Percentage": "1"},
+        {"m/s": "1"},
+        {"m/ss": "1"},
+        {"G": "*9.8"},
+        {"rad": "1"},
+        {"km/h": "*3.6"},
+        {"mrad": "/1000"}
+    ],
+    "message_ids":[
+        {"info": "1"},
+        {"fault": "2"},
+        {"warning": "3"},
+        {"blcu_ack": "4"},
+        {"add_state_orders": "5"},
+        {"remove_state_orders": "6"},
+        {"state_space": "7"}
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Measurements": [
+        {
+            "ID": "duty_cycle",
+            "Name": "Duty Cycle",
+            "Type": "float32",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": [0, 100],
+            "WarningRange": ""
+        },
+        {
+            "ID": "bpu_sector",
+            "Name": "BPU Sector",
+            "Type": "enum(1,2,BOTH)",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": "",
+            "WarningRange": ""
+        },
+        {
+            "ID": "motor_phase",
+            "Name": "Motor Phase (First PWM number)",
+            "Type": "enum(U,V,W)",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": "",
+            "WarningRange": ""
+        },
+        {
+            "ID": "vdc",
+            "Name": "VDC",
+            "Type": "float32",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": [0, 432],
+            "WarningRange": ""
+        },
+        {
+            "ID": "target_voltage",
+            "Name": "Target Voltage",
+            "Type": "float32",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": [0, 432],
+            "WarningRange": ""
+        },
+        {
+            "ID": "frequency",
+            "Name": "Frequency",
+            "Type": "float32",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": "",
+            "WarningRange": ""
+        },
+        {
+            "ID": "current_u_bpu_1_sector_1",
+            "Name": "current_u_bpu_1_sector_1",
+            "Type": "float32",
+            "PodUnits": "",
+            "DisplayUnits": "",
+            "SafeRange": [-100, 100],
+            "WarningRange": [-100, 100]
+        }
+    ]
+}
