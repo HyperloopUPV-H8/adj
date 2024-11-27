@@ -1,67 +1,67 @@
 {
-    "Measurements": [
+    "measurements": [
         {
-            "ID": "duty_cycle",
-            "Name": "Duty Cycle",
-            "Type": "float32",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": [0, 100],
-            "WarningRange": ""
+            "id": "duty_cycle",
+            "name": "Duty Cycle",
+            "type": "float32",
+            "podUnits": "",
+            "displayUnits": "",
+            "safeRange": [0, 100],
+            "warningRange": ""
         },
         {
-            "ID": "bpu_sector",
-            "Name": "BPU Sector",
-            "Type": "enum(1,2,BOTH)",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": "",
-            "WarningRange": ""
+            "id": "bpu_sector",
+            "name": "BPU Sector",
+            "type": "enum(1,2,BOTH)",
+            "nodUnits": "",
+            "displayUnits": "",
+            "safeRange": "",
+            "warningRange": ""
         },
         {
-            "ID": "motor_phase",
-            "Name": "Motor Phase (First PWM number)",
-            "Type": "enum(U,V,W)",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": "",
-            "WarningRange": ""
+            "id": "motor_phase",
+            "name": "Motor Phase (First PWM number)",
+            "type": "enum(U,V,W)",
+            "podUnits": "",
+            "displayUnits": "",
+            "safeRange": "",
+            "warningRange": ""
         },
         {
-            "ID": "vdc",
-            "Name": "VDC",
-            "Type": "float32",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": [0, 432],
-            "WarningRange": ""
+            "id": "vdc",
+            "name": "VDC",
+            "type": "float32",
+            "podUnits": "",
+            "displayUnits": "",
+            "safeRange": [0, 432],
+            "warningRange": ""
         },
         {
-            "ID": "target_voltage",
-            "Name": "Target Voltage",
-            "Type": "float32",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": [0, 432],
-            "WarningRange": ""
+            "id": "target_voltage",
+            "name": "Target Voltage",
+            "type": "float32",
+            "podUnits": "",
+            "displayUnits": "",
+            "safeRange": [0, 432],
+            "warningRange": ""
         },
         {
-            "ID": "frequency",
-            "Name": "Frequency",
-            "Type": "float32",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": "",
-            "WarningRange": ""
+            "id": "frequency",
+            "name": "Frequency",
+            "type": "float32",
+            "podUnits": "",
+            "displayUnits": "",
+            "safeRange": "",
+            "warningRange": ""
         },
         {
-            "ID": "current_u_bpu_1_sector_1",
-            "Name": "current_u_bpu_1_sector_1",
-            "Type": "float32",
-            "PodUnits": "",
-            "DisplayUnits": "",
-            "SafeRange": [-100, 100],
-            "WarningRange": [-100, 100]
+            "id": "current_u_bpu_1_sector_1",
+            "name": "current_u_bpu_1_sector_1",
+            "type": "float32",
+            "podUnits": "",
+            "displayUnits": "",
+            "safeRange": [-100, 100],
+            "warningRange": [-100, 100]
         }
     ]
 }
