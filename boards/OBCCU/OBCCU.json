@@ -2,7 +2,7 @@
     "board_id": "1",
     "board_ip`": "192.168.1.9",
     "measurements": "OBCCU_measurements.json",
-    "packets": [
-        "control_packets.json"
+    "files": [
+        "batteries.json","control.json","orders.json"
     ]
 }

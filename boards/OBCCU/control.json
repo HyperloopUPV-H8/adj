@@ -1,0 +1,64 @@
+{
+    "packets":[
+        {
+            "id": 921,
+            "name": "total_voltage",
+            "type": "DATA",
+            "variables": []
+        },
+        {
+            "id": 925,
+            "name": "OBCPU_measurements",
+            "type": "DATA",
+            "variables": [
+                { "name": "obcpu_input_current" },
+                { "name": "obcpu_input_voltage" },
+                { "name": "obcpu_output_current" },
+                { "name": "obcpu_output_voltage" }
+            ]
+        },
+        {
+            "id": 924,
+            "name": "measurements",
+            "type": "DATA",
+            "variables": [{ "name": "battery_current" }]
+        },
+        {
+            "id": 926,
+            "name": "Vehicle State",
+            "type": "DATA",
+            "variables": [
+            { "name": "contactors_state" },
+            { "name": "plug_state" },
+            { "name": "Board_state" }
+        ]
+        },
+        {
+            "id": 981,
+            "name": "output_vtg",
+            "type": "DATA",
+            "variables": [
+                { "name": "output_voltage" },
+                { "name": "driving_mosfets" }
+            ]
+        },
+        {
+            "id": 922,
+            "name": "IMD",
+            "type": "DATA",
+            "variables": [
+                { "name": "STATUS" },
+                { "name": "IMD_frequency" },
+                { "name": "IMD_duty" }
+            ]
+        },
+        {
+            "id": 999,
+            "name": "discharge_current",
+            "type": "DATA",
+            "variables": [{ "name":"discharge_current_obccu"}]
+        }
+      ]
+
+
+}
