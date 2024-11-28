@@ -15,7 +15,7 @@
         {"SNTP":"123"},
         {"TFTP":"69"}
     ],
-    "network_endpoints":[
+    "addresses":[
         {"HyperSwitch_0": "192.168.1.2"},
         {"HyperPi": ["192.168.1.1", "192.168.0.1"]},
         {"HyperRocket_0": "192.168.0.2"},
@@ -33,7 +33,7 @@
         {"HyperAP_1": "172.16.0.3"},
         {"HyperAP_2": "192.168.2.2"}
     ],
-    "unit_conversions":[
+    "units":[
         {"V": "1"},
         {"A": "1"},
         {"ºC": "+273.15"},
