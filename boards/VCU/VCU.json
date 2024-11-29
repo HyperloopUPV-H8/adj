@@ -3,6 +3,6 @@
     "board_ip`": "192.168.0.3",
     "measurements": "VCU_measurements.json",
     "files": [
-        "control_packets.json"
+        "orders.json","packets.json"
     ]
 }

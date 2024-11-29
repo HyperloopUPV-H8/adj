@@ -1,0 +1,108 @@
+{
+    "packets": [
+        {
+            "id": 211,
+            "name": "vcu_regulator_packet",
+            "type": "DATA",
+            "variables": [
+                { "name": "valve_state" },
+                { "name": "reference_pressure" }, 
+                { "name": "actual_pressure" }
+
+        ]
+        },
+        {
+            "id": 212,
+            "name": "vcu_reed_packet",
+            "type": "DATA",
+            "variables": [
+                { "name": "reed1" },
+                { "name": "reed2" },
+                { "name": "reed3" },
+                { "name": "reed4" }
+            ]
+        },
+        {
+            "id": 213,
+            "name": "vcu_bottle_temperature_packet",
+            "type": "DATA",
+            "variables": [
+                { "name": "bottle_temp_1" },
+                { "name": "bottle_temp_2" }
+            ]
+        },
+        {
+            "id": 214,
+            "name": "vcu_pressure_packet",
+            "type": "DATA",
+            "variables": [
+            { "name": "high_pressure" },
+            { "name": "low_pressure_1" },
+            { "name": "low_pressure_2" }
+            ]
+        },
+        {
+            "id": 219,
+            "name": "encoder_packet",
+            "type": "DATA",
+            "variables": [
+        { "name": "direction" },
+        { "name": "position" },
+        { "name": "speed" },
+        { "name": "acceleration" }
+    ]
+        },
+        {
+            "id": 220,
+            "name": "state_machines_packet",
+            "type": "DATA",
+            "variables":         [
+                { "name": "longest_update_ms" },
+                { "name": "general_state" },
+                { "name": "specific_state" },
+                { "name": "voltage_state" }
+            ]
+        },
+        {
+            "id": 221,
+            "name": "emergency_tape_state",
+            "type": "DATA",
+            "variables": [
+                { "name": "emergency_tape" },
+                { "name": "emergency_tape_value" }
+            ]
+        },
+        {
+            "id": 981,
+            "name": "output_vtg",
+            "type": "DATA",
+            "variables": [
+                { "name": "output_voltage" },
+                { "name": "driving_mosfets" }
+            ]
+
+        },
+        {
+            "id": 230,
+            "name": "Tcp_connections",
+            "type": "DATA",
+            "variables": 
+        [
+            { "name": "PCU_connection" },
+            { "name": "OBCCU_connection" },
+            { "name": "LCU_connection" },
+            { "name": "BMSL_connection" }
+        ]
+        },
+        {
+            "id": 231,
+            "name": "waterblock_data",
+            "type": "DATA",
+            "variables": 
+        [
+            { "name": "waterblock_temperature" },
+            { "name": "waterblock_pressure" }
+        ]
+        }
+    ]
+}
