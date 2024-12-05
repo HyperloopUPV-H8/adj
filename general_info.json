@@ -41,12 +41,12 @@
         {"mrad": "/1000"}
     ],
     "message_ids":[
-        {"info": "1"},
-        {"fault": "2"},
-        {"warning": "3"},
-        {"blcu_ack": "4"},
-        {"add_state_orders": "5"},
-        {"remove_state_orders": "6"},
-        {"state_space": "7"}
+        {"info": 1},
+        {"fault": 2},
+        {"warning": 3},
+        {"blcu_ack": 4},
+        {"add_state_orders": 5},
+        {"remove_state_orders": 6},
+        {"state_space": 7}
     ]
 }
