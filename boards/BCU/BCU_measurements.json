@@ -6,8 +6,8 @@
             "type": "float32",
             "podUnits": "",
             "displayUnits": "",
-            "safeRange": [0, 100],
-            "warningRange": ""
+            "safeRange": [0, 100]
+            
         },
         {
             "id": "bpu_sector",
@@ -15,8 +15,8 @@
             "type": "enum(1,2,BOTH)",
             "nodUnits": "",
             "displayUnits": "",
-            "safeRange": "",
-            "warningRange": ""
+            "safeRange": ""
+            
         },
         {
             "id": "motor_phase",
@@ -24,8 +24,8 @@
             "type": "enum(U,V,W)",
             "podUnits": "",
             "displayUnits": "",
-            "safeRange": "",
-            "warningRange": ""
+            "safeRange": ""
+            
         },
         {
             "id": "vdc",
@@ -33,8 +33,8 @@
             "type": "float32",
             "podUnits": "",
             "displayUnits": "",
-            "safeRange": [0, 432],
-            "warningRange": ""
+            "safeRange": [0, 432]
+            
         },
         {
             "id": "target_voltage",
@@ -42,8 +42,8 @@
             "type": "float32",
             "podUnits": "",
             "displayUnits": "",
-            "safeRange": [0, 432],
-            "warningRange": ""
+            "safeRange": [0, 432]
+            
         },
         {
             "id": "frequency",
@@ -51,8 +51,8 @@
             "type": "float32",
             "podUnits": "",
             "displayUnits": "",
-            "safeRange": "",
-            "warningRange": ""
+            "safeRange": ""
+            
         },
         {
             "id": "current_u_bpu_1_sector_1",
@@ -61,7 +61,7 @@
             "podUnits": "",
             "displayUnits": "",
             "safeRange": [-100, 100],
-            "warningRange": [-100, 100]
+            "warningRange":[-100, 100]
         }
     ]
 }
