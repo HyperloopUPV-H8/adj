@@ -1,13 +1,13 @@
 {
     "packets":[
         {
-            "id": 921,
+            "id": "921",
             "name": "total_voltage",
             "type": "DATA",
             "variables": []
         },
         {
-            "id": 925,
+            "id": "925",
             "name": "OBCPU_measurements",
             "type": "DATA",
             "variables": [
@@ -18,13 +18,13 @@
             ]
         },
         {
-            "id": 924,
+            "id": "924",
             "name": "measurements",
             "type": "DATA",
             "variables": [{ "name": "battery_current" }]
         },
         {
-            "id": 926,
+            "id": "926",
             "name": "Vehicle State",
             "type": "DATA",
             "variables": [
@@ -34,7 +34,7 @@
         ]
         },
         {
-            "id": 981,
+            "id": "981",
             "name": "output_vtg",
             "type": "DATA",
             "variables": [
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": 922,
+            "id": "922",
             "name": "IMD",
             "type": "DATA",
             "variables": [
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "id": 999,
+            "id": "999",
             "name": "discharge_current",
             "type": "DATA",
             "variables": [{ "name":"discharge_current_obccu"}]
