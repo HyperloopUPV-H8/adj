@@ -14,8 +14,8 @@
             "name": "BPU Sector",
             "type": "enum(1,2,BOTH)",
             "nodUnits": "",
-            "displayUnits": "",
-            "safeRange": ""
+            "displayUnits": ""
+            
             
         },
         {
@@ -23,8 +23,8 @@
             "name": "Motor Phase (First PWM number)",
             "type": "enum(U,V,W)",
             "podUnits": "",
-            "displayUnits": "",
-            "safeRange": ""
+            "displayUnits": ""
+            
             
         },
         {
@@ -50,8 +50,8 @@
             "name": "Frequency",
             "type": "float32",
             "podUnits": "",
-            "displayUnits": "",
-            "safeRange": ""
+            "displayUnits": ""
+            
             
         },
         {
