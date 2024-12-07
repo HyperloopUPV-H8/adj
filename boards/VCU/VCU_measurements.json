@@ -6,7 +6,7 @@
             "type": "float32",
             "podUnits": "bar",
             "displayUnits": "bar",
-            "saferange": [0, 10],
+            "safeRange": [0, 10],
             "warningRange": [0, 10]
         },
         {
@@ -15,7 +15,7 @@
             "type": "float32",
             "podUnits": "bar",
             "displayUnits": "bar",
-            "saferange": [0, 10],
+            "safeRange": [0, 10],
             "warningRange": [0, 10]
         },
         {
@@ -24,7 +24,7 @@
             "type": "float32",
             "podUnits": "bar",
             "displayUnits": "bar",
-            "saferange": [0, 10],
+            "safeRange": [0, 10],
             "warningRange": [0, 10]
         },
         {
@@ -59,7 +59,7 @@
             "type": "float32",
             "podUnits": "bar",
             "displayUnits": "bar",
-            "saferange": [40, 200],
+            "safeRange": [40, 200],
             "warningRange": [0, 200]
         },
         {
@@ -87,7 +87,7 @@
             "type": "float64",
             "podUnits": "m",
             "displayUnits": "m",
-            "saferange": [0, 40],
+            "safeRange": [0, 40],
             "warningRange": [0, 50]
         },
         {
@@ -96,7 +96,7 @@
             "type": "float64",
             "podUnits": "m/s",
             "displayUnits": "m/s",
-            "saferange": [0, 8.33],
+            "safeRange": [0, 8.33],
             "warningRange": [0, 13.88]
         },
         {
@@ -105,7 +105,7 @@
             "type": "float64",
             "podUnits": "m/ss",
             "displayUnits": "m/ss",
-            "saferange": [0, 9.8],
+            "safeRange": [0, 9.8],
             "warningRange": [0, 19.6]
         },
         {
@@ -160,7 +160,7 @@
             "id": "ldu_id",
             "name": "LDU Id",
             "type": "uint16",
-            "saferange": [1, 10],
+            "safeRange": [1, 10],
             "warningRange": [1, 10]
         },
         {
@@ -176,7 +176,7 @@
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
-            "saferange": [222, 252],
+            "safeRange": [222, 252],
             "warningRange": [0, 252]
         },
         {
@@ -190,7 +190,7 @@
             "id": "ldu_buffer_id",
             "name": "LDU Buffer ID",
             "type": "uint16",
-            "saferange": [1, 5],
+            "safeRange": [1, 5],
             "warningRange": [1, 5]
         },
         {
@@ -204,21 +204,21 @@
             "id": "output_voltage",
             "name": "output_voltage",
             "type": "uint16",
-            "saferange": [192, 252],
+            "safeRange": [192, 252],
             "warningRange": [0, 252]
         },
         {
             "id": "test_duty_target",
             "name": "test_duty_target",
             "type": "float32",
-            "saferange": [0, 100],
+            "safeRange": [0, 100],
             "warningRange": [0, 100]
         },
         {
             "id": "test_duty_phase",
             "name": "test_duty_phase",
             "type": "uint16",
-            "saferange": [0, 2],
+            "safeRange": [0, 2],
             "warningRange": [0, 2]
         },
         {
@@ -227,7 +227,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "saferange": [0, 1000]
+            "safeRange": [0, 1000]
         },
         {
             "id": "test_current_control_target_curr",
@@ -235,7 +235,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "saferange": [-220, 220]
+            "safeRange": [-220, 220]
         },
         {
             "id": "test_current_control_vdc",
@@ -243,13 +243,13 @@
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
-            "saferange": [0, 252]
+            "safeRange": [0, 252]
         },
         {
             "id": "test_svpwm_freq",
             "name": "Frequency",
             "type": "float32",
-            "saferange": [0, 100]
+            "safeRange": [0, 100]
         },
         {
             "id": "test_svpwm_vdc",
@@ -257,7 +257,7 @@
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
-            "saferange": [0, 252]
+            "safeRange": [0, 252]
         },
         {
             "id": "test_svpwm_target_voltage",
@@ -265,7 +265,7 @@
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
-            "saferange": [0, 252]
+            "safeRange": [0, 252]
         },
         {
             "id": "test_svpwm_direction",
@@ -375,7 +375,7 @@
             "type": "float64",
             "podUnits": "m",
             "displayUnits": "m",
-            "saferange": [1, 36]
+            "safeRange": [1, 36]
         }
     ]
 }

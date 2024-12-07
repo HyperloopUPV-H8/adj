@@ -6,7 +6,7 @@
             "id": "ldu_id",
             "name": "LDU Id",
             "type": "uint16",
-            "safe_range": [1, 10],
+            "safeRange": [1, 10],
             "warningRange": [1, 10]
         },
         {
@@ -34,7 +34,7 @@
             "id": "ldu_buffer_id",
             "name": "LDU Buffer ID",
             "type": "uint16",
-            "safe_range": [1, 5],
+            "safeRange": [1, 5],
             "warningRange": [1, 5]
         },
         {
@@ -43,7 +43,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -52,7 +52,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -61,7 +61,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -70,7 +70,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -79,7 +79,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -88,7 +88,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -97,7 +97,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -106,7 +106,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -115,7 +115,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -124,7 +124,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 60],
+            "safeRange": [0, 60],
             "warningRange": [-10, 90]
         },
         {
@@ -133,7 +133,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -142,7 +142,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -151,7 +151,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -160,7 +160,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -169,7 +169,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -178,7 +178,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -187,7 +187,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -196,7 +196,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -205,7 +205,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -214,7 +214,7 @@
             "type": "float32",
             "podUnits": "ºC",
             "displayUnits": "ºC",
-            "safe_range": [0, 55],
+            "safeRange": [0, 55],
             "warningRange": [-10, 70]
         },
         {
@@ -223,7 +223,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -232,7 +232,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -241,7 +241,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -250,7 +250,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -259,7 +259,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -268,7 +268,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -277,7 +277,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -286,7 +286,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -295,7 +295,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -304,7 +304,7 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safe_range": [-25, 25],
+            "safeRange": [-25, 25],
             "warningRange": [-55, 55]
         },
         {
@@ -447,7 +447,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -456,7 +456,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -465,7 +465,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -474,7 +474,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -483,7 +483,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -492,7 +492,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -501,7 +501,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -510,7 +510,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm",
-            "safe_range": [0, 50],
+            "safeRange": [0, 50],
             "warningRange": [0, 50]
         },
         {
@@ -632,7 +632,7 @@
             "type": "uint32",
             "podUnits": "Hz",
             "displayUnits": "Hz",
-            "safe_range": [1800, 2100]
+            "safeRange": [1800, 2100]
         },
         {
             "id": "levitation_control_frequency",
@@ -640,7 +640,7 @@
             "type": "uint32",
             "podUnits": "Hz",
             "displayUnits": "Hz",
-            "safe_range": [990, 1010]
+            "safeRange": [990, 1010]
         },
         {
             "id": "general_state",

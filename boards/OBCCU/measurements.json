@@ -7,7 +7,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.95, 4],
+        "safeRange": [3.95, 4],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -16,7 +16,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -25,7 +25,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -34,7 +34,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -43,7 +43,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -52,7 +52,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -61,7 +61,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -70,7 +70,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -79,7 +79,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -88,7 +88,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -97,7 +97,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -106,7 +106,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -115,7 +115,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -124,7 +124,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -133,7 +133,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -142,7 +142,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -151,7 +151,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -160,7 +160,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -169,7 +169,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -178,7 +178,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -187,7 +187,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -196,7 +196,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -205,7 +205,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -214,7 +214,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -223,7 +223,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -232,7 +232,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -241,7 +241,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -250,7 +250,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -259,7 +259,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -268,7 +268,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -277,7 +277,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -286,7 +286,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -295,7 +295,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -304,7 +304,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -313,7 +313,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -322,7 +322,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -331,7 +331,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -340,7 +340,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -349,7 +349,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -358,7 +358,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -367,7 +367,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -376,7 +376,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -385,7 +385,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -394,7 +394,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -403,7 +403,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -412,7 +412,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -421,7 +421,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -430,7 +430,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -439,7 +439,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -448,7 +448,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -457,7 +457,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -466,7 +466,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -475,7 +475,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -484,7 +484,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -493,7 +493,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -502,7 +502,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -511,7 +511,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -520,7 +520,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -529,7 +529,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     },
     {
@@ -538,7 +538,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.77, 4.15],
+        "safeRange": [3.77, 4.15],
         "warningRange": [3.7, 4.3]
     }
     ,
@@ -548,7 +548,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -557,7 +557,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -566,7 +566,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -575,7 +575,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -584,7 +584,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -593,7 +593,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -602,7 +602,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -611,7 +611,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -620,7 +620,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -629,7 +629,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [5, 55],
+        "safeRange": [5, 55],
         "warningRange": [0, 60]
     },
     {
@@ -638,7 +638,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -647,7 +647,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -656,7 +656,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -665,7 +665,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -674,7 +674,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -683,7 +683,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -692,7 +692,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -701,7 +701,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -710,7 +710,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -719,7 +719,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -728,7 +728,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -737,7 +737,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -746,7 +746,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -755,7 +755,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -764,7 +764,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -773,7 +773,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -782,7 +782,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -791,7 +791,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -800,7 +800,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -809,7 +809,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [3.7, 4.3],
+        "safeRange": [3.7, 4.3],
         "warningRange": [3, 4.3]
     },
     {
@@ -818,7 +818,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     }
     ,
@@ -828,7 +828,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -837,7 +837,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -846,7 +846,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -855,7 +855,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -864,7 +864,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -873,7 +873,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -882,7 +882,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -891,7 +891,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -900,7 +900,7 @@
         "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "saferange": [30, 100],
+        "safeRange": [30, 100],
         "warningRange": [10, 100]
     },
     {
@@ -959,7 +959,7 @@
         "type": "float64",
         "podUnits": "A",
         "displayUnits": "A",
-        "saferange": [0, 160],
+        "safeRange": [0, 160],
         "warningRange": [0, 329]
     },
     {
@@ -996,7 +996,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1005,7 +1005,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1014,7 +1014,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1023,7 +1023,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1032,238 +1032,238 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
         "id": "cell_balancing_1",
         "name": "Cell balancing 1",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_2",
         "name": "Cell balancing 2",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_3",
         "name": "Cell balancing 3",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_4",
         "name": "Cell balancing 4",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_5",
         "name": "Cell balancing 5",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_6",
         "name": "Cell balancing 6",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_7",
         "name": "Cell balancing 7",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_8",
         "name": "Cell balancing 8",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_9",
         "name": "Cell balancing 9",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_10",
         "name": "Cell balancing 10",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_11",
         "name": "Cell balancing 11",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_12",
         "name": "Cell balancing 12",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_13",
         "name": "Cell balancing 13",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_14",
         "name": "Cell balancing 14",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_15",
         "name": "Cell balancing 15",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_16",
         "name": "Cell balancing 16",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_17",
         "name": "Cell balancing 17",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_18",
         "name": "Cell balancing 18",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_19",
         "name": "Cell balancing 19",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_20",
         "name": "Cell balancing 20",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_21",
         "name": "Cell balancing 21",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_22",
         "name": "Cell balancing 22",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_23",
         "name": "Cell balancing 23",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_24",
         "name": "Cell balancing 24",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_25",
         "name": "Cell balancing 25",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_26",
         "name": "Cell balancing 26",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_27",
         "name": "Cell balancing 27",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_28",
         "name": "Cell balancing 28",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_29",
         "name": "Cell balancing 29",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_30",
         "name": "Cell balancing 30",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_31",
         "name": "Cell balancing 31",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_32",
         "name": "Cell balancing 32",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_33",
         "name": "Cell balancing 33",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     }
     ,
@@ -1271,189 +1271,189 @@
         "id": "cell_balancing_34",
         "name": "Cell balancing 34",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_35",
         "name": "Cell balancing 35",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_36",
         "name": "Cell balancing 36",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_37",
         "name": "Cell balancing 37",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_38",
         "name": "Cell balancing 38",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_39",
         "name": "Cell balancing 39",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_40",
         "name": "Cell balancing 40",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_41",
         "name": "Cell balancing 41",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_42",
         "name": "Cell balancing 42",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_43",
         "name": "Cell balancing 43",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_44",
         "name": "Cell balancing 44",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_45",
         "name": "Cell balancing 45",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_46",
         "name": "Cell balancing 46",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_47",
         "name": "Cell balancing 47",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_48",
         "name": "Cell balancing 48",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_49",
         "name": "Cell balancing 49",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_50",
         "name": "Cell balancing 50",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_51",
         "name": "Cell balancing 51",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_52",
         "name": "Cell balancing 52",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_53",
         "name": "Cell balancing 53",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_54",
         "name": "Cell balancing 54",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_55",
         "name": "Cell balancing 55",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_56",
         "name": "Cell balancing 56",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_57",
         "name": "Cell balancing 57",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_58",
         "name": "Cell balancing 58",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_59",
         "name": "Cell balancing 59",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_60",
         "name": "Cell balancing 60",
         "type": "bool",
-        "saferange": [1, 30],
+        "safeRange": [1, 30],
         "warningRange": [1, 30]
     },
     {
@@ -1462,7 +1462,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1471,7 +1471,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1480,7 +1480,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1489,7 +1489,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     }
     ,
@@ -1499,7 +1499,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1508,7 +1508,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1517,7 +1517,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1526,7 +1526,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1535,7 +1535,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1544,7 +1544,7 @@
         "type": "float32",
         "podUnits": "°C",
         "displayUnits": "°C",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1553,7 +1553,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [10, 50],
+        "safeRange": [10, 50],
         "warningRange": [0, 60]
     },
     {
@@ -1581,7 +1581,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1590,7 +1590,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1599,7 +1599,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1608,7 +1608,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1617,7 +1617,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1626,7 +1626,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1635,7 +1635,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1644,7 +1644,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1653,7 +1653,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1662,7 +1662,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [22.2, 25.8],
+        "safeRange": [22.2, 25.8],
         "warningRange": [18, 25.8]
     },
     {
@@ -1671,7 +1671,7 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "saferange": [222, 252],
+        "safeRange": [222, 252],
         "warningRange": [180, 252]
     },
     {
