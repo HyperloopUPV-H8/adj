@@ -3,13 +3,13 @@
         {
             "id": "921",
             "name": "total_voltage",
-            "type": "DATA",
+            "type": "data",
             "variables": []
         },
         {
             "id": "925",
             "name": "OBCPU_measurements",
-            "type": "DATA",
+            "type": "data",
             "variables": [
                 { "name": "obcpu_input_current" },
                 { "name": "obcpu_input_voltage" },
@@ -20,13 +20,13 @@
         {
             "id": "924",
             "name": "measurements",
-            "type": "DATA",
+            "type": "data",
             "variables": [{ "name": "battery_current" }]
         },
         {
             "id": "926",
             "name": "Vehicle State",
-            "type": "DATA",
+            "type": "data",
             "variables": [
             { "name": "contactors_state" },
             { "name": "plug_state" },
@@ -36,7 +36,7 @@
         {
             "id": "981",
             "name": "output_vtg",
-            "type": "DATA",
+            "type": "data",
             "variables": [
                 { "name": "output_voltage" },
                 { "name": "driving_mosfets" }
@@ -45,7 +45,7 @@
         {
             "id": "922",
             "name": "IMD",
-            "type": "DATA",
+            "type": "data",
             "variables": [
                 { "name": "STATUS" },
                 { "name": "IMD_frequency" },
@@ -55,7 +55,7 @@
         {
             "id": "999",
             "name": "discharge_current",
-            "type": "DATA",
+            "type": "data",
             "variables": [{ "name":"discharge_current_obccu"}]
         }
       ]

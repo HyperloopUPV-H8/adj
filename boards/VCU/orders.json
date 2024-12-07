@@ -3,49 +3,49 @@
         {
             "id": "0",
             "name": "propagate fault",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "900",
             "name": "start charging (obccu)",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "901",
             "name": "stop charging (obccu)",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "902",
             "name": "open contactors (obccu)",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "903",
             "name": "close contactors (obccu)",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "215",
             "name": "brake",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "216",
             "name": "unbrake",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "210",
             "name": "set regulator pressure",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "new_reference_pressure"
@@ -55,25 +55,25 @@
         {
             "id": "217",
             "name": "disable emergency tape",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "218",
             "name": "enable emergency tape",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "223",
             "name": "reset vcu",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "350",
             "name": "test pwm",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "ldu_id"
@@ -86,7 +86,7 @@
         {
             "id": "352",
             "name": "test current control",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "ldu_id"
@@ -99,7 +99,7 @@
         {
             "id": "353",
             "name": "set reset on",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "ldu_buffer_id"
@@ -109,7 +109,7 @@
         {
             "id": "354",
             "name": "set reset off",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "ldu_buffer_id"
@@ -119,7 +119,7 @@
         {
             "id": "355",
             "name": "start levitation control",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "lcu_desired_distance"
@@ -129,7 +129,7 @@
         {
             "id": "356",
             "name": "start vertical levitation",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "lcu_desired_distance"
@@ -139,97 +139,97 @@
         {
             "id": "357",
             "name": "stop levitation",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "358",
             "name": "stick down",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "359",
             "name": "landing",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "360",
             "name": "start horizontal levitation",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "361",
             "name": "enter testing mode",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "362",
             "name": "exit testing mode",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "611",
             "name": "manual_zeroing",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "363",
             "name": "set_stable_levitation_on",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "364",
             "name": "set_stable_levitation_off",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "290",
             "name": "set_rgb_color",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "291",
             "name": "turn_on_party",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "292",
             "name": "turn_off_party",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "293",
             "name": "turn_on_pump",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "294",
             "name": "turn_off_pump",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "368",
             "name": "discharge_dclink",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "645",
             "name": "change_position_references",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "lower_position_limit"
@@ -242,13 +242,13 @@
         {
             "id": "625",
             "name": "start_vf_control",
-            "type": "ORDER",
+            "type": "order",
             "variables": []
         },
         {
             "id": "646",
             "name": "CRUISING DEMONSTRATION",
-            "type": "ORDER",
+            "type": "order",
             "variables": [
                 {
                     "name": "target_test_speed_control_kmh"
