@@ -1,7 +1,7 @@
 {
     "packets":[ 
     {
-        "id": 316,
+        "id": "316",
         "name": "levitation_control_data",
         "type": "DATA",
         "variables": [
@@ -36,7 +36,7 @@
     },
     {
 
-        "id": 315,
+        "id": "315",
         "name": "lcu_data",
         "type": "DATA",
         "variables":  [
