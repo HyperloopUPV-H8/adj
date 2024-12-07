@@ -1,9 +1,9 @@
 {
     "packets":[ 
     {
-        "id": 316,
+        "id": "316",
         "name": "levitation_control_data",
-        "type": "DATA",
+        "type": "data",
         "variables": [
             {"name": "current_control_frequency"},
             {"name": "levitation_control_frequency"},
@@ -36,9 +36,9 @@
     },
     {
 
-        "id": 315,
+        "id": "315",
         "name": "lcu_data",
-        "type": "DATA",
+        "type": "data",
         "variables":  [
         {"name": "general_state"},
         {"name": "slave_state"},

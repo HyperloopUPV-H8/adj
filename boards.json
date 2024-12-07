@@ -1,11 +1,8 @@
 {
-  "boards": [
-    {"BCU":"./boards/BCU/BCU.json"},
-    {"BLCU":"./boards/BLCU/BLCU.json"},
-    {"BMSL":"./boards/BMSL/BMSL.json"},
-    {"LCU":"./boards/LCU/LCU.json"},
-    {"OBCCU":"./boards/OBCCU/OBCCU.json"},
-    {"PCU":"./boards/PCU/PCU.json"},
-    {"VCU":"./boards/VCU/VCU.json"}
-  ]
+  "boards": {
+    "BCU":"boards/BCU/BCU.json",
+    "LCU":"boards/LCU/LCU.json",
+    "OBCCU":"boards/OBCCU/OBCCU.json",
+    "VCU":"boards/VCU/VCU.json"
+  }
 }

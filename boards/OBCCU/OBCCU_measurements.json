@@ -5,903 +5,903 @@
         "id": "cell1",
         "name": "Cell 1",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.95, 4],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.95, 4],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell2",
         "name": "Cell 2",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell3",
         "name": "Cell 3",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell4",
         "name": "Cell 4",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell5",
         "name": "Cell 5",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell6",
         "name": "Cell 6",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell7",
         "name": "Cell 7",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell8",
         "name": "Cell 8",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell9",
         "name": "Cell 9",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell10",
         "name": "Cell 10",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell11",
         "name": "Cell 11",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell12",
         "name": "Cell 12",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell13",
         "name": "Cell 13",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell14",
         "name": "Cell 14",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell15",
         "name": "Cell 15",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell16",
         "name": "Cell 16",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell17",
         "name": "Cell 17",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell18",
         "name": "Cell 18",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell19",
         "name": "Cell 19",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell20",
         "name": "Cell 20",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell21",
         "name": "Cell 21",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell22",
         "name": "Cell 22",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell23",
         "name": "Cell 23",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell24",
         "name": "Cell 24",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell25",
         "name": "Cell 25",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell26",
         "name": "Cell 26",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell27",
         "name": "Cell 27",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell28",
         "name": "Cell 28",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell29",
         "name": "Cell 29",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell30",
         "name": "Cell 30",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell31",
         "name": "Cell 31",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell32",
         "name": "Cell 32",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell33",
         "name": "Cell 33",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell34",
         "name": "Cell 34",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell35",
         "name": "Cell 35",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell36",
         "name": "Cell 36",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell37",
         "name": "Cell 37",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell38",
         "name": "Cell 38",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell39",
         "name": "Cell 39",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell40",
         "name": "Cell 40",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell41",
         "name": "Cell 41",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell42",
         "name": "Cell 42",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell43",
         "name": "Cell 43",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell44",
         "name": "Cell 44",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell45",
         "name": "Cell 45",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell46",
         "name": "Cell 46",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell47",
         "name": "Cell 47",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell48",
         "name": "Cell 48",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell49",
         "name": "Cell 49",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell50",
         "name": "Cell 50",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell51",
         "name": "Cell 51",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell52",
         "name": "Cell 52",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell53",
         "name": "Cell 53",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell54",
         "name": "Cell 54",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell55",
         "name": "Cell 55",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell56",
         "name": "Cell 56",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell57",
         "name": "Cell 57",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell58",
         "name": "Cell 58",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell59",
         "name": "Cell 59",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     },
     {
         "id": "cell60",
         "name": "Cell 60",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.77, 4.15],
-        "warningrange": [3.7, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.77, 4.15],
+        "warningRange": [3.7, 4.3]
     }
     ,
     {
         "id": "battery_temperature_1",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_2",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_3",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_4",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_5",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_6",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_7",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_8",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_9",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "battery_temperature_10",
         "name": "Battery Temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [5, 55],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [5, 55],
+        "warningRange": [0, 60]
     },
     {
         "id": "maximum_cell_1",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_2",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_3",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_4",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_5",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_6",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_7",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_8",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_9",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "maximum_cell_10",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_1",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_2",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_3",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_4",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_5",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_6",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_7",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_8",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_9",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "minimum_cell_10",
         "name": "Minimum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [3.7, 4.3],
-        "warningrange": [3, 4.3]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [3.7, 4.3],
+        "warningRange": [3, 4.3]
     },
     {
         "id": "SOC1",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     }
     ,
     {
         "id": "SOC2",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC3",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC4",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC5",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC6",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC7",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC8",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC9",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "SOC10",
         "name": "SOC",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%",
-        "saferange": [30, 100],
-        "warningrange": [10, 100]
+        "podUnits": "%",
+        "displayUnits": "%",
+        "safeRange": [30, 100],
+        "warningRange": [10, 100]
     },
     {
         "id": "is_balancing1",
@@ -957,618 +957,618 @@
         "id": "discharge_current_obccu",
         "name": "Discharge current",
         "type": "float64",
-        "podunits": "A",
-        "displayunits": "A",
-        "saferange": [0, 160],
-        "warningrange": [0, 329]
+        "podUnits": "A",
+        "displayUnits": "A",
+        "safeRange": [0, 160],
+        "warningRange": [0, 329]
     },
     {
         "id": "capacitor_temperature",
         "name": "Capacitor temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C"
+        "podUnits": "°C",
+        "displayUnits": "°C"
     },
     {
         "id": "inverter_temperature",
         "name": "Inverter temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C"
+        "podUnits": "°C",
+        "displayUnits": "°C"
     },
     {
         "id": "rectifier_temperature",
         "name": "Rectifier temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C"
+        "podUnits": "°C",
+        "displayUnits": "°C"
     },
     {
         "id": "transformer_temperature",
         "name": "Transformer temperature",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C"
+        "podUnits": "°C",
+        "displayUnits": "°C"
     },
     {
         "id": "adc_temperature_1",
         "name": "ADC Temperature 1",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "adc_temperature_2",
         "name": "ADC Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "adc_temperature_3",
         "name": "ADC Temperature 3",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "adc_temperature_4",
         "name": "ADC Temperature 4",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "adc_temperature_5",
         "name": "ADC Temperature 5",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "cell_balancing_1",
         "name": "Cell balancing 1",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_2",
         "name": "Cell balancing 2",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_3",
         "name": "Cell balancing 3",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_4",
         "name": "Cell balancing 4",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_5",
         "name": "Cell balancing 5",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_6",
         "name": "Cell balancing 6",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_7",
         "name": "Cell balancing 7",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_8",
         "name": "Cell balancing 8",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_9",
         "name": "Cell balancing 9",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_10",
         "name": "Cell balancing 10",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_11",
         "name": "Cell balancing 11",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_12",
         "name": "Cell balancing 12",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_13",
         "name": "Cell balancing 13",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_14",
         "name": "Cell balancing 14",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_15",
         "name": "Cell balancing 15",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_16",
         "name": "Cell balancing 16",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_17",
         "name": "Cell balancing 17",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_18",
         "name": "Cell balancing 18",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_19",
         "name": "Cell balancing 19",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_20",
         "name": "Cell balancing 20",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_21",
         "name": "Cell balancing 21",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_22",
         "name": "Cell balancing 22",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_23",
         "name": "Cell balancing 23",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_24",
         "name": "Cell balancing 24",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_25",
         "name": "Cell balancing 25",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_26",
         "name": "Cell balancing 26",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_27",
         "name": "Cell balancing 27",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_28",
         "name": "Cell balancing 28",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_29",
         "name": "Cell balancing 29",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_30",
         "name": "Cell balancing 30",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_31",
         "name": "Cell balancing 31",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_32",
         "name": "Cell balancing 32",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_33",
         "name": "Cell balancing 33",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     }
     ,
     {
         "id": "cell_balancing_34",
         "name": "Cell balancing 34",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_35",
         "name": "Cell balancing 35",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_36",
         "name": "Cell balancing 36",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_37",
         "name": "Cell balancing 37",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_38",
         "name": "Cell balancing 38",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_39",
         "name": "Cell balancing 39",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_40",
         "name": "Cell balancing 40",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_41",
         "name": "Cell balancing 41",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_42",
         "name": "Cell balancing 42",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_43",
         "name": "Cell balancing 43",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_44",
         "name": "Cell balancing 44",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_45",
         "name": "Cell balancing 45",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_46",
         "name": "Cell balancing 46",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_47",
         "name": "Cell balancing 47",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_48",
         "name": "Cell balancing 48",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_49",
         "name": "Cell balancing 49",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_50",
         "name": "Cell balancing 50",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_51",
         "name": "Cell balancing 51",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_52",
         "name": "Cell balancing 52",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_53",
         "name": "Cell balancing 53",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_54",
         "name": "Cell balancing 54",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_55",
         "name": "Cell balancing 55",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_56",
         "name": "Cell balancing 56",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_57",
         "name": "Cell balancing 57",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_58",
         "name": "Cell balancing 58",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_59",
         "name": "Cell balancing 59",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "cell_balancing_60",
         "name": "Cell balancing 60",
         "type": "bool",
-        "saferange": [1, 30],
-        "warningrange": [1, 30]
+        "safeRange": [1, 30],
+        "warningRange": [1, 30]
     },
     {
         "id": "2battery_temperature_1",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_2",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_3",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_4",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     }
     ,
     {
         "id": "2battery_temperature_5",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_6",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_7",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_8",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_9",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "2battery_temperature_10",
         "name": "Battery Temperature 2",
         "type": "float32",
-        "podunits": "°C",
-        "displayunits": "°C",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "°C",
+        "displayUnits": "°C",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "maximum_cell_1",
         "name": "Maximum cell",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [10, 50],
-        "warningrange": [0, 60]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [10, 50],
+        "warningRange": [0, 60]
     },
     {
         "id": "IMD_duty",
         "name": "Duty Cycle",
         "type": "float32",
-        "podunits": "%",
-        "displayunits": "%"
+        "podUnits": "%",
+        "displayUnits": "%"
     },
     {
         "id": "IMD_frequency",
         "name": "Frequency",
         "type": "float32",
-        "podunits": "Hz",
-        "displayunits": "Hz"
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
     },
     {
         "id": "IMD_OK",
@@ -1579,100 +1579,100 @@
         "id": "total_voltage1",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage2",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage3",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage4",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage5",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage6",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage7",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage8",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage9",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage10",
         "name": "Battery Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [22.2, 25.8],
-        "warningrange": [18, 25.8]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [22.2, 25.8],
+        "warningRange": [18, 25.8]
     },
     {
         "id": "total_voltage_high",
         "name": "Total Voltage",
         "type": "float32",
-        "podunits": "V",
-        "displayunits": "V",
-        "saferange": [222, 252],
-        "warningrange": [180, 252]
+        "podUnits": "V",
+        "displayUnits": "V",
+        "safeRange": [222, 252],
+        "warningRange": [180, 252]
     },
     {
         "id": "drift",
@@ -1718,13 +1718,13 @@
         "id": "contactors_state",
         "name": "Contactors",
         "type": "enum",
-        "values": ["OPEN", "PRECHARGE", "CLOSED"]
+        "enumValues": ["OPEN", "PRECHARGE", "CLOSED"]
     },
     {
         "id": "plug_state",
         "name": "Plug",
         "type": "enum",
-        "values": ["CONNECTED", "DISCONNECTED"]
+        "enumValues": ["CONNECTED", "DISCONNECTED"]
     },
     {
         "id": "driving_mosfets",
@@ -1740,13 +1740,13 @@
         "id": "STATUS",
         "name": "Isolation State",
         "type": "enum",
-        "values": ["DEVICE_ERROR", "ISOLATED", "UNKNOWN", "DRIFT", "EARTH_FAULT", "SHORT_CIRCUIT"]
+        "enumValues": ["DEVICE_ERROR", "ISOLATED", "UNKNOWN", "DRIFT", "EARTH_FAULT", "SHORT_CIRCUIT"]
     },
     {
         "id": "Board_state",
         "name": "Board State",
         "type": "enum",
-        "values": ["CONNECTING", "OPERATIONAL", "IDLE", "POD_RUN", "CHARGING", "FAULT"]
+        "enumValues": ["CONNECTING", "OPERATIONAL", "IDLE", "POD_RUN", "CHARGING", "FAULT"]
     }
     
     ]
