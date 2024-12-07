@@ -646,13 +646,13 @@
             "id": "general_state",
             "name": "master state",
             "type": "enum",
-            "enum_values": ["DEFINING", "CONNECTING", "OPERATIONAL", "FAULT"]
+            "enumValues": ["DEFINING", "CONNECTING", "OPERATIONAL", "FAULT"]
         },
         {
             "id": "slave_state",
             "name": "slave state",
             "type": "enum",
-            "enum_values": ["DEFINING", "CONNECTING", "OPERATIONAL", "FAULT"]
+            "enumValues": ["DEFINING", "CONNECTING", "OPERATIONAL", "FAULT"]
         },
         {
             "id": "lcu_coil_current_ref_1",

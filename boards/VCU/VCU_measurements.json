@@ -31,13 +31,13 @@
             "id": "valve_state",
             "name": "Valve State",
             "type": "enum",
-            "values": ["VALVE_OPEN", "VALVE_CLOSED"]
+            "enumValues": ["VALVE_OPEN", "VALVE_CLOSED"]
         },
         {
             "id": "reed_state",
             "name": "Reed State",
             "type": "enum",
-            "values": ["OFF", "ON"]
+            "enumValues": ["OFF", "ON"]
         },
         {
             "id": "bottle_temp_1",
@@ -112,49 +112,49 @@
             "id": "general_state",
             "name": "General State",
             "type": "enum",
-            "values": ["CONNECTING", "OPERATIONAL", "FAULT"]
+            "enumValues": ["CONNECTING", "OPERATIONAL", "FAULT"]
         },
         {
             "id": "specific_state",
             "name": "Specific State",
             "type": "enum",
-            "values": ["IDLE", "TAKING OFF", "STABLE LEVITATION", "PROPULSION", "LANDING", "UNLOADING", "LOADING", "TRACTION"]
+            "enumValues": ["IDLE", "TAKING OFF", "STABLE LEVITATION", "PROPULSION", "LANDING", "UNLOADING", "LOADING", "TRACTION"]
         },
         {
             "id": "voltage_state",
             "name": "Voltage State",
             "type": "enum",
-            "values": ["NOT_HV", "HV"]
+            "enumValues": ["NOT_HV", "HV"]
         },
         {
             "id": "emergency_tape",
             "name": "Emergency Tape Status",
             "type": "enum",
-            "values": ["DISABLED", "ENABLED"]
+            "enumValues": ["DISABLED", "ENABLED"]
         },
         {
             "id": "reed1",
             "name": "Reed 1",
             "type": "enum",
-            "values": ["EXTENDED", "RETRACTED"]
+            "enumValues": ["EXTENDED", "RETRACTED"]
         },
         {
             "id": "reed2",
             "name": "Reed 2",
             "type": "enum",
-            "values": ["EXTENDED", "RETRACTED"]
+            "enumValues": ["EXTENDED", "RETRACTED"]
         },
         {
             "id": "reed3",
             "name": "Reed 3",
             "type": "enum",
-            "values": ["EXTENDED", "RETRACTED"]
+            "enumValues": ["EXTENDED", "RETRACTED"]
         },
         {
             "id": "reed4",
             "name": "Reed 4",
             "type": "enum",
-            "values": ["EXTENDED", "RETRACTED"]
+            "enumValues": ["EXTENDED", "RETRACTED"]
         },
         {
             "id": "ldu_id",
@@ -271,7 +271,7 @@
             "id": "test_svpwm_direction",
             "name": "Direction",
             "type": "enum",
-            "values": ["FORWARD", "BACKWARD"]
+            "enumValues": ["FORWARD", "BACKWARD"]
         },
         {
             "id": "target_test_speed_control_kmh",
@@ -284,13 +284,13 @@
             "id": "direction_",
             "name": "Direction",
             "type": "enum",
-            "values": ["FORWARD", "BACKWARD"]
+            "enumValues": ["FORWARD", "BACKWARD"]
         },
         {
             "id": "test_speed_control_direction",
             "name": "Direction",
             "type": "enum",
-            "values": ["FORWARD", "BACKWARD"]
+            "enumValues": ["FORWARD", "BACKWARD"]
         },
         {
             "id": "test_speed_control_vbat",
@@ -301,37 +301,37 @@
             "id": "emergency_tape_value",
             "name": "Section",
             "type": "enum",
-            "values": ["NORMAL", "EMERGENCY"]
+            "enumValues": ["NORMAL", "EMERGENCY"]
         },
         {
             "id": "pcu_connection",
             "name": "PCU",
             "type": "enum",
-            "values": ["Disconnected", "Connected"]
+            "enumValues": ["Disconnected", "Connected"]
         },
         {
             "id": "obccu_connection",
             "name": "OBCCU",
             "type": "enum",
-            "values": ["Disconnected", "Connected"]
+            "enumValues": ["Disconnected", "Connected"]
         },
         {
             "id": "lcu_connection",
             "name": "LCU",
             "type": "enum",
-            "values": ["Disconnected", "Connected"]
+            "enumValues": ["Disconnected", "Connected"]
         },
         {
             "id": "bmsl_connection",
             "name": "BMSL",
             "type": "enum",
-            "values": ["Disconnected", "Connected"]
+            "enumValues": ["Disconnected", "Connected"]
         },
         {
             "id": "bomb_connection",
             "name": "Bomb",
             "type": "enum",
-            "values": ["Disconnected", "Connected"]
+            "enumValues": ["Disconnected", "Connected"]
         },
         {
             "id": "waterblock_temperature",
@@ -344,7 +344,7 @@
             "id": "color_rgb",
             "name": "Color RGB",
             "type": "enum",
-            "values": ["RED", "BLUE", "GREEN", "MAGENTA", "PURPLE", "ORANGE", "TURQUOISE", "PISTACCIO_GREEN", "WHITE"]
+            "enumValues": ["RED", "BLUE", "GREEN", "MAGENTA", "PURPLE", "ORANGE", "TURQUOISE", "PISTACCIO_GREEN", "WHITE"]
         },
         {
             "id": "driving_mosfets",

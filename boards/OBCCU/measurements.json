@@ -1718,13 +1718,13 @@
         "id": "contactors_state",
         "name": "Contactors",
         "type": "enum",
-        "values": ["OPEN", "PRECHARGE", "CLOSED"]
+        "enumValues": ["OPEN", "PRECHARGE", "CLOSED"]
     },
     {
         "id": "plug_state",
         "name": "Plug",
         "type": "enum",
-        "values": ["CONNECTED", "DISCONNECTED"]
+        "enumValues": ["CONNECTED", "DISCONNECTED"]
     },
     {
         "id": "driving_mosfets",
@@ -1740,13 +1740,13 @@
         "id": "STATUS",
         "name": "Isolation State",
         "type": "enum",
-        "values": ["DEVICE_ERROR", "ISOLATED", "UNKNOWN", "DRIFT", "EARTH_FAULT", "SHORT_CIRCUIT"]
+        "enumValues": ["DEVICE_ERROR", "ISOLATED", "UNKNOWN", "DRIFT", "EARTH_FAULT", "SHORT_CIRCUIT"]
     },
     {
         "id": "Board_state",
         "name": "Board State",
         "type": "enum",
-        "values": ["CONNECTING", "OPERATIONAL", "IDLE", "POD_RUN", "CHARGING", "FAULT"]
+        "enumValues": ["CONNECTING", "OPERATIONAL", "IDLE", "POD_RUN", "CHARGING", "FAULT"]
     }
     
     ]
