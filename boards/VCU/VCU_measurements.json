@@ -4,28 +4,28 @@
             "id": "new_reference_pressure",
             "name": "New Reference Pressure",
             "type": "float32",
-            "podunits": "bar",
-            "displayunits": "bar",
+            "podUnits": "bar",
+            "displayUnits": "bar",
             "saferange": [0, 10],
-            "warningrange": [0, 10]
+            "warningRange": [0, 10]
         },
         {
             "id": "reference_pressure",
             "name": "Reference Pressure",
             "type": "float32",
-            "podunits": "bar",
-            "displayunits": "bar",
+            "podUnits": "bar",
+            "displayUnits": "bar",
             "saferange": [0, 10],
-            "warningrange": [0, 10]
+            "warningRange": [0, 10]
         },
         {
             "id": "actual_pressure",
             "name": "Actual Pressure",
             "type": "float32",
-            "podunits": "bar",
-            "displayunits": "bar",
+            "podUnits": "bar",
+            "displayUnits": "bar",
             "saferange": [0, 10],
-            "warningrange": [0, 10]
+            "warningRange": [0, 10]
         },
         {
             "id": "valve_state",
@@ -43,38 +43,38 @@
             "id": "bottle_temp_1",
             "name": "Bottle Temperature 1",
             "type": "float64",
-            "podunits": "ºC",
-            "displayunits": "ºC"
+            "podUnits": "ºC",
+            "displayUnits": "ºC"
         },
         {
             "id": "bottle_temp_2",
             "name": "Bottle Temperature 2",
             "type": "float64",
-            "podunits": "ºC",
-            "displayunits": "ºC"
+            "podUnits": "ºC",
+            "displayUnits": "ºC"
         },
         {
             "id": "high_pressure",
             "name": "High Pressure",
             "type": "float32",
-            "podunits": "bar",
-            "displayunits": "bar",
+            "podUnits": "bar",
+            "displayUnits": "bar",
             "saferange": [40, 200],
-            "warningrange": [0, 200]
+            "warningRange": [0, 200]
         },
         {
             "id": "low_pressure_1",
             "name": "Low Pressure 1",
             "type": "float32",
-            "podunits": "bar",
-            "displayunits": "bar"
+            "podUnits": "bar",
+            "displayUnits": "bar"
         },
         {
             "id": "low_pressure_2",
             "name": "Low Pressure 2",
             "type": "float32",
-            "podunits": "bar",
-            "displayunits": "bar"
+            "podUnits": "bar",
+            "displayUnits": "bar"
         },
         {
             "id": "direction",
@@ -85,28 +85,28 @@
             "id": "position",
             "name": "Position",
             "type": "float64",
-            "podunits": "m",
-            "displayunits": "m",
+            "podUnits": "m",
+            "displayUnits": "m",
             "saferange": [0, 40],
-            "warningrange": [0, 50]
+            "warningRange": [0, 50]
         },
         {
             "id": "speed",
             "name": "Speed",
             "type": "float64",
-            "podunits": "m/s",
-            "displayunits": "m/s",
+            "podUnits": "m/s",
+            "displayUnits": "m/s",
             "saferange": [0, 8.33],
-            "warningrange": [0, 13.88]
+            "warningRange": [0, 13.88]
         },
         {
             "id": "acceleration",
             "name": "Acceleration",
             "type": "float64",
-            "podunits": "m/ss",
-            "displayunits": "m/ss",
+            "podUnits": "m/ss",
+            "displayUnits": "m/ss",
             "saferange": [0, 9.8],
-            "warningrange": [0, 19.6]
+            "warningRange": [0, 19.6]
         },
         {
             "id": "general_state",
@@ -161,88 +161,88 @@
             "name": "LDU Id",
             "type": "uint16",
             "saferange": [1, 10],
-            "warningrange": [1, 10]
+            "warningRange": [1, 10]
         },
         {
             "id": "pwm_duty_cycle",
             "name": "Duty Cycle",
             "type": "float32",
-            "podunits": "%",
-            "displayunits": "%"
+            "podUnits": "%",
+            "displayUnits": "%"
         },
         {
             "id": "lcu_battery_voltage",
             "name": "Battery Voltage to set",
             "type": "float32",
-            "podunits": "V",
-            "displayunits": "V",
+            "podUnits": "V",
+            "displayUnits": "V",
             "saferange": [222, 252],
-            "warningrange": [0, 252]
+            "warningRange": [0, 252]
         },
         {
             "id": "lcu_desired_current",
             "name": "Desired current to set",
             "type": "float32",
-            "podunits": "A",
-            "displayunits": "A"
+            "podUnits": "A",
+            "displayUnits": "A"
         },
         {
             "id": "ldu_buffer_id",
             "name": "LDU Buffer ID",
             "type": "uint16",
             "saferange": [1, 5],
-            "warningrange": [1, 5]
+            "warningRange": [1, 5]
         },
         {
             "id": "lcu_desired_distance",
             "name": "desired distance",
             "type": "float32",
-            "podunits": "m",
-            "displayunits": "m"
+            "podUnits": "m",
+            "displayUnits": "m"
         },
         {
             "id": "output_voltage",
             "name": "output_voltage",
             "type": "uint16",
             "saferange": [192, 252],
-            "warningrange": [0, 252]
+            "warningRange": [0, 252]
         },
         {
             "id": "test_duty_target",
             "name": "test_duty_target",
             "type": "float32",
             "saferange": [0, 100],
-            "warningrange": [0, 100]
+            "warningRange": [0, 100]
         },
         {
             "id": "test_duty_phase",
             "name": "test_duty_phase",
             "type": "uint16",
             "saferange": [0, 2],
-            "warningrange": [0, 2]
+            "warningRange": [0, 2]
         },
         {
             "id": "test_current_control_target_freq",
             "name": "Target Frequency",
             "type": "float32",
-            "podunits": "A",
-            "displayunits": "A",
+            "podUnits": "A",
+            "displayUnits": "A",
             "saferange": [0, 1000]
         },
         {
             "id": "test_current_control_target_curr",
             "name": "Target Current",
             "type": "float32",
-            "podunits": "A",
-            "displayunits": "A",
+            "podUnits": "A",
+            "displayUnits": "A",
             "saferange": [-220, 220]
         },
         {
             "id": "test_current_control_vdc",
             "name": "VDC",
             "type": "float32",
-            "podunits": "V",
-            "displayunits": "V",
+            "podUnits": "V",
+            "displayUnits": "V",
             "saferange": [0, 252]
         },
         {
@@ -255,16 +255,16 @@
             "id": "test_svpwm_vdc",
             "name": "VDC",
             "type": "float32",
-            "podunits": "V",
-            "displayunits": "V",
+            "podUnits": "V",
+            "displayUnits": "V",
             "saferange": [0, 252]
         },
         {
             "id": "test_svpwm_target_voltage",
             "name": "Target Voltage",
             "type": "float32",
-            "podunits": "V",
-            "displayunits": "V",
+            "podUnits": "V",
+            "displayUnits": "V",
             "saferange": [0, 252]
         },
         {
@@ -277,8 +277,8 @@
             "id": "target_test_speed_control_kmh",
             "name": "Speed (kmh)",
             "type": "float32",
-            "podunits": "m/s",
-            "displayunits": "km/h"
+            "podUnits": "m/s",
+            "displayUnits": "km/h"
         },
         {
             "id": "direction_",
@@ -337,8 +337,8 @@
             "id": "waterblock_temperature",
             "name": "Waterblock temperature",
             "type": "float32",
-            "podunits": "ºC",
-            "displayunits": "ºC"
+            "podUnits": "ºC",
+            "displayUnits": "ºC"
         },
         {
             "id": "color_rgb",
@@ -365,16 +365,16 @@
             "id": "lower_position_limit",
             "name": "Lower limit",
             "type": "float64",
-            "podunits": "m",
-            "displayunits": "m",
-            "warningrange": [-2, 0]
+            "podUnits": "m",
+            "displayUnits": "m",
+            "warningRange": [-2, 0]
         },
         {
             "id": "upper_position_limit",
             "name": "Upper limit",
             "type": "float64",
-            "podunits": "m",
-            "displayunits": "m",
+            "podUnits": "m",
+            "displayUnits": "m",
             "saferange": [1, 36]
         }
     ]
