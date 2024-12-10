@@ -30,8 +30,8 @@
         "fault": 2,
         "warning": 3,
         "blcu_ack": 4,
-        "add_state_orders": 5,
-        "remove_state_orders": 6,
+        "add_state_order": 5,
+        "remove_state_order": 6,
         "state_space": 7
     }
 }
