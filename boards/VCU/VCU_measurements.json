@@ -184,7 +184,9 @@
             "name": "Desired current to set",
             "type": "float32",
             "podUnits": "A",
-            "displayUnits": "A"
+            "displayUnits": "A",
+            "safeRange": [-50, 50],
+            "warningRange": [-70, 70]
         },
         {
             "id": "ldu_buffer_id",
