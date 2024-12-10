@@ -88,10 +88,10 @@
             "type": "data",
             "variables": 
         [
-            { "name": "PCU_connection" },
-            { "name": "OBCCU_connection" },
-            { "name": "LCU_connection" },
-            { "name": "BMSL_connection" }
+            { "name": "pcu_connection" },
+            { "name": "obccu_connection" },
+            { "name": "lcu_connection" },
+            { "name": "bmsl_connection" }
         ]
         },
         {

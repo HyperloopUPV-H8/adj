@@ -2,7 +2,7 @@
     "ports": {
         "TCP_CLIENT": 50401,
         "TCP_SERVER": 50500,
-        "UDP": 50401,
+        "UDP": 50400,
         "SNTP": 123,
         "TFTP": 69
     },
