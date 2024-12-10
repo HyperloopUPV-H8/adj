@@ -4,7 +4,9 @@
             "id": "921",
             "name": "total_voltage",
             "type": "data",
-            "variables": []
+            "variables": [{
+                "name":"total_voltage_high"
+            }]
         },
         {
             "id": "925",
