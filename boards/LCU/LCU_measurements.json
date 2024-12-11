@@ -518,7 +518,9 @@
             "name": "desired distance",
             "type": "float32",
             "podUnits": "m",
-            "displayUnits": "m"
+            "displayUnits": "m",
+            "safeRange":[0.0001,0.030],
+            "warningRange":[0.010,0.030]
         },
         {
             "id": "pos_y",
