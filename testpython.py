@@ -94,4 +94,4 @@ def validate_json_folder(folder_path):
 
 if __name__ == "__main__":
     
-    validate_json_folder("C:/Users/jesus/JSON_ADE/boards")
+    validate_json_folder("C:/Users/jesus/JSON_ADE/boards") #folder_path como input o desde la misma carpeta del .py? ns
