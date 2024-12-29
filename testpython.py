@@ -72,26 +72,37 @@ def validate_json_structure(data):
 
 def validate_json_folder(folder_path):
     
-    for root, _, files in os.walk(folder_path):
-        for file_name in files:
-            if file_name.endswith(".json"):  
-                file_path = os.path.join(root, file_name)
-                try:
-                    with open(file_path, 'r') as file:
-                        data = json.load(file)
-                        errors = validate_json_structure(data)
-                        if errors:
-                            print(f"Errores encontrados en {file_path}:")
-                            for error in errors:
-                                print(f"- {error}")
-                        else:
-                            print(f"{file_path} está bien estructurado.")
-                except json.JSONDecodeError as e:
-                    print(f"Error al decodificar JSON en {file_path}: {e}")
-                except Exception as e:
-                    print(f"Error al procesar el archivo {file_path}: {e}")
+    boards_file_path = os.path.join(folder_path, "boards.json")
+
+    try:
+        
+        with open(boards_file_path, 'r') as boards_file:
+            boards_data = json.load(boards_file)
+            boards = boards_data.get("boards", {})
+    except json.JSONDecodeError as e:
+        print(f"Error al decodificar JSON en {boards_file_path}: {e}")
+        return
+    except Exception as e:
+        print(f"Error al procesar el archivo {boards_file_path}: {e}")
+        return
+
+    for board_name, board_file_path in boards.items():
+        full_path = os.path.join(folder_path, board_file_path)
+        try:
+            with open(full_path, 'r') as board_file:
+                data = json.load(board_file)
+                errors = validate_json_structure(data)
+                if errors:
+                    print(f"Errores encontrados en {full_path} para la placa '{board_name}':")
+                    for error in errors:
+                        print(f"- {error}")
+                else:
+                    print(f"{full_path} para la placa '{board_name}' está bien estructurado.")
+        except json.JSONDecodeError as e:
+            print(f"Error al decodificar JSON en {full_path}: {e}")
+        except Exception as e:
+            print(f"Error al procesar el archivo {full_path}: {e}")
 
 
 if __name__ == "__main__":
-    
-    validate_json_folder("C:/Users/jesus/JSON_ADE/boards") #folder_path como input o desde la misma carpeta del .py? ns
+    validate_json_folder("./JSON_ADE/") #ruta absoluta bien, ruta relativa necesita revision/cambios
