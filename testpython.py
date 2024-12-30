@@ -20,7 +20,7 @@ def validate_json_structure(data):
         else:
             for measurement in data["measurements"]:
                 if isinstance(measurement, dict):  
-                    required_keys = ["id", "name", "type"]
+                    required_keys = ["id", "name", "type", "podUnits", "displayUnits"]
                     for key in required_keys:
                         if key not in measurement:
                             errors.append(f"Falta la clave '{key}' en un objeto de 'measurements'.")
@@ -46,7 +46,7 @@ def validate_json_structure(data):
         else:
             for packet in data["packets"]:
                 if isinstance(packet, dict):  
-                    required_keys = ["id", "name", "type"]
+                    required_keys = ["id", "name", "type","variable"] 
                     for key in required_keys:
                         if key not in packet:
                             errors.append(f"Falta la clave '{key}' en un objeto de 'packets'.")
@@ -105,4 +105,4 @@ def validate_json_folder(folder_path):
 
 
 if __name__ == "__main__":
-    validate_json_folder("./JSON_ADE/") #ruta absoluta bien, ruta relativa necesita revision/cambios
+    validate_json_folder("./JSON_ADE/") 
