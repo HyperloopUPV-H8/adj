@@ -2,12 +2,12 @@
     "ports": {
         "TCP_CLIENT": 50401,
         "TCP_SERVER": 50500,
-        "UDP": 50401,
+        "UDP": 50400,
         "SNTP": 123,
         "TFTP": 69
     },
     "addresses": {
-        "backend": "127.0.0.1"
+        "backend": "192.168.0.9"
     },
     "units": {
         "V": "*1",
@@ -30,8 +30,8 @@
         "fault": 2,
         "warning": 3,
         "blcu_ack": 4,
-        "add_state_orders": 5,
-        "remove_state_orders": 6,
+        "add_state_order": 5,
+        "remove_state_order": 6,
         "state_space": 7
     }
 }

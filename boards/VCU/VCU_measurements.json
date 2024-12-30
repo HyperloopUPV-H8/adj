@@ -184,7 +184,9 @@
             "name": "Desired current to set",
             "type": "float32",
             "podUnits": "A",
-            "displayUnits": "A"
+            "displayUnits": "A",
+            "safeRange": [-50, 50],
+            "warningRange": [-70, 70]
         },
         {
             "id": "ldu_buffer_id",
@@ -198,7 +200,9 @@
             "name": "desired distance",
             "type": "float32",
             "podUnits": "m",
-            "displayUnits": "m"
+            "displayUnits": "m",
+            "safeRange":[0.0001,0.030],
+            "warningRange":[0.010,0.030]
         },
         {
             "id": "output_voltage",

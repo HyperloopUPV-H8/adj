@@ -1,8 +1,13 @@
 {
     "board_id": 1,
     "board_ip": "192.168.1.9",
-    "measurements": ["OBCCU_measurements.json"],
+    "measurements": [
+        "control_measurements.json",
+        "batteries_measurements.json"
+    ],
     "packets": [
-        "batteries.json","control.json","orders.json"
+        "batteries_packets.json",
+        "control_packets.json",
+        "orders.json"
     ]
 }
