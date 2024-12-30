@@ -1,7 +1,18 @@
 {
+<<<<<<< Updated upstream
     "boards": {
         "OBCCU": "boards/OBCCU/OBCCU.json",
         "VCU": "boards/VCU/VCU.json",
         "LCU": "boards/LCU/LCU.json"
     }
+=======
+  "boards": {
+    "BCU":"boards/BCU/BCU.json",
+    "LCU":"boards/LCU/LCU.json",
+    "OBCCU":"boards/OBCCU/OBCCU.json",
+    "VCU":"boards/VCU/VCU.json",
+    "Test":"boards/test/test.json",
+    "Test":"boards/error/error.json" 
+  }
+>>>>>>> Stashed changes
 }
