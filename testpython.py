@@ -34,6 +34,8 @@ def validate_json_structure(data):
                         errors.append(f"'safeRange' debe ser una lista en: {measurement}")
                     if "warningRange" in measurement and not isinstance(measurement.get("warningRange", []), list):
                         errors.append(f"'warningRange' debe ser una lista en: {measurement}")
+                    if "displayUnits" in measurement and not isinstance(measurement["displayUnits"], str):
+                        errors.append(f"El 'podUnits' debe ser una cadena en: {measurement}")
                     if "podUnits" in measurement and not isinstance(measurement["podUnits"], str):
                         errors.append(f"El 'podUnits' debe ser una cadena en: {measurement}") #esto se puede quitar (json 516)
                 elif not isinstance(measurement, str): 
