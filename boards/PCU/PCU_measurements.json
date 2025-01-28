@@ -69,7 +69,7 @@
             "id": "pwm_active",
             "name": "PWM active",
             "type": "enum",
-            "enumValues": ["U", "V","W"]
+            "enumValues": ["NONE","U", "V","W"]
         }
     ]
 }

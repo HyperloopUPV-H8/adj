@@ -5,10 +5,7 @@
             "name": "pwm_packet",
             "type": "data",
             "variables": [
-                { "name": "u_frequency" },
-                { "name": "u_duty" }, 
-                { "name": "w_frequency" },
-                { "name": "w_duty" },
+                { "name": "pwm_active" },
                 { "name": "v_frequency" }, 
                 { "name": "v_duty" },
                 { "name":  "buffer_enable"}
