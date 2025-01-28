@@ -1,0 +1,26 @@
+{
+    "packets": [
+        {
+            "id": "500",
+            "name": "enable_buffer",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": "501",
+            "name": "disable_buffer",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": "502",
+            "name": "send_pwm",
+            "type": "order",
+            "variables": [
+                { "name": "pwm_active"},
+                { "name": "frequency_to_send"},
+                { "name": "duty_to_send"}
+            ]
+        }
+    ]
+}
