@@ -21,6 +21,12 @@
                 { "name": "frequency_to_send"},
                 { "name": "duty_to_send"}
             ]
+        },
+        {
+            "id": "503",
+            "name": "stop_pwm",
+            "type": "order",
+            "variables": []
         }
     ]
 }
