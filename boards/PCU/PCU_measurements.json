@@ -35,6 +35,12 @@
             "name": "PWM active",
             "type": "enum",
             "enumValues": ["NONE","U", "V","W"]
+        },
+        {
+            "id":"buffer_enable",
+            "name":"Buffer",
+            "type": "enum",
+            "enumValues":["OFF","ON"]
         }
     ]
 }
