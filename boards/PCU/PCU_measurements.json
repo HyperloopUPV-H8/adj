@@ -1,53 +1,18 @@
 {
     "measurements": [
         {
-            "id": "u_frequency",
-            "name": "U frequency",
+            "id": "frequency",
+            "name": "frequency from PWM ACTIVE",
             "type": "uint32",
             "podUnits": "hz",
             "displayUnits": "hz"
         },
         {
-            "id": "v_frequency",
-            "name": "V frequency",
-            "type": "uint32",
-            "podUnits": "hz",
-            "displayUnits": "hz"
-        },
-        {
-            "id": "w_frequency",
-            "name": "W frequency",
-            "type": "uint32",
-            "podUnits": "%",
-            "displayUnits": "%"
-        },
-        {
-            "id": "u_duty",
-            "name": "U duty",
+            "id": "duty",
+            "name": "Duty from PWM ACTIVE",
             "type": "float32",
             "podUnits": "%",
             "displayUnits": "%"
-        },
-        {
-            "id": "v_duty",
-            "name": "V duty",
-            "type": "float32",
-            "podUnits": "%",
-            "displayUnits": "%"
-        },
-        {
-            "id": "w_duty",
-            "name": "W_duty",
-            "type": "float32",
-            "podUnits": "%",
-            "displayUnits": "%"
-        },
-        {
-            "id": "u_frequency",
-            "name": "U_frequency",
-            "type": "uint32",
-            "podUnits": "hz",
-            "displayUnits": "hz"
         },
         {
             "id": "frequency_to_send",

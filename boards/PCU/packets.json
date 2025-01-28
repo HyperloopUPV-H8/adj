@@ -6,8 +6,8 @@
             "type": "data",
             "variables": [
                 { "name": "pwm_active" },
-                { "name": "v_frequency" }, 
-                { "name": "v_duty" },
+                { "name": "frequency" }, 
+                { "name": "duty" },
                 { "name":  "buffer_enable"}
             ]
         }
