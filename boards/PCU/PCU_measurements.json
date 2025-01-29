@@ -16,10 +16,13 @@
         },
         {
             "id": "frequency_to_send",
-            "name": "Send frequency",
-            "type": "uint32",
+            "name": "Send frequency (Hz)",
+            "type": "float32",
             "podUnits": "hz",
-            "displayUnits": "hz"
+            "displayUnits": "hz",
+            "safeRange": [0, 20000000000000],
+            "warningRange": [0, 20000000000000]
+
         },
         {
             "id": "duty_to_send",
