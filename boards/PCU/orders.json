@@ -42,7 +42,7 @@
         },
         {
             "id": "506",
-            "name": "Choose Batt Voltage to read",
+            "name": "Choose_Batt_Voltage_to_read",
             "type": "order",
             "variables": [
                 {"name" : "Batt_voltage_type"}
