@@ -44,6 +44,17 @@
             "name":"Buffer",
             "type": "enum",
             "enumValues":["OFF","ON"]
+        },
+        {
+            "id" : "Batt_voltage_type",
+            "name": "Voltage Batteries type",
+            "type": "enum",
+            "enumValues":["A","B"]
+        },
+        {
+            "id" : "Voltage_from_Batteries",
+            "name": "Voltage Batteries",
+            "type": "float32"
         }
     ]
 }

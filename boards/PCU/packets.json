@@ -10,6 +10,15 @@
                 { "name": "duty" },
                 { "name":  "buffer_enable"}
             ]
+        },
+        {
+            "id": "551",
+            "name": "Batteries_Voltage",
+            "type": "data",
+            "variables": [
+                { "name": "Voltage_from_Batteries"},
+                {"name" : "Batt_voltage_type"}
+            ]
         }
     ]
 }

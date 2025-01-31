@@ -39,6 +39,14 @@
             "name": "Disable_Reset",
             "type": "order",
             "variables": []
+        },
+        {
+            "id": "506",
+            "name": "Choose Batt Voltage to read",
+            "type": "order",
+            "variables": [
+                {"name" : "Batt_voltage_type"}
+            ]
         }
     ]
 }
