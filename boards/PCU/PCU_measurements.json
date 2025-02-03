@@ -55,6 +55,13 @@
             "id" : "Voltage_from_Batteries",
             "name": "Voltage Batteries",
             "type": "float32"
+        },
+        {
+            "id": "Modulation",
+            "name": "Modulation",
+            "type": "float32",
+            "safeRange": [0, 1.15],
+            "warningRange": [0, 1.15]
         }
     ]
 }

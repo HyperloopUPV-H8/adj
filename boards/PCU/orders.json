@@ -47,6 +47,20 @@
             "variables": [
                 {"name" : "Batt_voltage_type"}
             ]
+        },
+        {
+            "id": "507",
+            "name": "Start_SVPWM",
+            "type": "order",
+            "variables": [
+                {"name" : "Modulation"}
+            ]
+        },
+        {
+            "id": "508",
+            "name": "Stop_SVPWM",
+            "type": "order",
+            "variables": []
         }
     ]
 }
