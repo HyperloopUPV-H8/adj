@@ -57,11 +57,11 @@
             "type": "float32"
         },
         {
-            "id": "Modulation",
-            "name": "Modulation",
+            "id": "V_Ref",
+            "name": "Reference Voltage",
             "type": "float32",
-            "safeRange": [0, 1.15],
-            "warningRange": [0, 1.15]
+            "safeRange": [0, 400],
+            "warningRange": [0, 400]
         }
     ]
 }

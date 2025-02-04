@@ -54,7 +54,7 @@
             "type": "order",
             "variables": [
                 {"name" : "frequency_to_send"},
-                {"name" : "Modulation"}
+                {"name" : "V_Ref"}
             ]
         },
         {
