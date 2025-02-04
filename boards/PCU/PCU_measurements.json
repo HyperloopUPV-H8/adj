@@ -65,7 +65,16 @@
         },
         {
             "id": "frequency_to_send_svpwm",
-            "name": "Frequency to send svpwm hz",
+            "name": "Frequency to send Commutation hz",
+            "type": "float32",
+            "podUnits": "hz",
+            "displayUnits": "hz",
+            "safeRange": [0, 20000000000000],
+            "warningRange": [0, 20000000000000]
+        },
+        {
+            "id": "frequency_to_send_PWM",
+            "name": "Frequency to send to PWM hz",
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",

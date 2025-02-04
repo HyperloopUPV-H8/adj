@@ -53,6 +53,7 @@
             "name": "Start_SVPWM",
             "type": "order",
             "variables": [
+                {"name" : "frequency_to_send_PWM"},
                 {"name" : "frequency_to_send_svpwm"},
                 {"name" : "V_Ref"}
             ]
