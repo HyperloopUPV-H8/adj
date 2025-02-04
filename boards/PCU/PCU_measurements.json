@@ -3,7 +3,7 @@
         {
             "id": "frequency",
             "name": "frequency from PWM ACTIVE",
-            "type": "uin32_t",
+            "type": "uint32",
             "podUnits": "hz",
             "displayUnits": "hz"
         },
