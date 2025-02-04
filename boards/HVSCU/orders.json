@@ -1,0 +1,16 @@
+{
+    "packets": [
+        {
+            "id": "900",
+            "name": "close_contactors",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": "901",
+            "name": "open_contactors",
+            "type": "order",
+            "variables": []
+        }
+    ]
+}
