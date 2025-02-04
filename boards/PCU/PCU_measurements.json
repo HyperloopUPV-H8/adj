@@ -60,8 +60,8 @@
             "id": "V_Ref",
             "name": "Reference Voltage",
             "type": "float32",
-            "safeRange": [0, 163.0],
-            "warningRange": [0, 163.0]
+            "safeRange": [0, 163],
+            "warningRange": [0, 163]
         },
         {
             "id": "frequency_to_send_svpwm",
