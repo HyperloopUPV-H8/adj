@@ -65,7 +65,7 @@
         },
         {
             "id": "frequency_to_send_svpwm",
-            "name": "Frequency to send Commutation hz",
+            "name": "Frequency Modulation hz",
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
@@ -74,12 +74,54 @@
         },
         {
             "id": "frequency_to_send_PWM",
-            "name": "Frequency to send to PWM hz",
+            "name": "Frequency  Commutation hz",
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
             "safeRange": [0, 20000000000000],
             "warningRange": [0, 20000000000000]
+        },
+        {
+            "id": "current_sensor_u_a",
+            "name": "Current sensor U connector A",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "current_sensor_u_b",
+            "name": "Current sensor U connector B",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "current_sensor_v_a",
+            "name": "Current sensor V connector A",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "current_sensor_v_b",
+            "name": "Current sensor V connector B",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "current_sensor_w_a",
+            "name": "Current sensor W connector A",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "current_sensor_w_b",
+            "name": "Current sensor W connector B",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
         }
     ]
 }

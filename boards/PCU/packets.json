@@ -19,6 +19,19 @@
                 { "name": "Voltage_from_Batteries"},
                 {"name" : "Batt_voltage_type"}
             ]
+        },
+        {
+            "id": "552",
+            "name": "Current_sensors",
+            "type": "data",
+            "variables": [
+                {"name" : "current_sensor_u_a"},
+                {"name" : "current_sensor_v_a"},
+                {"name" : "current_sensor_w_a"},
+                {"name" : "current_sensor_u_b"},
+                {"name" : "current_sensor_v_b"},
+                {"name" : "current_sensor_w_b"}
+            ]
         }
     ]
 }
