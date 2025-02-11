@@ -32,6 +32,15 @@
                 {"name" : "current_sensor_v_b"},
                 {"name" : "current_sensor_w_b"}
             ]
+        },
+        {
+            "id": "553",
+            "name": "StateMachine_states",
+            "type": "data",
+            "variables": [
+                {"name" : "general_state_machine"},
+                {"name" : "operational_state_machine"}
+            ]
         }
     ]
 }
