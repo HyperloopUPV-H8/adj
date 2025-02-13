@@ -141,6 +141,24 @@
             "type":"float32",
             "podUnits": "A",
             "displayUnits": "A"
+        },
+        {
+            "id": "freq_to_send_svpwm",
+            "name": "Frequency Modulation hz",
+            "type": "float32",
+            "podUnits": "hz",
+            "displayUnits": "hz",
+            "safeRange": [0, 20000000000000],
+            "warningRange": [0, 20000000000000]
+        },
+        {
+            "id": "freq_to_send_PWM",
+            "name": "Frequency  Commutation hz",
+            "type": "float32",
+            "podUnits": "hz",
+            "displayUnits": "hz",
+            "safeRange": [0, 20000000000000],
+            "warningRange": [0, 20000000000000]
         }
     ]
 }
