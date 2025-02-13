@@ -63,6 +63,15 @@
             "name": "Stop_SVPWM",
             "type": "order",
             "variables": []
+        },{
+            "id":"509",
+            "name":"Send_Reference_Current",
+            "type":"order",
+            "variables":[
+                {"name" : "frequency_to_send_svpwm"},
+                {"name" : "frequency_to_send_PWM"},
+                {"name" : "Current_Ref"}
+            ]
         }
     ]
 }

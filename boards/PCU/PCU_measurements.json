@@ -134,6 +134,13 @@
             "name": "Operational state machine",
             "type": "enum",
             "enumValues": ["IDLE","Sending_PWM", "Accelerating"]
+        },
+        {
+            "id":"Current_Ref",
+            "name":"Current Ref",
+            "type":"float32",
+            "podUnits": "A",
+            "displayUnits": "A"
         }
     ]
 }
