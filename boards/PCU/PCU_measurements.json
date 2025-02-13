@@ -140,7 +140,8 @@
             "name":"Current Ref",
             "type":"float32",
             "podUnits": "A",
-            "displayUnits": "A"
+            "displayUnits": "A",
+	    "safeRange":[0,150]
         },
         {
             "id": "freq_to_send_svpwm",
