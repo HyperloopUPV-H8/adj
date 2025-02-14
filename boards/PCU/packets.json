@@ -30,7 +30,10 @@
                 {"name" : "current_sensor_w_a"},
                 {"name" : "current_sensor_u_b"},
                 {"name" : "current_sensor_v_b"},
-                {"name" : "current_sensor_w_b"}
+                {"name" : "current_sensor_w_b"},
+                {"name" : "current_Peak"},
+                {"name" : "Error_PI"},
+                {"name" : "Target_Voltage"}
             ]
         },
         {
@@ -42,5 +45,6 @@
                 {"name" : "operational_state_machine"}
             ]
         }
+        
     ]
 }

@@ -69,8 +69,8 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "safeRange": [0, 20000000000000],
-            "warningRange": [0, 20000000000000]
+            "safeRange": [0, 100],
+            "warningRange": [0, 100]
         },
         {
             "id": "frequency_to_send_PWM",
@@ -140,7 +140,9 @@
             "name":"Current Ref",
             "type":"float32",
             "podUnits": "A",
-            "displayUnits": "A"
+            "displayUnits": "A",
+            "safeRange": [0, 150],
+            "warningRange": [0, 150]
         },
         {
             "id": "freq_to_send_svpwm",
@@ -148,8 +150,8 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "safeRange": [0, 20000000000000],
-            "warningRange": [0, 20000000000000]
+            "safeRange": [0, 100],
+            "warningRange": [0, 100]
         },
         {
             "id": "freq_to_send_PWM",
@@ -159,6 +161,29 @@
             "displayUnits": "hz",
             "safeRange": [0, 20000000000000],
             "warningRange": [0, 20000000000000]
+        },
+        {
+            "id": "current_Peak",
+            "name": "Max Current Peak A",
+            "type": "float64",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "Error_PI",
+            "name": "Actual Current Error A",
+            "type": "float64",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "Target_Voltage",
+            "name": "Target Voltage V",
+            "type": "float64",
+            "podUnits": "V",
+            "displayUnits": "V"
         }
+        
+
     ]
 }
