@@ -141,8 +141,8 @@
             "type":"float32",
             "podUnits": "A",
             "displayUnits": "A",
-            "safeRange": [0, 150],
-            "warningRange": [0, 150]
+	        "safeRange":[0,150],
+            "warningRange":[0,150]
         },
         {
             "id": "freq_to_send_svpwm",
