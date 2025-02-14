@@ -71,7 +71,8 @@
             "variables":[
                 {"name" : "freq_to_send_svpwm"},
                 {"name" : "freq_to_send_PWM"},
-                {"name" : "Current_Ref"}
+                {"name" : "Current_Ref"},
+                {"name" : "VMax"}
             ]
         }
     ]

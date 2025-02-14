@@ -182,8 +182,15 @@
             "type": "float64",
             "podUnits": "V",
             "displayUnits": "V"
+        },
+        {
+            "id":"VMax",
+            "name":"Max Voltage",
+            "type":"float32",
+            "podUnits": "V",
+            "displayUnits": "V",
+	        "safeRange":[0,163],
+            "warningRange":[0,163]
         }
-        
-
     ]
 }
