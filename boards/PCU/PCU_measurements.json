@@ -191,6 +191,15 @@
             "displayUnits": "V",
 	        "safeRange":[0,450],
             "warningRange":[0,450]
+        },
+        {
+            "id":"Speed_Ref",
+            "name":"Reference Speed",
+            "type":"float32",
+            "podUnits": "km/h",
+            "displayUnits": "km/h",
+	        "safeRange":[0,100],
+            "warningRange":[0,100]
         }
     ]
 }
