@@ -189,8 +189,8 @@
             "type":"float32",
             "podUnits": "V",
             "displayUnits": "V",
-	        "safeRange":[0,163],
-            "warningRange":[0,163]
+	        "safeRange":[0,450],
+            "warningRange":[0,450]
         }
     ]
 }
