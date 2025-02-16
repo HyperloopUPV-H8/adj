@@ -164,21 +164,21 @@
         },
         {
             "id": "current_Peak",
-            "name": "Max Current Peak A",
+            "name": "Max Current Peak",
             "type": "float64",
             "podUnits": "A",
             "displayUnits": "A"
         },
         {
             "id": "Error_PI",
-            "name": "Actual Current Error A",
+            "name": "Actual Current Error",
             "type": "float64",
             "podUnits": "A",
             "displayUnits": "A"
         },
         {
             "id": "Target_Voltage",
-            "name": "Target Voltage V",
+            "name": "Target Voltage",
             "type": "float64",
             "podUnits": "V",
             "displayUnits": "V"
