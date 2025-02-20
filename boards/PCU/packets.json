@@ -5,10 +5,18 @@
             "name": "pwm_packet",
             "type": "data",
             "variables": [
-                { "name": "pwm_active" },
-                { "name": "frequency" }, 
-                { "name": "duty" },
-                { "name":  "buffer_enable"}
+                {
+                    "name": "pwm_active"
+                },
+                {
+                    "name": "frequency"
+                },
+                {
+                    "name": "duty"
+                },
+                {
+                    "name": "buffer_enable"
+                }
             ]
         },
         {
@@ -16,8 +24,12 @@
             "name": "Batteries_Voltage",
             "type": "data",
             "variables": [
-                { "name": "Voltage_from_Batteries"},
-                {"name" : "Batt_voltage_type"}
+                {
+                    "name": "Voltage_from_Batteries"
+                },
+                {
+                    "name": "Batt_voltage_type"
+                }
             ]
         },
         {
@@ -25,15 +37,36 @@
             "name": "Current_sensors",
             "type": "data",
             "variables": [
-                {"name" : "current_sensor_u_a"},
-                {"name" : "current_sensor_v_a"},
-                {"name" : "current_sensor_w_a"},
-                {"name" : "current_sensor_u_b"},
-                {"name" : "current_sensor_v_b"},
-                {"name" : "current_sensor_w_b"},
-                {"name" : "current_Peak"},
-                {"name" : "Error_PI"},
-                {"name" : "Target_Voltage"}
+                {
+                    "name": "current_sensor_u_a"
+                },
+                {
+                    "name": "current_sensor_v_a"
+                },
+                {
+                    "name": "current_sensor_w_a"
+                },
+                {
+                    "name": "current_sensor_u_b"
+                },
+                {
+                    "name": "current_sensor_v_b"
+                },
+                {
+                    "name": "current_sensor_w_b"
+                },
+                {
+                    "name": "current_Peak"
+                },
+                {
+                    "name": "Error_PI"
+                },
+                {
+                    "name": "Target_Voltage"
+                },
+                {
+                    "name": "SVPWM_Time"
+                }
             ]
         },
         {
@@ -41,10 +74,13 @@
             "name": "StateMachine_states",
             "type": "data",
             "variables": [
-                {"name" : "general_state_machine"},
-                {"name" : "operational_state_machine"}
+                {
+                    "name": "general_state_machine"
+                },
+                {
+                    "name": "operational_state_machine"
+                }
             ]
         }
-        
     ]
 }
