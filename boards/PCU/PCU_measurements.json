@@ -293,6 +293,13 @@
                 0,
                 100
             ]
+        },
+        {
+            "id": "SVPWM_Time",
+            "name": "SVPWM Time",
+            "type": "float32",
+            "podUnits": "s",
+            "displayUnits": "s"
         }
     ]
 }
