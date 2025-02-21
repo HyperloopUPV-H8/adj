@@ -65,17 +65,13 @@
             ]
         },
         {
-            "id": "Batt_voltage_type",
-            "name": "Voltage Batteries type",
-            "type": "enum",
-            "enumValues": [
-                "A",
-                "B"
-            ]
+            "id": "Voltage_Battery_A",
+            "name": "Voltage Battery A",
+            "type": "float32"
         },
         {
-            "id": "Voltage_from_Batteries",
-            "name": "Voltage Batteries",
+            "id": "Voltage_Battery_B",
+            "name": "Voltage Battery B",
             "type": "float32"
         },
         {
@@ -300,6 +296,36 @@
             "type": "float32",
             "podUnits": "s",
             "displayUnits": "s"
+        },
+        {
+            "id": "encoder_position",
+            "name": "Position Encoder",
+            "type": "float64",
+            "podUnits": "m",
+            "displayUnits": "m"
+        },
+        {
+            "id": "encoder_direction",
+            "name": "Direction Encoder",
+            "type": "enum",
+          "enumValues": [
+                "Forward",
+                "Backward"
+            ]
+        },
+        {
+            "id": "encoder_speed",
+            "name": "Speed Encoder",
+            "type": "float64",
+            "podUnits": "m/s",
+            "displayUnits": "m/s"
+        },
+        {
+            "id": "encoder_acceleration",
+            "name": "Acceleration Encoder",
+            "type": "float64",
+            "podUnits": "m/s2",
+            "displayUnits": "m/s2"
         }
     ]
 }

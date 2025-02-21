@@ -47,16 +47,6 @@
             "variables": []
         },
         {
-            "id": "506",
-            "name": "Choose_Batt_Voltage_to_read",
-            "type": "order",
-            "variables": [
-                {
-                    "name": "Batt_voltage_type"
-                }
-            ]
-        },
-        {
             "id": "507",
             "name": "Start_SVPWM",
             "type": "order",
@@ -99,9 +89,15 @@
                     "name": "VMax"
                 }
             ]
+        },     
+        {
+            "id":"510",
+            "name":"Zeroing",
+            "type":"order",
+            "variables":[]
         },
         {
-            "id": "510",
+            "id": "511",
             "name": "Send_Reference_Speed",
             "type": "order",
             "variables": [
@@ -112,12 +108,6 @@
                     "name": "freq_to_send_svpwm"
                 }
             ]
-        },
-        {
-            "id":"511",
-            "name":"Zeroing",
-            "type":"order",
-            "variables":[]
         }
     ]
 }

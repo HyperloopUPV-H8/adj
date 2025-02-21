@@ -25,10 +25,10 @@
             "type": "data",
             "variables": [
                 {
-                    "name": "Voltage_from_Batteries"
+                    "name": "Voltage_Battery_A"
                 },
                 {
-                    "name": "Batt_voltage_type"
+                    "name": "Voltage_Battery_B"
                 }
             ]
         },
@@ -79,6 +79,25 @@
                 },
                 {
                     "name": "operational_state_machine"
+                }
+            ]
+        },
+        {
+            "id": "554",
+            "name": "Encoder_data",
+            "type": "data",
+            "variables": [
+                {
+                    "name": "encoder_position"
+                },
+                {
+                    "name": "encoder_direction"
+                },
+                {
+                    "name": "encoder_speed"
+                },
+                {
+                    "name": "encoder_acceleration"
                 }
             ]
         }
