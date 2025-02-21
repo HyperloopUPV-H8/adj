@@ -91,6 +91,35 @@
         {"name": "lcu_airgap_7"},
         {"name": "lcu_airgap_8"}
     ]
+    },
+    {
+
+        "id": "320",
+        "name": "lcu_coil_current",
+        "type": "data",
+        "variables":  [
+        
+        {"name": "lcu_coil_current_1"},
+        {"name": "lcu_coil_current_2"},
+        {"name": "lcu_coil_current_3"},
+        {"name": "lcu_coil_current_4"},
+        {"name": "lcu_coil_current_5"},
+        {"name": "lcu_coil_current_6"},
+        {"name": "lcu_coil_current_7"},
+        {"name": "lcu_coil_current_8"},
+        {"name": "lcu_coil_current_9"},
+        {"name": "lcu_coil_current_10"},
+        {"name": "lcu_vbat_1"},
+        {"name": "lcu_vbat_2"},
+        {"name": "lcu_vbat_3"},
+        {"name": "lcu_vbat_4"},
+        {"name": "lcu_vbat_5"},
+        {"name": "lcu_vbat_6"},
+        {"name": "lcu_vbat_7"},
+        {"name": "lcu_vbat_8"},
+        {"name": "lcu_vbat_9"},
+        {"name": "lcu_vbat_10"}
+    ]
     }
     ]
 }

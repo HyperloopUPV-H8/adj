@@ -5,7 +5,7 @@
             "name": "set_LDU_pwm_params",
             "type": "order",
             "variables": [
-                { "name": "id_ldu"},
+                { "name": "ldu_id"},
                 { "name": "pwm_duty_cycle"},
                 { "name": "current_control_frequency"}
             ]
@@ -19,12 +19,40 @@
             ]
         },
         {
+            "id": "9996",
+            "name": "send_LDU_dis",
+            "type": "order",
+            "variables": [
+                { "name": "ldu_buffer_id"}
+            ]
+        },
+        {
             "id": "9997",
             "name": "send_LDU_rst",
             "type": "order",
             "variables": [
                 { "name": "ldu_buffer_id"}
             ]
+        },
+
+        {
+            "id": "9995",
+            "name": "set_current_desired",
+            "type": "order",
+            "variables": [
+                { "name": "ldu_buffer_id"},
+                { "name": "lcu_desired_current"}
+            ]
+        },
+        {
+            "id": "9994",
+            "name": "start_control",
+            "type": "order"
+        },
+        {
+            "id": "9993",
+            "name": "stop_control",
+            "type": "order"
         }
 
     ]

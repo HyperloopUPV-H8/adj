@@ -5,16 +5,17 @@
         {
             "id": "ldu_id",
             "name": "LDU Id",
-            "type": "uint16",
-            "safeRange": [1, 10],
-            "warningRange": [1, 10]
+            "type": "uint8",
+            "safeRange": [0, 9],
+            "warningRange": [0, 9]
         },
         {
             "id": "pwm_duty_cycle",
             "name": "Duty Cycle",
             "type": "float32",
             "podUnits": "%",
-            "displayUnits": "%"
+            "displayUnits": "%",
+            "safeRange": [0, 100]
         },
         {
             "id": "lcu_battery_voltage",
@@ -28,14 +29,15 @@
             "name": "Desired current to set",
             "type": "float32",
             "podUnits": "A",
-            "displayUnits": "A"
+            "displayUnits": "A",
+            "safeRange": [0, 100]
         },
         {
             "id": "ldu_buffer_id",
             "name": "LDU Buffer ID",
-            "type": "uint16",
-            "safeRange": [1, 5],
-            "warningRange": [1, 5]
+            "type": "uint8",
+            "safeRange": [0, 4],
+            "warningRange": [0, 4]
         },
         {
             "id": "lcu_coil_temp_1",
