@@ -326,6 +326,27 @@
             "type": "float64",
             "podUnits": "m/s2",
             "displayUnits": "m/s2"
+        },
+        {
+            "id": "target_speed",
+            "name": "Target Speed",
+            "type": "float32",
+            "podUnits": "m/s",
+            "displayUnits": "m/s"
+        },
+        {
+            "id": "speed_error",
+            "name": "Speed error",
+            "type": "float64",
+            "podUnits": "m/s",
+            "displayUnits": "m/s"
+        },
+        {
+            "id": "actual_current_ref",
+            "name": "Control Current ref",
+            "type": "float32",
+            "podUnits": "m/s2",
+            "displayUnits": "m/s2"
         }
     ]
 }

@@ -100,6 +100,22 @@
                     "name": "encoder_acceleration"
                 }
             ]
+        },
+        {
+            "id": "555",
+            "name": "Encoder_data",
+            "type": "data",
+            "variables": [
+                {
+                    "name": "target_speed"
+                },
+                {
+                    "name": "speed_error"
+                },
+                {
+                    "name": "actual_current_ref"
+                }
+            ]
         }
     ]
 }
