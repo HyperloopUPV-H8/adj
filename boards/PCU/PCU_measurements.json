@@ -345,8 +345,8 @@
             "id": "actual_current_ref",
             "name": "Control Current ref",
             "type": "float32",
-            "podUnits": "m/s2",
-            "displayUnits": "m/s2"
+            "podUnits": "A",
+            "displayUnits": "A"
         },
         {
 
