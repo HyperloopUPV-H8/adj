@@ -105,7 +105,7 @@
                     "name": "Speed_Ref"
                 },
                 {
-                    "name": "freq_to_send_svpwm"
+                    "name": "freq_to_send_PWM"
                 }
             ]
         }
