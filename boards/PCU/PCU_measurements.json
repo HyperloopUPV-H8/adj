@@ -214,7 +214,15 @@
             "name": "Frequency  Commutation hz",
             "type": "float32",
             "podUnits": "hz",
-            "displayUnits": "hz"
+            "displayUnits": "hz",
+            "safeRange": [
+                0,
+                200000000
+            ],
+            "warningRange": [
+                0,
+                200000000
+            ]
         },
         {
             "id": "current_Peak",
