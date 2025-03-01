@@ -1,7 +1,4 @@
 {
-    "boards": {
-        "OBCCU": "boards/OBCCU/OBCCU.json",
-        "VCU": "boards/VCU/VCU.json",
-        "LCU": "boards/LCU/LCU.json"
-    }
+    "PCU": "boards/PCU/PCU.json"
 }
+
