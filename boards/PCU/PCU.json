@@ -1,6 +1,6 @@
 {
     "board_id": 0,
-    "board_ip": "192.168.0.16",
+    "board_ip": "192.168.0.5",
     "measurements": ["PCU_measurements.json"],
     "packets": [
         "control_packets.json","orders.json"
