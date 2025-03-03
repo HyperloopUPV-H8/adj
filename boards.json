@@ -1,5 +1,3 @@
 {
-    "boards": {
-        "BCU": "boards/BCU/BCU.json"
-    }
+    "BCU": "boards/BCU/BCU.json"
 }
