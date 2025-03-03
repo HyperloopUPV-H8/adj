@@ -84,8 +84,18 @@
         },
         {
             "id": 512,
+            "name": "Start_Precharge",
+            "type": "order",
+            "variables": [
+                    "freq_to_send_PWM",
+                    "V_Ref"
+            ]
+        },
+        {
+            "id": 513,
             "name": "Make_Complete_Run",
             "type": "order",
             "variables": []
         }
+        
 ]
