@@ -199,6 +199,15 @@
                 {"name": "battery10_is_balancing"},
                 {"name": "battery10_total_voltage"}
             ]
-        }
+        },
+        {
+           "id": "930",
+           "type": "data",
+           "name": "batteries_current",
+           "variables": [
+               {"name": "batteries_voltage"},
+               {"name": "batteries_current"}
+           ]
+       }
     ]
 }
