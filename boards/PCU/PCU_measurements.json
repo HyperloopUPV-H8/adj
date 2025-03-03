@@ -144,7 +144,8 @@
             "enumValues": [
                 "IDLE",
                 "Sending_PWM",
-                "Accelerating"
+                "Accelerating",
+                "Precharging"
             ]
         },
         {
