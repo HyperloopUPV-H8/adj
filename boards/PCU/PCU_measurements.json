@@ -30,7 +30,10 @@
             "type": "float32",
             "podUnits": "%",
             "displayUnits": "%",
-            "out_of_range": [0, 100]
+            "out_of_range": {
+                "safe":[0, 100],
+                "warning":[0,100]
+            }
 
         },
         {
@@ -67,7 +70,10 @@
             "id": "V_Ref",
             "name": "Reference Voltage",
             "type": "float32",
-            "out_of_range": [0, 163]
+            "out_of_range": {
+                "safe":[0,163],
+                "warning":[0,150]
+            }
 
         },
         {
@@ -76,7 +82,10 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "out_of_range": [0, 120]
+            "out_of_range": {
+                "safe":[0, 120],
+                "warning":[0,100]
+            }
 
         },
         {
@@ -85,7 +94,10 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "out_of_range": [1000,100000 ]
+            "out_of_range": {
+                "safe":[1000, 100000],
+                "warning":[1500,80000]
+            }
 
         },
         {
@@ -171,7 +183,10 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "out_of_range": [0, 120]
+            "out_of_range": {
+                "safe":[0,120],
+                "warning":[0,100]
+            }
 
         },
         {
@@ -180,7 +195,10 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "out_of_range": [1000, 100000]
+            "out_of_range": {
+                "safe":[1000, 100000],
+                "warning":[1500,80000]
+            }
 
         },
         {
@@ -210,7 +228,10 @@
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
-            "out_of_range": [0, 400]
+            "out_of_range": {
+                "safe":[0, 400],
+                "warning":[0,399]
+            }
 
         },
         {
@@ -219,7 +240,10 @@
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
-            "out_of_range": [0, 400]
+            "out_of_range": {
+                "safe":[0,400],
+                "warning":[0,399]
+            }
         },
         {
             "id": "Speed_Ref",
@@ -227,7 +251,10 @@
             "type": "float32",
             "podUnits": "km/h",
             "displayUnits": "km/h",
-            "out_of_range": [0, 50]
+            "out_of_range": {
+                "safe":[0,50],
+                "warning":[0,40]
+            }
 
         },
         {
