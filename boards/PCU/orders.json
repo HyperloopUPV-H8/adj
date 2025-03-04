@@ -95,7 +95,9 @@
             "id": 513,
             "name": "Make_Complete_Run",
             "type": "order",
-            "variables": []
+            "variables": [
+                    "freq_to_send_PWM",
+                    "V_Ref"]
         }
         
 ]
