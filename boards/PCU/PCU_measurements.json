@@ -19,7 +19,10 @@
             "type": "float32",
             "podUnits": "hz",
             "displayUnits": "hz",
-            "out_of_range": [1000, 100000]
+            "out_of_range": {
+                "safe":[1000, 100000],
+                "warning":[1500,80000]
+            }
         },
         {
             "id": "duty_to_send",
