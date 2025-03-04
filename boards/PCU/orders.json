@@ -96,8 +96,8 @@
             "name": "Make_Complete_Run",
             "type": "order",
             "variables": [
-                    "freq_to_send_PWM",
-                    "V_Ref"]
+                    "Speed_Ref",
+                    "freq_to_send_PWM"]
         }
         
 ]
