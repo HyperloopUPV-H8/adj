@@ -314,5 +314,23 @@
             "type": "float32",
             "podUnits": "A",
             "displayUnits": "A"
+        },
+        {
+            "id": "Current_Control_State",
+            "name": "Current Control State",
+            "type": "enum",
+            "enumValues": [
+                "Cruise_Mode",
+                "Regenerate_Mode"
+            ]
+        },
+        {
+            "id": "Speed_Control_State",
+            "name": "Control Current ref",
+           "type": "enum",
+            "enumValues": [
+                "Cruise_Mode",
+                "Regenerate_Mode"
+            ]
         }
 ]
