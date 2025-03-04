@@ -1,4 +1,5 @@
 {
+    "PCU": "boards/PCU/PCU.json",
     "HVSCU": "boards/HVSCU/HVSCU.json"
 }
 
