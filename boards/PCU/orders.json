@@ -97,7 +97,8 @@
             "type": "order",
             "variables": [
                     "Speed_Ref",
-                    "freq_to_send_PWM"]
+                    "freq_to_send_PWM"
+            ]
         }
         
 ]
