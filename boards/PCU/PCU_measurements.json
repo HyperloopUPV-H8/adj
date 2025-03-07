@@ -298,15 +298,15 @@
             "id": "target_speed",
             "name": "Target Speed",
             "type": "float32",
-            "podUnits": "m/s",
-            "displayUnits": "m/s"
+            "podUnits": "km/h",
+            "displayUnits": "km/h"
         },
         {
             "id": "speed_error",
             "name": "Speed error",
             "type": "float64",
-            "podUnits": "m/s",
-            "displayUnits": "m/s"
+            "podUnits": "km/h",
+            "displayUnits": "km/h"
         },
         {
             "id": "actual_current_ref",
