@@ -47,5 +47,15 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "state",
+        "name": "State",
+        "type": "enum",
+        "enumValues": [
+            "CONNECTING",
+            "OPERATIONAL",
+            "FAULT"
+        ]
     }
 ]
