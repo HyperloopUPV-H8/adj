@@ -35,7 +35,7 @@
         "displayUnits": "V"
     },
     {
-        "id": "cell_5",
+        "id": "cell_6",
         "name": "Cell 6",
         "type": "float32",
         "podUnits": "V",
