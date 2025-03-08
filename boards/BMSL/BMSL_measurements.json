@@ -1,0 +1,51 @@
+[
+    {
+        "id": "cell_1",
+        "name": "Cell 1",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_2",
+        "name": "Cell 2",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_3",
+        "name": "Cell 3",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_4",
+        "name": "Cell 4",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell5",
+        "name": "Cell 5",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell6",
+        "name": "Cell 6",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "total_voltage",
+        "name": "Total Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    }
+]

@@ -1,0 +1,25 @@
+[
+        {
+           "id": 777,
+           "type": "data",
+           "name": "Battery_data",
+           "variables": [
+                "cell1",
+                "cell2",
+                "cell3",
+                "cell4",
+                "cell5",
+                "cell6",
+                "total_voltage"
+            ]
+        },
+        {
+            "id" : 778,
+            "type" : "data",
+            "name" : "Current_state",
+            "variables" : [
+                "state"
+            ]
+        }
+
+]
