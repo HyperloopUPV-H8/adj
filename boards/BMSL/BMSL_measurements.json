@@ -28,14 +28,14 @@
         "displayUnits": "V"
     },
     {
-        "id": "cell5",
+        "id": "cell_5",
         "name": "Cell 5",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
     },
     {
-        "id": "cell6",
+        "id": "cell_5",
         "name": "Cell 6",
         "type": "float32",
         "podUnits": "V",
