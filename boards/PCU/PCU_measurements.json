@@ -224,24 +224,24 @@
         },
         {
             "id": "VMax",
-            "name": "Max Voltage",
+            "name": "VDC",
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
             "out_of_range": {
-                "safe":[0, 400],
+                "safe":[0, 432],
                 "warning":[0,399]
             }
 
         },
         {
             "id": "VMaxSVPWM",
-            "name": "Max Voltage",
+            "name": "VDC",
             "type": "float32",
             "podUnits": "V",
             "displayUnits": "V",
             "out_of_range": {
-                "safe":[0,400],
+                "safe":[0,432],
                 "warning":[0,399]
             }
         },
