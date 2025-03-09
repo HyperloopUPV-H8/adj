@@ -7,7 +7,7 @@
             "displayUnits": "hz"
         },
         {
-            "id": "frequency",
+            "id": "modulation_frequency",
             "name": "Modulation frequency",
             "type": "uint32",
             "podUnits": "hz",
