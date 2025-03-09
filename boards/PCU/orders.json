@@ -97,7 +97,7 @@
         },
         {
             "id": 513,
-            "name": "Make_Complete_Run",
+            "name": "Make_Complete_Run(Regenerative)",
             "type": "order",
             "variables": [
                     "Speed_Ref",
