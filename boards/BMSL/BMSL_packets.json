@@ -37,7 +37,42 @@
                 "soc_1",
                 "soc_1",
                 "soc_1",
+                "is_balancing",
                 "total_voltage"
+            ]
+        },
+        {
+            "id":811,
+            "type":"data",
+            "name":"conditions",
+            "variables":[
+               "is_balancing",
+               "is_balancing",
+               "is_balancing",
+               "is_balancing" 
+            ]
+        },
+        {
+            "id":812    ,
+            "type":"data",
+            "name":"Boards current",
+            "variables":[
+                "soc_1",
+                "soc_1",
+                "soc_1",
+                "soc_1",
+                "soc_1",
+                "soc_1"
+            ]
+        },
+        {
+            "id":813,
+            "type":"data",
+            "name":"states",
+            "variables":[
+                "is_balancing",
+                "is_balancing",
+                "is_balancing"
             ]
         }
 
