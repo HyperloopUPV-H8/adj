@@ -354,6 +354,11 @@
                 "Forward",
                 "Backward"
             ]
+        },        
+        {
+            "id": "mod_freq_motor",
+            "name": "Frequency Modulation hz",
+            "type": "uint32"
         }
        
 ]

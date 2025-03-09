@@ -6,6 +6,7 @@
             "variables": [
                 "pwm_active",
                 "frequency",
+                "mod_freq_motor",
                 "duty",
                 "buffer_enable"
             ]
