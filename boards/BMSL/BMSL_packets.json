@@ -20,6 +20,25 @@
             "variables" : [
                 "state"
             ]
+        },
+        {
+            "id":810,
+            "type":"data",
+            "name": "Battery_data_H9",
+            "variables":[
+                "soc_1",
+                "cell_1",
+                "cell_2",
+                "cell_3",
+                "cell_4",
+                "cell_5",
+                "cell_6",
+                "soc_1",
+                "soc_1",
+                "soc_1",
+                "soc_1",
+                "total_voltage"
+            ]
         }
 
 ]
