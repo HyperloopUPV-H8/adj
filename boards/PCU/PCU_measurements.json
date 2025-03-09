@@ -332,5 +332,10 @@
                 "Cruise_Mode",
                 "Regenerate_Mode"
             ]
+        },
+        {
+            "id":"mod_index",
+            "name":"Index Modulation",
+            "type":"float32"
         }
 ]
