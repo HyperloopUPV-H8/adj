@@ -52,8 +52,8 @@
                 "encoder_position",
                 "encoder_direction",
                 "encoder_speed",
-                "encoder_acceleration"
-                
+                "encoder_speed_km_h",
+                "encoder_acceleration"  
             ]
         },
         {
