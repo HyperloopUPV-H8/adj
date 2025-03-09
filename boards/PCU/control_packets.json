@@ -72,7 +72,8 @@
             "type": "data",
             "variables": [
                  "Current_Control_State",
-                 "Speed_Control_State"
+                 "Speed_Control_State",
+                 "Direction_State"
             ]
         }
     ]

@@ -332,5 +332,15 @@
                 "Cruise_Mode",
                 "Regenerate_Mode"
             ]
+        },
+        {
+            "id": "Direction_State",
+            "name": "Direction Motor",
+           "type": "enum",
+            "enumValues": [
+                "Forward",
+                "Backward"
+            ]
         }
+       
 ]
