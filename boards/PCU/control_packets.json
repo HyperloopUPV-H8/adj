@@ -6,6 +6,7 @@
             "variables": [
                 "pwm_active",
                 "frequency",
+                "modulation_frequency",
                 "duty",
                 "buffer_enable"
             ]

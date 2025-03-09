@@ -7,6 +7,13 @@
             "displayUnits": "hz"
         },
         {
+            "id": "frequency",
+            "name": "Modulation frequency",
+            "type": "uint32",
+            "podUnits": "hz",
+            "displayUnits": "hz"
+        },
+        {
             "id": "duty",
             "name": "Duty from PWM ACTIVE",
             "type": "float32",
