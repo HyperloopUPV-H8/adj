@@ -288,15 +288,23 @@
             "displayUnits": "m/s"
         },
         {
+            "id": "encoder_speed_km_h",
+            "name": "Speed km/h",
+            "type": "float64",
+            "podUnits": "km/h",
+            "displayUnits": "km/h"
+        },
+        
+        {
             "id": "encoder_acceleration",
             "name": "Acceleration Encoder",
             "type": "float64",
-            "podUnits": "m/s2",
-            "displayUnits": "m/s2"
+            "podUnits": "m/ss",
+            "displayUnits": "m/ss"
         },
         {
             "id": "target_speed",
-            "name": "Target Speed",
+            "name": "Target Speed KM/H",
             "type": "float32",
             "podUnits": "km/h",
             "displayUnits": "km/h"
@@ -337,5 +345,15 @@
             "id":"mod_index",
             "name":"Index Modulation",
             "type":"float32"
+        },
+        {
+            "id": "Direction_State",
+            "name": "Direction Motor",
+           "type": "enum",
+            "enumValues": [
+                "Forward",
+                "Backward"
+            ]
         }
+       
 ]
