@@ -304,7 +304,7 @@
         },
         {
             "id": "target_speed",
-            "name": "Target Speed",
+            "name": "Target Speed KM/H",
             "type": "float32",
             "podUnits": "km/h",
             "displayUnits": "km/h"
