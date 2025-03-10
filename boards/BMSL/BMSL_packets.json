@@ -33,10 +33,10 @@
                 "cell_4",
                 "cell_5",
                 "cell_6",
-                "soc_1",
-                "soc_1",
-                "soc_1",
-                "soc_1",
+                "minimum_cell",
+                "maximum_cell",
+                "temperature_1",
+                "temperature_2",
                 "is_balancing",
                 "total_voltage"
             ]

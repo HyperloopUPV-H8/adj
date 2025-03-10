@@ -59,14 +59,41 @@
         ]
     },
     {
-        "id":"soc_1",
+        "id": "soc_1",
         "name": "SOC ",
         "type": "float32"
     },
     {
-     "id":"is_balancing",
-     "name":"balancing",
-     "type":"bool"   
+        "id": "is_balancing",
+        "name": "balancing",
+        "type": "bool"   
+    },
+    {
+        "id": "minimum_cell",
+        "name": "Minimum Cell Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "maximum_cell",
+        "name": "Maximum Cell Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "temperature_1",
+        "name": "Temperature 1",
+        "type": "float32",
+        "podUnits": "°C",
+        "displayUnits": "°C"
+    },
+    {
+        "id": "temperature_2",
+        "name": "Temperature 2",
+        "type": "float32",
+        "podUnits": "°C",
+        "displayUnits": "°C"
     }
-
 ]
