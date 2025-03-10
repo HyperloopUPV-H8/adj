@@ -1,79 +1,25 @@
 [
-        {
-           "id": 777,
-           "type": "data",
-           "name": "Battery_data",
-           "variables": [
-                "cell_1",
-                "cell_2",
-                "cell_3",
-                "cell_4",
-                "cell_5",
-                "cell_6",
-                "total_voltage"
-            ]
-        },
-        {
-            "id" : 778,
-            "type" : "data",
-            "name" : "Current_state",
-            "variables" : [
-                "state"
-            ]
-        },
-        {
-            "id":810,
-            "type":"data",
-            "name": "Battery_data_H9",
-            "variables":[
-                "soc_1",
-                "cell_1",
-                "cell_2",
-                "cell_3",
-                "cell_4",
-                "cell_5",
-                "cell_6",
-                "soc_1",
-                "soc_1",
-                "soc_1",
-                "soc_1",
-                "is_balancing",
-                "total_voltage"
-            ]
-        },
-        {
-            "id":811,
-            "type":"data",
-            "name":"conditions",
-            "variables":[
-               "is_balancing",
-               "is_balancing",
-               "is_balancing",
-               "is_balancing" 
-            ]
-        },
-        {
-            "id":812    ,
-            "type":"data",
-            "name":"Boards current",
-            "variables":[
-                "soc_1",
-                "soc_1",
-                "soc_1",
-                "soc_1",
-                "soc_1",
-                "soc_1"
-            ]
-        },
-        {
-            "id":813,
-            "type":"data",
-            "name":"states",
-            "variables":[
-                "is_balancing",
-                "is_balancing",
-                "is_balancing"
-            ]
-        }
+    {
+       "id": 777,
+       "type": "data",
+       "name": "Battery_data",
+       "variables": [
+            "cell_1",
+            "cell_2",
+            "cell_3",
+            "cell_4",
+            "cell_5",
+            "cell_6",
+            "total_voltage"
+        ]
+    },
+    {
+        "id" : 778,
+        "type" : "data",
+        "name" : "Current_state",
+        "variables" : [
+            "state"
+        ]
+    }
 
 ]

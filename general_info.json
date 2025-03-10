@@ -1,13 +1,13 @@
 {
     "ports": {
         "TCP_CLIENT": 50401,
-        "TCP_SERVER": 50418,
+        "TCP_SERVER": 50500,
         "UDP": 50400,
         "SNTP": 123,
         "TFTP": 69
     },
     "addresses": {
-        "backend": "192.168.1.3"
+        "backend": "192.168.0.9"
     },
     "units": {
         "V": "*1",

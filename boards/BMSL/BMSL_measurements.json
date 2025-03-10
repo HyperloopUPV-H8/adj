@@ -57,16 +57,5 @@
             "OPERATIONAL",
             "FAULT"
         ]
-    },
-    {
-        "id":"soc_1",
-        "name": "SOC ",
-        "type": "float32"
-    },
-    {
-     "id":"is_balancing",
-     "name":"balancing",
-     "type":"bool"   
     }
-
 ]
