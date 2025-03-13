@@ -1,5 +1,4 @@
-{
-    "packets": [
+ [
         {
             "id": "0",
             "name": "propagate fault",
@@ -265,4 +264,3 @@
             ]
         }
     ]
-}

@@ -1,5 +1,4 @@
-{
-    "measurements": [
+ [
         {
             "id": "battery1_SOC",
             "name": "Battery 1 SOC",
@@ -891,4 +890,3 @@
             "displayUnits": "V"
         }
     ]
-}

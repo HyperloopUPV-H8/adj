@@ -1,5 +1,4 @@
-{
-    "measurements": [
+ [
         {
             "id": "battery_current",
             "name": "Battery Current",
@@ -89,4 +88,3 @@
             "type": "bool"
         }
     ]
-}

@@ -1,5 +1,5 @@
-{
-    "measurements": [
+
+   [
         {
             "id": "duty_cycle",
             "name": "Duty Cycle",
@@ -66,4 +66,3 @@
             "warningRange":[-100, 100]
         }
     ]
-}

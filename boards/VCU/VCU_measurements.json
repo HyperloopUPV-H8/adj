@@ -1,5 +1,4 @@
-{
-    "measurements": [
+ [
         {
             "id": "new_reference_pressure",
             "name": "New Reference Pressure",
@@ -382,4 +381,4 @@
             "safeRange": [1, 36]
         }
     ]
-}
+

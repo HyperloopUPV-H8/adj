@@ -1,5 +1,4 @@
-{
-    "packets": [
+ [
         {
             "id": "211",
             "name": "vcu_regulator_packet",
@@ -105,4 +104,3 @@
         ]
         }
     ]
-}
