@@ -209,16 +209,12 @@
         ]
     },
     {
-        "id": "551",
+        "id": 551,
         "name": "Batteries_Voltage",
         "type": "data",
         "variables": [
-            {
-                "name": "Voltage_Battery_A"
-            },
-            {
-                "name": "Voltage_Battery_B"
-            }
+            "Voltage_Battery_A",
+            "Voltage_Battery_B"
         ]
     }
 ]

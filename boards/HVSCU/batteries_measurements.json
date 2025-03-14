@@ -906,11 +906,15 @@
     {
         "id": "Voltage_Battery_A",
         "name": "Voltage Battery A",
-        "type": "float32"
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     },
     {
         "id": "Voltage_Battery_B",
         "name": "Voltage Battery B",
-        "type": "float32"
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]
