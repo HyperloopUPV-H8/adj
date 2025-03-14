@@ -356,6 +356,11 @@
                 "Forward",
                 "Backward"
             ]
+        },
+        {
+            "id":"imod",
+            "name": "modulation_index",
+            "type":"float32"
         }
        
 ]
