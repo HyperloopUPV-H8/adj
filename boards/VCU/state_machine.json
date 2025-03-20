@@ -1,0 +1,153 @@
+{
+    "name" : "VCU",
+    
+    "states" : [
+        "Coneecting",
+        {
+            "name" : "Operational",
+            "sub-states":[
+                "Idle",
+                "Precharge",
+                "Energyzed"
+            ]
+        },
+        {
+            "name" : "Demonstration",
+            "nested_to" : "Operational"
+            
+        },
+        {
+            "name" : "Vertical Levitation",
+            "nested_to" : "Demonstration",
+            "sub-states":[
+                "Vertical Levitation Inactive",
+                "Vertical Levitation Active"
+            ]
+        },
+        {
+            "name" : "Horizontal Levitation",
+            "nested_to" : "Demonstration",
+            "sub-states":[
+                "Horizontal Levitation Inactive",
+                "Horizontal Levitation Active",
+                "Booster ready",
+                "Booster active"
+
+            ]
+        },
+        {
+            "name" : "Propulsion",
+            "nested_to" : "Demonstration",
+            "sub-states":[
+                "Propulsion Inactive",
+                "Propulsion Active"
+            ]
+        },
+   
+        "Fault"
+    ],
+
+    "transitions" : [
+        {
+            "from_state" : "Connecting",
+            "to_state" : "Fault"
+        },
+        {
+            "from_state" : "Connecting",
+            "to_state" : "Demonstration",
+            "description" : "Transitioning from 1 to 2"
+        },
+        {
+            "from_state" : "name_1",
+            "to_state" : {
+                "name" : "Nested",
+                "sub-state" : "nested_name_1"
+            },
+            "transition_name": "from_1_to_nested_1"
+        }
+    ],
+
+    "actions" : {
+        "enter" : [
+            {
+                "state" : "name_1",
+                "state_actions" : [
+                    "enter_action_1",
+                    "enter_action_2"
+                ]
+            },
+            {
+                "state" : "name_2",
+                "state_actions" : [
+                    {
+                        "name" : "enter_action_3",
+                        "description" : "Description of enter_action_3"
+                    },
+                    "enter_action_4"
+                ]
+            }
+        ],
+
+        "cyclic" : {
+            "low_precision" : [
+                {
+                    "states" : [
+                        "name_1",
+                        "name_2"
+                    ],
+                    "state_actions" : [
+                        {
+                            "action_name" : "low_precision_action",
+                            "action_period" : "30ms"
+                        }
+                    ]
+                }
+            ],
+            "mid_precision" : [
+                {
+                    "states" : [
+                        "name_1",
+                        {
+                            "name" : "Nested",
+                            "sub-state" : "nested_name_1"
+                        }
+                    ],
+                    "state_actions" : [
+                        {
+                            "action_name" : "mid_precision_action_to_nested_state",
+                            "action_period" : "60ms"
+                        }
+                    ]
+                }
+            ],
+            "high_precision" : [
+                {
+                    "states" : [
+                        "name_1",
+                        "name_2"
+                    ],
+                    "state_actions" : [
+                        {
+                            "action_name" : "high_precision_action_with_description",
+                            "action_period" : "90ms",
+                            "description" : "Cyclic action example with description"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "exit" : [
+            {
+                "state" : {
+                    "name" : "Nested",
+                    "sub-state" : "nested_name_2"
+                },
+                "state_actions" : [
+                    "exit_action_1",
+                    "exit_action_2"
+                ]
+            }
+        ]
+    }
+}
