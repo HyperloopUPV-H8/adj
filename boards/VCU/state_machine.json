@@ -17,21 +17,21 @@
             
         },
         {
-            "name" : "Vertical Levitation",
+            "name" : "Vertical_Levitation",
             "nested_to" : "Demonstration",
             "sub-states":[
-                "Vertical Levitation Inactive",
-                "Vertical Levitation Active"
+                "Vertical_Levitation_Inactive",
+                "Vertical_Levitation_Active"
             ]
         },
         {
-            "name" : "Horizontal Levitation",
+            "name" : "Horizontal_Levitation",
             "nested_to" : "Demonstration",
             "sub-states":[
-                "Horizontal Levitation Inactive",
-                "Horizontal Levitation Active",
-                "Booster ready",
-                "Booster active"
+                "Horizontal_Levitation_Inactive",
+                "Horizontal_Levitation_Active",
+                "Booster_Ready",
+                "Booster_Active"
 
             ]
         },
@@ -39,8 +39,8 @@
             "name" : "Propulsion",
             "nested_to" : "Demonstration",
             "sub-states":[
-                "Propulsion Inactive",
-                "Propulsion Active"
+                "Propulsion_Inactive",
+                "Propulsion_Active"
             ]
         },
    
@@ -53,18 +53,119 @@
             "to_state" : "Fault"
         },
         {
+            "from_state" : "Operational",
+            "to_state" : "Fault"
+        },
+
+        {
+            "from_state" : "Demonstration",
+            "to_state" : "Fault"
+        },
+
+        {
             "from_state" : "Connecting",
-            "to_state" : "Demonstration",
-            "description" : "Transitioning from 1 to 2"
+            "to_state" : "Operational",
+             "description" : "Connection with Control Station established"
         },
         {
-            "from_state" : "name_1",
+            "from_state" : "Operational",
+            "to_state" : "Demonstration"
+        },
+
+        {
+            "from_state" : "Demonstration",
+            "to_state" : "Operational"
+        },
+
+        {
+            "from_state" : "Operational.Idle",
+            "to_state" : "Operational.Precharge"
+        },
+
+        {
+            "from_state" : "Operational.Precharge",
+            "to_state" : "Operational.Idle"
+        },
+
+        {
+            "from_state" : "Operational.Precharge",
+            "to_state" : "Operational.Energyzed"
+        },
+
+        {
+            "from_state" : "Operational.Energyzed",
+            "to_state" : "Operational.Idle"
+        },
+
+        {
+            "from_state" : "Demonstration",
             "to_state" : {
-                "name" : "Nested",
-                "sub-state" : "nested_name_1"
-            },
-            "transition_name": "from_1_to_nested_1"
+                "name" : "Vertical_Levitation",
+                "sub-state" : "Vertical_Levitation_Inactive"
+            }
+        },
+
+        {
+            "from_state" : "Demonstration",
+            "to_state" : {
+                "name" : "Horizontal_Levitation",
+                "sub-state" : "Horizontal_Levitation_Inactive"
+            }
+        },
+
+        {
+            "from_state" : "Demonstration",
+            "to_state" : {
+                "name" : "Propulsion",
+                "sub-state" : "Propulsion_Inactive"
+            }
+        },
+        
+        {
+            "from_state" : "Vertical_Levitation.Vertical_Levitation_Inactive",
+            "to_state" : "Vertical_Levitation.Vertical_Levitation_Active"
+        },
+        {
+            "from_state" : "Vertical_Levitation.Vertical_Levitation_Active",
+            "to_state" : "Vertical_Levitation.Vertical_Levitation_Inactive"
+        },
+
+        {
+            "from_state" : "Horizontal_Levitation.Horizontal_Levitation_Inactive",
+            "to_state" : "Horizontal_Levitation.Horizontal_Levitation_Active"
+        },
+
+        {
+            "from_state" : "Horizontal_Levitation.Horizontal_Levitation_Active",
+            "to_state" : "Horizontal_Levitation.Horizontal_Levitation_Inactive"
+        },
+
+        {
+            "from_state" : "Horizontal_Levitation.Horizontal_Levitation_Active",
+            "to_state" : "Horizontal_Levitation.Booster_Ready"
+        },
+
+        {
+            "from_state" : "Horizontal_Levitation.Horizontal_Levitation_Inactive",
+            "to_state" : "Horizontal_Levitation.Booster_Ready"
+        },
+
+        {
+            "from_state" : "Horizontal_Levitation.Booster_Ready",
+            "to_state" : "Horizontal_Levitation.Booster_Active"
+        },
+
+
+        {
+            "from_state" : "Propulsion.Propulsion_Inactive",
+            "to_state" : "Propulsion.Propulsion_Active"
+        },
+
+        {
+            "from_state" : "Propulsion.Propulsion_Active",
+            "to_state" : "Propulsion.Propulsion_Inactive"
         }
+
     ],
 
     "actions" : {
