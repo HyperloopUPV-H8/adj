@@ -1,6 +1,6 @@
 [
     {
-        "id":"900",
+        "id":900,
         "type": "order",
         "name":"Open Contactors",
         "variables":[
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "id":"901",
+        "id":901,
         "type": "order",
         "name":"Close Contactors",
         "variables":[
@@ -16,14 +16,14 @@
         ]
     },
     {
-        "id":"2",
+        "id":2,
         "type": "order",
         "name":"Active Discharge",
         "variables":[
 
         ]
     },{
-        "id": "24",
+        "id": 24,
         "type": "data",
         "name": "placeholder",
         "variables":[

@@ -1,6 +1,6 @@
 [
         {
-           "id": "910",
+           "id": 910,
            "type": "data",
            "name": "battery_1",
            "variables": [
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "id": "911",
+            "id": 911,
             "type": "data",
             "name": "battery_2",
             "variables": [
@@ -40,7 +40,7 @@
             ]
          },
          {
-            "id": "912",
+            "id": 912,
             "type": "data",
             "name": "battery_3",
             "variables": [
@@ -60,7 +60,7 @@
             ]
          },
          {
-            "id": "913",
+            "id": 913,
             "type": "data",
             "name": "battery_4",
             "variables": [
@@ -80,7 +80,7 @@
             ]
          },
          {
-            "id": "914",
+            "id": 914,
             "type": "data",
             "name": "battery_5",
             "variables": [
@@ -100,7 +100,7 @@
             ]
          },
          {
-            "id": "915",
+            "id": 915,
             "type": "data",
             "name": "battery_6",
             "variables": [
@@ -120,7 +120,7 @@
             ]
          },
          {
-            "id": "916",
+            "id": 916,
             "type": "data",
             "name": "battery_7",
             "variables": [
@@ -140,7 +140,7 @@
             ]
          },
          {
-            "id": "917",
+            "id": 917,
             "type": "data",
             "name": "battery_8",
             "variables": [
@@ -160,7 +160,7 @@
             ]
          },
          {
-            "id": "918",
+            "id": 918,
             "type": "data",
             "name": "battery_9",
             "variables": [
@@ -180,7 +180,7 @@
             ]
          },
          {
-            "id": "919",
+            "id": 919,
             "type": "data",
             "name": "battery_10",
             "variables": [

@@ -1,12 +1,12 @@
 [
         {
-            "id": "0",
+            "id": 0,
             "name": "Fault",
             "type": "data",
             "variables": []
         },  
         {
-            "id": "921",
+            "id": 921,
             "name": "Total Voltage",
             "type": "data",
             "variables": [
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "id": "922",
+            "id": 922,
             "name": "IMD",
             "type": "data",
             "variables": [
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "id": "924",
+            "id": 924,
             "name": "Measurements",
             "type": "data",
             "variables": [
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "id": "925",
+            "id": 925,
             "name": "OBCPU Measurements",
             "type": "data",
             "variables": [
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "926",
+            "id": 926,
             "name": "Contactors State",
             "type": "data",
             "variables": [
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "id": "981",
+            "id": 981,
             "name": "Output Voltage",
             "type": "data",
             "variables": [

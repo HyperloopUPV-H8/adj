@@ -1,6 +1,6 @@
  [
         {
-            "id": "211",
+            "id": 211,
             "name": "vcu_regulator_packet",
             "type": "data",
             "variables": [
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "id": "212",
+            "id": 212,
             "name": "vcu_reed_packet",
             "type": "data",
             "variables": [
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "id": "213",
+            "id": 213,
             "name": "vcu_bottle_temperature_packet",
             "type": "data",
             "variables": [
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "id": "214",
+            "id": 214,
             "name": "vcu_pressure_packet",
             "type": "data",
             "variables": [
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "id": "219",
+            "id": 219,
             "name": "encoder_packet",
             "type": "data",
             "variables": [
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "id": "220",
+            "id": 220,
             "name": "state_machines_packet",
             "type": "data",
             "variables":         [
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "id": "221",
+            "id": 221,
             "name": "emergency_tape_state",
             "type": "data",
             "variables": [
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "id": "981",
+            "id": 981,
             "name": "output_vtg",
             "type": "data",
             "variables": [
@@ -82,7 +82,7 @@
 
         },
         {
-            "id": "230",
+            "id": 230,
             "name": "Tcp_connections",
             "type": "data",
             "variables": 
@@ -94,7 +94,7 @@
         ]
         },
         {
-            "id": "231",
+            "id": 231,
             "name": "waterblock_data",
             "type": "data",
             "variables": 
