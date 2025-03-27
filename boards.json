@@ -2,6 +2,7 @@
     "boards": {
         "OBCCU": "boards/OBCCU/OBCCU.json",
         "VCU": "boards/VCU/VCU.json",
-        "LCU": "boards/LCU/LCU.json"
+        "LCU": "boards/LCU/LCU.json",
+        "HVSCU-Cabinet": "boards/HVSCU-Cabinet/HVSCU-Cabinet.json"
     }
 }

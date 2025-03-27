@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1697,
+        "type": "order",
+        "name": "Charge Supercaps",
+        "variables": [
+            "target_charge_voltage"
+        ]
+    },
+    {
+        "id": 1698,
+        "type": "order",
+        "name": "Open Contactors",
+        "variables": []
+    },
+    {
+        "id": 1699,
+        "type": "order",
+        "name": "Close Contactors",
+        "variables": []
+    }
+]
