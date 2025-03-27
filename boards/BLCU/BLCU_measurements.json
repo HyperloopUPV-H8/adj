@@ -1,0 +1,9 @@
+{
+    "measurements": [
+        {
+            "id": "target",
+            "name": "Target",
+            "type": "enum",
+            "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]
+        }]
+}
