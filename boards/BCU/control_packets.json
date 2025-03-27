@@ -27,7 +27,7 @@
         "type": "data",
         "name": "placeholder",
         "variables":[
-            {"name":"current_u_bpu_1_sector_1"}
+            "current_u_bpu_1_sector_1"
         ]
     }
     ]

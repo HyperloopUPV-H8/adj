@@ -10,7 +10,7 @@
             "name": "Total Voltage",
             "type": "data",
             "variables": [
-                {"name": "total_voltage_high"}
+                 "total_voltage_high"
             ]
         },
         {
@@ -18,9 +18,9 @@
             "name": "IMD",
             "type": "data",
             "variables": [
-                { "name": "imd_status" },
-                { "name": "freq_imd" },
-                { "name": "duty_imd" }
+                "imd_status",
+                "freq_imd",
+                "duty_imd" 
             ]
         },
         {
@@ -28,7 +28,7 @@
             "name": "Measurements",
             "type": "data",
             "variables": [
-                {"name": "battery_current"}
+                "battery_current"
             ]
         },
         {
@@ -36,10 +36,10 @@
             "name": "OBCPU Measurements",
             "type": "data",
             "variables": [
-                { "name": "obcpu_input_current" },
-                { "name": "obcpu_input_voltage" },
-                { "name": "obcpu_output_current" },
-                { "name": "obcpu_output_voltage" }
+                "obcpu_input_current",
+                "obcpu_input_voltage",
+                "obcpu_output_current",
+                "obcpu_output_voltage"
             ]
         },
         {
@@ -47,9 +47,9 @@
             "name": "Contactors State",
             "type": "data",
             "variables": [
-                { "name": "contactors_state" },
-                { "name": "plug_state" },
-                { "name": "board_state" }
+                "contactors_state",
+                "plug_state",
+                "board_state"
             ]
         },
         {
@@ -57,8 +57,8 @@
             "name": "Output Voltage",
             "type": "data",
             "variables": [
-                { "name": "output_voltage_lpus" },
-                { "name": "driving_mosfets" }
+                "output_voltage_lpus",
+                "driving_mosfets"
             ]
         }
     ]
