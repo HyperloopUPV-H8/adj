@@ -73,8 +73,8 @@
         "id": "temperature_2",
         "name": "Temperature 2",
         "type": "float32",
-        "podUnits": "C",
-        "displayUnits": "C"
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
     },
     {
         "id": "state",
