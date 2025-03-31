@@ -42,11 +42,39 @@
         "displayUnits": "V"
     },
     {
+        "id": "max_cell_voltage",
+        "name": "Maximum Cell Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "min_cell_voltage",
+        "name": "Minimum Cell Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
         "id": "total_voltage",
         "name": "Total Voltage",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "temperature_1",
+        "name": "Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "temperature_2",
+        "name": "Temperature 2",
+        "type": "float32",
+        "podUnits": "C",
+        "displayUnits": "C"
     },
     {
         "id": "state",

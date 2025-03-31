@@ -2,7 +2,7 @@
     {
        "id": 777,
        "type": "data",
-       "name": "Battery_data",
+       "name": "Voltage_data",
        "variables": [
             "cell_1",
             "cell_2",
@@ -10,11 +10,22 @@
             "cell_4",
             "cell_5",
             "cell_6",
+            "max_cell_voltage",
+            "min_cell_voltage",
             "total_voltage"
         ]
     },
     {
         "id" : 778,
+        "type" : "data",
+        "name" : "Temperature_data",
+        "variables" : [
+            "temperature_1",
+            "temperature_2"
+        ]
+    },
+    {
+        "id" : 779,
         "type" : "data",
         "name" : "Current_state",
         "variables" : [
