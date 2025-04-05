@@ -1,12 +1,12 @@
 {
-    "board_id": 16,
-    "board_ip": "192.168.0.16",
+    "board_id": 217,
+    "board_ip": "192.168.2.17",
     "packets": [
-        "supercaps_data.json",
-        "orders.json"
+        "orders.json",
+        "packets.json"
     ],
     "measurements": [
-        "supercaps_measurements.json",
-        "order_measurements.json"
+        "order_measurements.json",
+        "measurements.json"
     ]
 }

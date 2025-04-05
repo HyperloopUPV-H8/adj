@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1607,
+        "type": "data",
+        "name": "SDC State",
+        "variables": [
+            "sdc_good"
+        ]
+    },
+    {
+        "id": 1608,
+        "type": "data",
+        "name": "Contactors State",
+        "variables": [
+            "bus_voltage",
+            "contactors_state"
+        ]
+    }
+]

@@ -1,5 +1,27 @@
 [
     {
+        "id": 1694,
+        "type": "order",
+        "name": "SDC Enable",
+        "variables": [
+            "sdc_enable"
+        ]
+    },
+    {
+        "id": 1695,
+        "type": "order",
+        "name": "IMD Bypass",
+        "variables": [
+            "imd_bypass"
+        ]
+    },
+    {
+        "id": 1696,
+        "type": "order",
+        "name": "Reset Supercaps",
+        "variables": []
+    },
+    {
         "id": 1697,
         "type": "order",
         "name": "Charge Supercaps",

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1700,
+        "type": "data",
+        "name": "State",
+        "variables": [
+            "master_general_state",
+            "master_nested_state",
+            "slave_general_state",
+            "slave_nested_state"
+        ]
+    }
+]

@@ -8,5 +8,27 @@
         "above": {
             "warning": 100.0
         }
+    },
+    {
+        "id": "imd_bypass",
+        "name": "Bypass IMD?",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Enable",
+            "Disable"
+        ]
+    },
+    {
+        "id": "sdc_enable",
+        "name": "Enable SDC?",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Enable",
+            "Disable"
+        ]
     }
 ]

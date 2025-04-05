@@ -1,0 +1,50 @@
+[
+    {
+        "id": "master_general_state",
+        "name": "Master General State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Connecting",
+            "Operational",
+            "Fault"
+        ]
+    },
+    {
+        "id": "master_nested_state",
+        "name": "Master Operational State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "Ready",
+            "Boosting"
+        ]
+    },
+    {
+        "id": "slave_general_state",
+        "name": "Slave General State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Connecting",
+            "Operational",
+            "Fault"
+        ]
+    },
+    {
+        "id": "slave_nested_state",
+        "name": "Slave Operational State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "Ready",
+            "Boosting"
+        ]
+    }
+]

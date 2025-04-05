@@ -1,12 +1,1 @@
-[
-    {
-        "id": "target_charge_voltage",
-        "name": "Target Charge Voltage",
-        "type": "float32",
-        "podUnits": "V",
-        "displayUnits": "V",
-        "above": {
-            "warning": 100.0
-        }
-    }
-]
+[]
