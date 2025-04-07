@@ -75,6 +75,13 @@
         "displayUnits": "Percentage"
     },
     {
+        "id": "current",
+        "name": "Current",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
         "id": "state",
         "name": "State",
         "type": "enum",

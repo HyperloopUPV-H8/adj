@@ -14,7 +14,8 @@
             "min_cell_voltage",
             "total_voltage",
             "balancing",
-            "SOC"
+            "SOC",
+            "current"
         ]
     },
     {
