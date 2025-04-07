@@ -18,15 +18,6 @@
     {
         "id" : 778,
         "type" : "data",
-        "name" : "Temperature_data",
-        "variables" : [
-            "temperature_1",
-            "temperature_2"
-        ]
-    },
-    {
-        "id" : 779,
-        "type" : "data",
         "name" : "Current_state",
         "variables" : [
             "state"

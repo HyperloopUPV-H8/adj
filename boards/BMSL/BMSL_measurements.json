@@ -63,20 +63,6 @@
         "displayUnits": "V"
     },
     {
-        "id": "temperature_1",
-        "name": "Temperature 1",
-        "type": "float32",
-        "podUnits": "ºC",
-        "displayUnits": "ºC"
-    },
-    {
-        "id": "temperature_2",
-        "name": "Temperature 2",
-        "type": "float32",
-        "podUnits": "ºC",
-        "displayUnits": "ºC"
-    },
-    {
         "id": "state",
         "name": "State",
         "type": "enum",
