@@ -63,6 +63,18 @@
         "displayUnits": "V"
     },
     {
+        "id": "balancing",
+        "name": "Balancing",
+        "type": "bool"
+    },
+    {
+        "id": "SOC",
+        "name": "SOC",
+        "type": "float32",
+        "podUnits": "Percentage",
+        "displayUnits": "Percentage"
+    },
+    {
         "id": "state",
         "name": "State",
         "type": "enum",
