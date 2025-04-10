@@ -1,0 +1,9 @@
+[
+    {
+        "id": "value_1",
+        "name": "Valor",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    }
+]
