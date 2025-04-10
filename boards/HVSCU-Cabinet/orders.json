@@ -41,4 +41,71 @@
         "name": "Close Contactors",
         "variables": []
     }
+    ,
+    {
+        "id": 1700,
+        "type": "order",
+        "name": "BCU Test PWM",
+        "variables": [
+            "duty_u",
+            "duty_v",
+            "duty_w"
+        ]
+    },
+    {
+        "id": 1701,
+        "type": "order",
+        "name": "BCU Emulate Movement",
+        "variables": [
+            "angular_velocity",
+            "ref_q",
+            "ref_d"
+        ]
+    },
+    {
+        "id": 1702,
+        "type": "order",
+        "name": "BCU Current Control",
+        "variables": [
+            "ref_q",
+            "ref_d"
+        ]
+    },
+    {
+        "id": 1703,
+        "type": "order",
+        "name": "BCU Velocity Control",
+        "variables": [
+            "ref_speed"
+        ]
+    },
+    {
+        "id": 1704,
+        "type": "order",
+        "name": "BCU Set PWM Params",
+        "variables": [
+            "ref_switch_freq",
+            "ref_dead_time"
+        ]
+    },
+    {
+        "id": 1705,
+        "type": "order",
+        "name": "BCU Stop",
+        "variables": []
+    },
+    {
+        "id": 1706,
+        "type": "order",
+        "name": "BCU Set Fixed DC Link Voltage",
+        "variables": [
+            "fixed_dc_link_vtg"
+        ]
+    },
+    {
+        "id": 1707,
+        "type": "order",
+        "name": "BCU Unset Fixed DC Link Voltage",
+        "variables": []
+    }
 ]
