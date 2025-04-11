@@ -204,17 +204,17 @@
         "type": "data",
         "name": "batteries_current",
         "variables": [
-            "batteries_voltage",
-            "batteries_current"
+            "batteries_current_raw",
+            "batteries_current_value"
         ]
     },
     {
         "id": 931,
-        "name": "Batteries_Voltage",
+        "name": "batteries_voltage",
         "type": "data",
         "variables": [
-            "raw",
-            "voltage"
+            "batteries_voltage_raw",
+            "batteries_voltage_value"
         ]
     }
 ]
