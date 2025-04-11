@@ -1,5 +1,3 @@
 {
-    "boards": {
-        "HVSCU": "boards/HVSCU/HVSCU.json"
-    }
+    "HVSCU": "boards/HVSCU/HVSCU.json"
 }
