@@ -519,10 +519,10 @@
             "id": "lcu_desired_distance",
             "name": "desired distance",
             "type": "float32",
-            "podUnits": "m",
-            "displayUnits": "m",
-            "safeRange":[0.0001,0.030],
-            "warningRange":[0.010,0.030]
+            "podUnits": "mm",
+            "displayUnits": "mm",
+            "safeRange":[0.1,200],
+            "warningRange":[0.1, 200]
         },
         {
             "id": "pos_y",
@@ -636,7 +636,7 @@
             "type": "uint32",
             "podUnits": "Hz",
             "displayUnits": "Hz",
-            "safeRange": [1800, 2100]
+            "safeRange": [1800, 10000]
         },
         {
             "id": "levitation_control_frequency",
@@ -729,9 +729,191 @@
             "displayUnits": "A"
         },
         {
+            "id": "lcu_coil_current_exit_1",
+            "name": "exit on LDU 1",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_2",
+            "name": "exit on LDU 2",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_3",
+            "name": "exit on LDU 3",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_4",
+            "name": "exit on LDU 4",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_5",
+            "name": "exit on LDU 5",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_6",
+            "name": "exit on LDU 6",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_7",
+            "name": "exit on LDU 7",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_8",
+            "name": "exit on LDU 8",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_9",
+            "name": "exit on LDU 9",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_coil_current_exit_10",
+            "name": "exit on LDU 10",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
             "id": "output_voltage",
             "name": "output_voltage",
             "type": "uint16"
+        },
+        {
+            "id": "lcu_dis_pos_ref_1",
+            "name": "Ref Dis 1",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_2",
+            "name": "Ref Dis 2",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_3",
+            "name": "Ref Dis 3",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_4",
+            "name": "Ref Dis 4",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_5",
+            "name": "Ref Dis 5",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_6",
+            "name": "Ref Dis 6",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_7",
+            "name": "Ref Dis 7",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_ref_8",
+            "name": "Ref Dis 8",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_1",
+            "name": "exit Dis 1",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_2",
+            "name": "exit Dis 2",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_3",
+            "name": "exit Dis 3",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_4",
+            "name": "exit Dis 4",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_5",
+            "name": "exit Dis 5",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_6",
+            "name": "exit Dis 6",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_7",
+            "name": "exit Dis 7",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
+        },
+        {
+            "id": "lcu_dis_pos_exit_8",
+            "name": "exit Dis 8",
+            "type": "float32",
+            "podUnits": "A",
+            "displayUnits": "A"
         },
         {
             "id": "noise_for_hems",

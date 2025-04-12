@@ -118,7 +118,59 @@
         {"name": "lcu_vbat_7"},
         {"name": "lcu_vbat_8"},
         {"name": "lcu_vbat_9"},
-        {"name": "lcu_vbat_10"}
+        {"name": "lcu_vbat_10"},
+        {"name": "lcu_coil_current_ref_1"},
+        {"name": "lcu_coil_current_ref_2"},
+        {"name": "lcu_coil_current_ref_3"},
+        {"name": "lcu_coil_current_ref_4"},
+        {"name": "lcu_coil_current_ref_5"},
+        {"name": "lcu_coil_current_ref_6"},
+        {"name": "lcu_coil_current_ref_7"},
+        {"name": "lcu_coil_current_ref_8"},
+        {"name": "lcu_coil_current_ref_9"},
+        {"name": "lcu_coil_current_ref_10"},
+        {"name": "lcu_coil_current_exit_1"},
+        {"name": "lcu_coil_current_exit_2"},
+        {"name": "lcu_coil_current_exit_3"},
+        {"name": "lcu_coil_current_exit_4"},
+        {"name": "lcu_coil_current_exit_5"},
+        {"name": "lcu_coil_current_exit_6"},
+        {"name": "lcu_coil_current_exit_7"},
+        {"name": "lcu_coil_current_exit_8"},
+        {"name": "lcu_dis_pos_ref_1"},
+        {"name": "lcu_dis_pos_ref_2"},
+        {"name": "lcu_dis_pos_ref_3"},
+        {"name": "lcu_dis_pos_ref_4"},
+        {"name": "lcu_dis_pos_ref_5"},
+        {"name": "lcu_dis_pos_ref_6"},
+        {"name": "lcu_dis_pos_ref_7"},
+        {"name": "lcu_dis_pos_ref_8"},
+        {"name": "lcu_dis_pos_exit_1"},
+        {"name": "lcu_dis_pos_exit_2"},
+        {"name": "lcu_dis_pos_exit_3"},
+        {"name": "lcu_dis_pos_exit_4"},
+        {"name": "lcu_dis_pos_exit_5"},
+        {"name": "lcu_dis_pos_exit_6"},
+        {"name": "lcu_dis_pos_exit_7"},
+        {"name": "lcu_dis_pos_exit_8"}
+
+    ]
+    },
+
+    {
+
+        "id": "318",
+        "name": "lcu_airgap",
+        "type": "data",
+        "variables":  [
+        {"name": "lcu_airgap_1"},
+        {"name": "lcu_airgap_2"},
+        {"name": "lcu_airgap_3"},
+        {"name": "lcu_airgap_4"},
+        {"name": "lcu_airgap_5"},
+        {"name": "lcu_airgap_6"},
+        {"name": "lcu_airgap_7"},
+        {"name": "lcu_airgap_8"}
     ]
     }
     ]
