@@ -41,7 +41,8 @@
         "type": "data",
         "variables":  [
         {"name": "general_state"},
-        {"name": "slave_state"},
+        {"name": "vertical_state"},
+        {"name": "horizontal_state"},
         {"name": "lcu_coil_temp_1"},
         {"name": "lcu_coil_temp_2"},
         {"name": "lcu_coil_temp_3"},
@@ -98,7 +99,9 @@
         "name": "lcu_coil_current",
         "type": "data",
         "variables":  [
-        
+        {"name": "general_state"},
+        {"name": "vertical_state"},
+        {"name": "horizontal_state"},
         {"name": "lcu_coil_current_1"},
         {"name": "lcu_coil_current_2"},
         {"name": "lcu_coil_current_3"},

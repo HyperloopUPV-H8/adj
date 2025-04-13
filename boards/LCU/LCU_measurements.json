@@ -653,10 +653,16 @@
             "enumValues": ["DEFINING", "CONNECTING", "OPERATIONAL", "FAULT"]
         },
         {
-            "id": "slave_state",
-            "name": "slave state",
+            "id": "vertical_state",
+            "name": "vertical state",
             "type": "enum",
-            "enumValues": ["DEFINING", "CONNECTING", "OPERATIONAL", "FAULT"]
+            "enumValues": ["IDLE", "CONTROL_CURRENT", "CONTROL_1DOF"]
+        },
+        {
+            "id": "horizontal_state",
+            "name": "horizontal state",
+            "type": "enum",
+            "enumValues": ["NORMAL", "BOOSTER"]
         },
         {
             "id": "lcu_coil_current_ref_1",
