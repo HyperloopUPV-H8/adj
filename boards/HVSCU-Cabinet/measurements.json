@@ -36,6 +36,13 @@
         ]
     },
     {
+        "id": "output_current",
+        "name": "Output Current",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
         "id": "BCU_control_u_duty_cycle",
         "name": "U Duty Cycle",
         "type": "float32",

@@ -17,6 +17,14 @@
         ]
     },
     {
+        "id": 1609,
+        "type": "data",
+        "name": "Current Sense",
+        "variables": [
+            "output_current"
+        ]
+    },
+    {
         "id": 1700,
         "type": "data",
         "name": "BCU Control Parameters",
