@@ -65,6 +65,17 @@
             "variables": [
                 { "name": "ldu_id"}
             ]
+        },
+
+        {
+            "id": "1751",
+            "name": "start_booster",
+            "type": "order"
+        },
+        {
+            "id": "1750",
+            "name": "exit_booster",
+            "type": "order"
         }
 
     ]
