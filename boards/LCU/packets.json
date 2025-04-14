@@ -1,6 +1,6 @@
 [
     {
-        "id": "316",
+        "id": 316,
         "name": "levitation_control_data",
         "type": "data",
         "variables": [
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "id": "315",
+        "id": 315,
         "name": "lcu_data",
         "type": "data",
         "variables": [
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": "320",
+        "id": 320,
         "name": "lcu_coil_current",
         "type": "data",
         "variables": [
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "id": "318",
+        "id": 318,
         "name": "lcu_airgap",
         "type": "data",
         "variables": [
