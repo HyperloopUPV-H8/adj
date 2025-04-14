@@ -32,112 +32,82 @@
         ]
     },
     {
-        "id": "duty_u",
-        "name": "Duty Cycle U",
-        "type": "uint8",
+        "id": "BCU_duty_cycle_u",
+        "name": "Duty Cycle U (%)",
+        "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "above": {
-            "warning": 90.0
-        },
-        "below": {
-            "warning": 0.0
+        "out_of_range": {
+            "warning": [
+                0.0,
+                100.0
+            ]
         }
     },
     {
-        "id": "duty_v",
-        "name": "Duty Cycle V",
-        "type": "uint8",
+        "id": "BCU_duty_cycle_v",
+        "name": "Duty Cycle V (%)",
+        "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "above": {
-            "warning": 90.0
-        },
-        "below": {
-            "warning": 0.0
+        "out_of_range": {
+            "warning": [
+                0.0,
+                100.0
+            ]
         }
     },
     {
-        "id": "duty_w",
-        "name": "Duty Cycle W",
-        "type": "uint8",
+        "id": "BCU_duty_cycle_w",
+        "name": "Duty Cycle W (%)",
+        "type": "float32",
         "podUnits": "%",
         "displayUnits": "%",
-        "above": {
-            "warning": 90.0
-        },
-        "below": {
-            "warning": 0.0
+        "out_of_range": {
+            "warning": [
+                0.0,
+                100.0
+            ]
         }
     },
     {
-        "id": "angular_velocity",
-        "name": "Angular Velocity",
-        "type": "float32",
-        "podUnits": "rad/s",
-        "displayUnits": "rad/s",
-        "above": {
-            "warning": 500.0
-        }
-    },
-    {
-        "id": "ref_q",
-        "name": "Reference Q",
-        "type": "uint16",
-        "podUnits": "A",
-        "displayUnits": "A",
-        "above": {
-            "warning": 100.0
-        }
-    },
-    {
-        "id": "ref_d",
-        "name": "Reference D",
-        "type": "uint16",
-        "podUnits": "A",
-        "displayUnits": "A",
-        "above": {
-            "warning": 100.0
-        }
-    },
-    {
-        "id": "ref_speed",
-        "name": "Reference Speed",
-        "type": "float32",
-        "podUnits": "rpm",
-        "displayUnits": "rpm",
-        "above": {
-            "warning": 6000.0
-        }
-    },
-    {
-        "id": "ref_switch_freq",
-        "name": "Reference Switching Frequency",
-        "type": "float32",
+        "id": "BCU_commutation_frequency_hz",
+        "name": "Commutation Frequency (hz)",
+        "type": "uint32",
         "podUnits": "Hz",
         "displayUnits": "Hz",
         "above": {
-            "warning": 20000.0
+            "warning": 50000.0
         }
     },
     {
-        "id": "ref_dead_time",
-        "name": "Reference Dead Time",
-        "type": "float32",
-        "podUnits": "us",
-        "displayUnits": "us",
-        "above": {
-            "warning": 10.0
+        "id": "BCU_dead_time_ns",
+        "name": "Dead Time (ns)",
+        "type": "uint32",
+        "podUnits": "ns",
+        "displayUnits": "ns",
+        "below": {
+            "warning": 100.0
         }
     },
     {
-        "id": "fixed_dc_link_vtg",
-        "name": "Fixed DC Link Voltage",
+        "id": "BCU_space_vector_modulation_index",
+        "name": "Modulation Index",
         "type": "float32",
-        "podUnits": "V",
-        "displayUnits": "V",
-        "above": {
-            "warning": 400.0
+        "podUnits": "",
+        "displayUnits": "",
+        "out_of_range": {
+            "warning": [
+                0.0,
+                1.1547
+            ]
         }
+    },
+    {
+        "id": "BCU_space_vector_modulation_frequency_hz",
+        "name": "Modulation Frequency (hz)",
+        "type": "float32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
     }
 ]

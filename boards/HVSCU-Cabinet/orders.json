@@ -40,72 +40,39 @@
         "type": "order",
         "name": "Close Contactors",
         "variables": []
-    }
-    ,
+    },
     {
-        "id": 1700,
+        "id": 1799,
         "type": "order",
         "name": "BCU Test PWM",
         "variables": [
-            "duty_u",
-            "duty_v",
-            "duty_w"
+            "BCU_duty_cycle_u",
+            "BCU_duty_cycle_v",
+            "BCU_duty_cycle_w"
         ]
     },
     {
-        "id": 1701,
+        "id": 1795,
         "type": "order",
-        "name": "BCU Emulate Movement",
+        "name": "BCU Configure Commutation Parameters",
         "variables": [
-            "angular_velocity",
-            "ref_q",
-            "ref_d"
+            "BCU_commutation_frequency_hz",
+            "BCU_dead_time_ns"
         ]
     },
     {
-        "id": 1702,
-        "type": "order",
-        "name": "BCU Current Control",
-        "variables": [
-            "ref_q",
-            "ref_d"
-        ]
-    },
-    {
-        "id": 1703,
-        "type": "order",
-        "name": "BCU Velocity Control",
-        "variables": [
-            "ref_speed"
-        ]
-    },
-    {
-        "id": 1704,
-        "type": "order",
-        "name": "BCU Set PWM Params",
-        "variables": [
-            "ref_switch_freq",
-            "ref_dead_time"
-        ]
-    },
-    {
-        "id": 1705,
+        "id": 1794,
         "type": "order",
         "name": "BCU Stop",
         "variables": []
     },
     {
-        "id": 1706,
+        "id": 1793,
         "type": "order",
-        "name": "BCU Set Fixed DC Link Voltage",
+        "name": "BCU Space Vector",
         "variables": [
-            "fixed_dc_link_vtg"
+            "BCU_space_vector_modulation_index",
+            "BCU_space_vector_modulation_frequency_hz"
         ]
-    },
-    {
-        "id": 1707,
-        "type": "order",
-        "name": "BCU Unset Fixed DC Link Voltage",
-        "variables": []
     }
 ]

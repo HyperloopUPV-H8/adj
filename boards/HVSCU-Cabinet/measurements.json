@@ -34,5 +34,76 @@
             "Precharge",
             "Close"
         ]
+    },
+    {
+        "id": "BCU_control_u_duty_cycle",
+        "name": "U Duty Cycle",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    },
+    {
+        "id": "BCU_control_v_duty_cycle",
+        "name": "V Duty Cycle",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    },
+    {
+        "id": "BCU_control_w_duty_cycle",
+        "name": "W Duty Cycle",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    },
+    {
+        "id": "BCU_state_master_general",
+        "name": "Master General State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Connecting",
+            "Operational",
+            "Fault"
+        ]
+    },
+    {
+        "id": "BCU_state_master_nested",
+        "name": "Master Nested State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "Ready",
+            "Boosting",
+            "Testing"
+        ]
+    },
+    {
+        "id": "BCU_state_slave_general",
+        "name": "Slave General State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Connecting",
+            "Operational",
+            "Fault"
+        ]
+    },
+    {
+        "id": "BCU_state_slave_nested",
+        "name": "Slave Nested State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "Ready",
+            "Boosting",
+            "Testing"
+        ]
     }
 ]
