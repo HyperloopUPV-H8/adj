@@ -213,7 +213,7 @@
         "name": "batteries_voltage",
         "type": "data",
         "variables": [
-            "batteries_voltage_raw",
+            "batteries_voltage_raw"
         ]
     }
 ]
