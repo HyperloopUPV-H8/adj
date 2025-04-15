@@ -890,7 +890,8 @@
         "displayUnits": "V"
     },
     {
-        "id": "batteries_current_raw",
+
+        "id": "batteries_voltage",
         "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
@@ -911,7 +912,7 @@
         "displayUnits": "V"
     },
     {
-        "id": "batteries_voltage_value",
+        "id": "batteries_current",
         "name": "Batteries current",
         "type": "float32",
         "podUnits": "A",

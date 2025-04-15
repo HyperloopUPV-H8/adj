@@ -1,0 +1,110 @@
+[
+        {
+            "id": 500,
+            "name": "enable_buffer",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": 501,
+            "name": "disable_buffer",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": 502,
+            "name": "send_pwm",
+            "type": "order",
+            "variables": [
+                "pwm_active",
+                "frequency_to_send",
+                "duty_to_send"
+            ]
+        },
+        {
+            "id": 503,
+            "name": "stop_pwm",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": 504,
+            "name": "Enable_Reset",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": 505,
+            "name": "Disable_Reset",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": 507,
+            "name": "Start_SVPWM",
+            "type": "order",
+            "variables": [
+                 "frequency_to_send_svpwm",
+                  "frequency_to_send_PWM",
+                   "V_Ref",
+                    "VMaxSVPWM",
+                    "Direction_State"
+            ]
+        },
+        {
+            "id": 508,
+            "name": "Stop_SVPWM",
+            "type": "order",
+            "variables": []
+        },
+        {
+            "id": 509,
+            "name": "Send_Reference_Current",
+            "type": "order",
+            "variables": [
+                 "freq_to_send_svpwm",
+                  "freq_to_send_PWM",
+                   "Current_Ref",
+                    "VMax",
+                    "Direction_State"
+            ]
+        },     
+        {
+            "id":510,
+            "name":"Zeroing",
+            "type":"order",
+            "variables":[]
+        },
+        {
+            "id": 511,
+            "name": "Send_Reference_Speed",
+            "type": "order",
+            "variables": [
+                 "Speed_Ref",
+                  "freq_to_send_PWM",
+                  "VMax",
+                  "Direction_State"
+            ]
+        },
+        {
+            "id": 512,
+            "name": "Start_Precharge",
+            "type": "order",
+            "variables": [
+                    "freq_to_send_PWM",
+                    "VMaxSVPWM"
+            ]
+        },
+        {
+            "id": 513,
+            "name": "Make_Complete_Run(Regenerative)",
+            "type": "order",
+            "variables": [
+                    "Speed_Ref",
+                    "freq_to_send_PWM",
+                    "VMax",
+                    "Direction_State"
+            ]
+        }
+        
+]
