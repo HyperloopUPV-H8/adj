@@ -905,7 +905,7 @@
         "displayUnits": "A"
     },
     {
-        "id": "batteries_voltage_raw",
+        "id": "batteries_voltage_value",
         "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
