@@ -109,5 +109,12 @@
         "type": "float32",
         "podUnits": "Hz",
         "displayUnits": "Hz"
+    },
+    {
+        "id": "BCU_requested_dc_link_voltage",
+        "name": "Requested DC Link Voltage (V)",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]

@@ -74,5 +74,19 @@
             "BCU_space_vector_modulation_index",
             "BCU_space_vector_modulation_frequency_hz"
         ]
+    },
+    {
+        "id": 1795,
+        "type": "order",
+        "name": "BCU Fix DC Link Voltage",
+        "variables": [
+            "BCU_requested_dc_link_voltage"
+        ]
+    },
+    {
+        "id": 1796,
+        "type": "order",
+        "name": "BCU Unfix DC Link Voltage",
+        "variables": []
     }
 ]

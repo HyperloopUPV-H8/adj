@@ -112,5 +112,40 @@
             "Boosting",
             "Testing"
         ]
+    },
+    {
+        "id": "BCU_average_dc_link_voltage",
+        "name": "Average DC Link Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "BCU_dc_link_voltage_1",
+        "name": "DC Link Voltage 1",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "BCU_dc_link_voltage_2",
+        "name": "DC Link Voltage 2",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "BCU_dc_link_voltage_3",
+        "name": "DC Link Voltage 3",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "BCU_dc_link_voltage_4",
+        "name": "DC Link Voltage 4",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]

@@ -44,5 +44,17 @@
             "BCU_state_slave_general",
             "BCU_state_slave_nested"
         ]
+    },
+    {
+        "id": 1702,
+        "type": "data",
+        "name": "BCU DC Link",
+        "variables": [
+            "BCU_average_dc_link_voltage",
+            "BCU_dc_link_voltage_1",
+            "BCU_dc_link_voltage_2",
+            "BCU_dc_link_voltage_3",
+            "BCU_dc_link_voltage_4"
+        ]
     }
 ]
