@@ -381,41 +381,35 @@
             "name": "Airgap 1",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [60.8]
+            "displayUnits": "mm"
         },
         {
             "id": "lcu_airgap_2",
             "name": "Airgap 2",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [60.8]
-        }
-        ,
+            "displayUnits": "mm"
+        },
         {
             "id": "lcu_airgap_3",
             "name": "Airgap 3",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [60.8]
+            "displayUnits": "mm"
         },
         {
             "id": "lcu_airgap_4",
             "name": "Airgap 4",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [60.8]
+            "displayUnits": "mm"
         },
         {
             "id": "lcu_airgap_5",
             "name": "Airgap 5",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [130.8]
+            "displayUnits": "mm"
         },
         {
             "id": "lcu_airgap_6",
@@ -429,17 +423,15 @@
             "name": "Airgap 7",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [130.8]
+            "displayUnits": "mm"
         },
         {
             "id": "lcu_airgap_8",
             "name": "Airgap 8",
             "type": "float32",
             "podUnits": "mm",
-            "displayUnits": "mm",
-            "warningRange": [130.8]
-        },
+            "displayUnits": "mm"
+        }
         {
             "id": "test_gui__1",
             "name": "Airgap BUENO 1",
