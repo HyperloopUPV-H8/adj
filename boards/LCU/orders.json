@@ -1,6 +1,6 @@
 [
         {
-            "id": "9999",
+            "id": 9999,
             "name": "set_LDU_pwm_params",
             "type": "order",
             "variables": [
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "id": "9998",
+            "id": 9998,
             "name": "send_LDU_en",
             "type": "order",
             "variables": [
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "id": "9996",
+            "id": 9996,
             "name": "send_LDU_dis",
             "type": "order",
             "variables": [
@@ -27,7 +27,7 @@
         },
 
         {
-            "id": "9995",
+            "id": 9995,
             "name": "set_current_desired",
             "type": "order",
             "variables": [
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "id": "9994",
+            "id": 9994,
             "name": "start_control",
             "variables": [
                 { "name": "ldu_id"},
@@ -45,12 +45,12 @@
             "type": "order"
         },
         {
-            "id": "9993",
+            "id": 9993,
             "name": "stop_control",
             "type": "order"
         },
         {
-            "id": "9991",
+            "id": 9991,
             "name": "stop_pwm",
             "type": "order",
             "variables": [
@@ -58,7 +58,7 @@
             ]
         },
         {
-            "id": "9992",
+            "id": 9992,
             "name": "start_pwm",
             "type": "order",
             "variables": [
@@ -67,7 +67,7 @@
         },
 
         {
-            "id": "1751",
+            "id": 1751,
             "name": "start_booster",
             "type": "order"
         },
