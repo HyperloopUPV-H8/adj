@@ -32,5 +32,19 @@
             "modulation_index",
             "modulation_frequency_hz"
         ]
+    },
+    {
+        "id": 1795,
+        "type": "order",
+        "name": "Fix DC Link Voltage",
+        "variables": [
+            "requested_dc_link_voltage"
+        ]
+    },
+    {
+        "id": 1794,
+        "type": "order",
+        "name": "Unfix DC Link Voltage",
+        "variables": []
     }
 ]
