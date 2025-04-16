@@ -1,5 +1,4 @@
-{
-    "packets": [
+[
         {
             "id": "9999",
             "name": "set_LDU_pwm_params",
@@ -78,6 +77,4 @@
             "type": "order"
         }
 
-    ]
-
-}
+]

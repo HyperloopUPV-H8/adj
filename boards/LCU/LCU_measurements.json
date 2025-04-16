@@ -1,7 +1,4 @@
-{
-
-
-    "measurements":[
+[
         {
             "id": "ldu_id",
             "name": "LDU Id",
@@ -928,5 +925,4 @@
             "podUnits": "mm",
             "displayUnits": "mm"
         }
-    ]
-}
+]

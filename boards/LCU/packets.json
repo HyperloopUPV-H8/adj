@@ -1,5 +1,4 @@
-{
-    "packets":[ 
+[ 
     {
         "id": "316",
         "name": "levitation_control_data",
@@ -176,5 +175,4 @@
         {"name": "lcu_airgap_8"}
     ]
     }
-    ]
-}
+]
