@@ -1,39 +1,5 @@
 [ 
     {
-        "id": 316,
-        "name": "levitation_control_data",
-        "type": "data",
-        "variables": [
-            "current_control_frequency",
-            "levitation_control_frequency",
-            "lcu_coil_current_ref_1",
-            "lcu_coil_current_ref_2",
-            "lcu_coil_current_ref_3",
-            "lcu_coil_current_ref_4",
-            "lcu_coil_current_ref_5",
-            "lcu_coil_current_ref_6",
-            "lcu_coil_current_ref_7",
-            "lcu_coil_current_ref_8",
-            "lcu_coil_current_ref_9",
-            "lcu_coil_current_ref_10",
-            "pos_y",
-            "pos_y_d",
-            "pos_y_i",
-            "pos_z",
-            "pos_z_d",
-            "pos_z_i",
-            "pos_rot_x",
-            "pos_rot_x_d",
-            "pos_rot_x_i",
-            "pos_rot_y",
-            "pos_rot_y_d",
-            "pos_rot_y_i",
-            "pos_rot_z",
-            "pos_rot_z_d",
-            "pos_rot_z_i"
-        ]
-    },
-    {
 
         "id": 320,
         "name": "lcu_coil_current",
