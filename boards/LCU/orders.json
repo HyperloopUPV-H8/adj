@@ -70,7 +70,7 @@
         "type": "order"
     },
     {
-        "id": "1750",
+        "id": 1750,
         "name": "exit_booster",
         "type": "order"
     }
