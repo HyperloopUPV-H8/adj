@@ -1,7 +1,42 @@
 [
     {
-        "id": "master_general_state",
-        "name": "Master General State",
+        "id": "output_duty_cycle_u",
+        "name": "Duty Cycle U",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    },
+    {
+        "id": "output_duty_cycle_v",
+        "name": "Duty Cycle V",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    },
+    {
+        "id": "output_duty_cycle_w",
+        "name": "Duty Cycle W",
+        "type": "float32",
+        "podUnits": "%",
+        "displayUnits": "%"
+    },
+    {
+        "id": "output_commutation_frequency_hz",
+        "name": "Commutation Frequency",
+        "type": "uint32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
+    },
+    {
+        "id": "output_dead_time_ns",
+        "name": "Dead Time",
+        "type": "uint32",
+        "podUnits": "ns",
+        "displayUnits": "ns"
+    },
+    {
+        "id": "bcu_general_state",
+        "name": "General State",
         "type": "enum",
         "podUnits": "",
         "displayUnits": "",
@@ -12,39 +47,35 @@
         ]
     },
     {
-        "id": "master_nested_state",
-        "name": "Master Operational State",
+        "id": "bcu_nested_state",
+        "name": "Nested State",
         "type": "enum",
         "podUnits": "",
         "displayUnits": "",
         "enumValues": [
             "Idle",
-            "Ready",
-            "Boosting"
+            "Testing"
         ]
     },
     {
-        "id": "slave_general_state",
-        "name": "Slave General State",
-        "type": "enum",
-        "podUnits": "",
-        "displayUnits": "",
-        "enumValues": [
-            "Connecting",
-            "Operational",
-            "Fault"
-        ]
+        "id": "space_vector_time",
+        "name": "Space Vector Time",
+        "type": "float32",
+        "podUnits": "s",
+        "displayUnits": "s"
     },
     {
-        "id": "slave_nested_state",
-        "name": "Slave Operational State",
-        "type": "enum",
+        "id": "output_modulation_index",
+        "name": "Output Modulation Index",
+        "type": "float32",
         "podUnits": "",
-        "displayUnits": "",
-        "enumValues": [
-            "Idle",
-            "Ready",
-            "Boosting"
-        ]
+        "displayUnits": ""
+    },
+    {
+        "id": "output_modulation_frequency_hz",
+        "name": "Output Modulation Frequency",
+        "type": "float32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
     }
 ]
