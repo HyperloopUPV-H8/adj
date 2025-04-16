@@ -77,5 +77,26 @@
         "type": "float32",
         "podUnits": "Hz",
         "displayUnits": "Hz"
+    },
+    {
+        "id": "dc_link_average_voltage",
+        "name": "DC Link Average Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "dc_link_a_voltage",
+        "name": "DC Link A Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "dc_link_b_voltage",
+        "name": "DC Link B Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]

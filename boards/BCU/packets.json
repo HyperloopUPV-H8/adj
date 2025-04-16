@@ -29,5 +29,15 @@
             "output_modulation_index",
             "output_modulation_frequency_hz"
         ]
+    },
+    {
+        "id": 1703,
+        "type": "data",
+        "name": "DC Link",
+        "variables": [
+            "dc_link_average_voltage",
+            "dc_link_a_voltage",
+            "dc_link_b_voltage"
+        ]
     }
 ]
