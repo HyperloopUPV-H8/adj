@@ -431,7 +431,7 @@
             "type": "float32",
             "podUnits": "mm",
             "displayUnits": "mm"
-        }
+        },
         {
             "id": "test_gui__1",
             "name": "Airgap BUENO 1",
