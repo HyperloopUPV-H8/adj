@@ -39,5 +39,18 @@
             "dc_link_a_voltage",
             "dc_link_b_voltage"
         ]
+    },
+    {
+        "id":1704,
+        "type": "data",
+        "name":"Motor Currents",
+        "variables":[
+            "current_u_motor_a",
+            "current_v_motor_a",
+            "current_w_motor_a",
+            "current_u_motor_b",
+            "current_v_motor_b",
+            "current_w_motor_b"
+        ]
     }
 ]
