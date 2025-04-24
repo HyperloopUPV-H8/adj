@@ -59,9 +59,9 @@
         "name":"SPEETEC 1",
         "variables":[
             "position_speetec_1",
+            "direction_speetec_1",
             "velocity_speetec_1",
-            "acceleration_speetec_1",
-            "direction_speetec_1"
+            "acceleration_speetec_1"
         ]
     }
 ]
