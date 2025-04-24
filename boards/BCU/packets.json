@@ -52,5 +52,16 @@
             "current_v_motor_b",
             "current_w_motor_b"
         ]
+    },
+    {
+        "id":1705,
+        "type": "data",
+        "name":"SPEETEC 1",
+        "variables":[
+            "position_speetec_1",
+            "velocity_speetec_1",
+            "acceleration_speetec_1",
+            "direction_speetec_1"
+        ]
     }
 ]
