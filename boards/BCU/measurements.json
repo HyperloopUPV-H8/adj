@@ -201,11 +201,7 @@
     {
         "id":"direction_speetec_1",
         "name": "Direction Speetec 1",
-        "type": "enum",
-        "enumValues": [
-            "Forward",
-            "Backward"
-        ]
+        "type": "boolean"
     },
     {
         "id":"position_speetec_2",
