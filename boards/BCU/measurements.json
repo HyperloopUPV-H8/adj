@@ -201,7 +201,7 @@
     {
         "id":"direction_speetec_1",
         "name": "Direction Speetec 1",
-        "type": "boolean"
+        "type": "bool"
     },
     {
         "id":"position_speetec_2",
