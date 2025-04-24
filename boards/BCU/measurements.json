@@ -180,21 +180,21 @@
     {
         "id":"position_speetec_1",
         "name": "Position Speetec 1",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m",
         "displayUnits":"m"
     },
     {
         "id":"speed_speetec_1",
         "name": "Speed Speetec 1",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m/s",
         "displayUnits":"m/s"
     },
     {
         "id":"acceleration_speetec_1",
         "name": "Acceleration Speetec 1",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m/s^2",
         "displayUnits":"m/s^2"
     },
@@ -210,21 +210,21 @@
     {
         "id":"position_speetec_2",
         "name": "Position Speetec 2",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m",
         "displayUnits":"m"
     },
     {
         "id":"speed_speetec_2",
         "name": "Speed Speetec 2",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m/s",
         "displayUnits":"m/s"
     },
     {
         "id":"acceleration_speetec_2",
         "name": "Acceleration Speetec 2",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m/s^2",
         "displayUnits":"m/s^2"
     },
@@ -240,21 +240,21 @@
     {
         "id":"position_speetec_3",
         "name": "Position Speetec 3",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m",
         "displayUnits":"m"
     },
     {
         "id":"speed_speetec_3",
         "name": "Speed Speetec 3",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m/s",
         "displayUnits":"m/s"
     },
     {
         "id":"acceleration_speetec_3",
         "name": "Acceleration Speetec 3",
-        "type": "float32",
+        "type": "float64",
         "podUnits":"m/s^2",
         "displayUnits":"m/s^2"
     },
