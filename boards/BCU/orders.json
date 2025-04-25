@@ -56,5 +56,14 @@
             "requested_d_current_reference",
             "requested_q_current_reference"
         ]
+    },
+    {
+        "id": 1792,
+        "type": "order",
+        "name": "Start Current Control",
+        "variables": [
+            "requested_d_current_reference_2",
+            "requested_q_current_reference_2"
+        ]
     }
 ]

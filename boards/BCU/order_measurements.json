@@ -82,14 +82,28 @@
     },
     {
         "id": "requested_d_current_reference",
-        "name": "Requested D Current Reference (A)",
+        "name": "D Current Reference (A)",
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A"
     },
     {
         "id": "requested_q_current_reference",
-        "name": "Requested Q Current Reference (A)",
+        "name": "Q Current Reference (A)",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "requested_d_current_reference_2",
+        "name": "D Current Reference(A)",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "requested_q_current_reference_2",
+        "name": "Q Current Reference (A)",
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A"
