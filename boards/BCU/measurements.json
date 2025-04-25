@@ -325,5 +325,12 @@
         "type": "float64",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "electrical_angle",
+        "name": "Electrical Angle",
+        "type": "float64",
+        "podUnits": "rad",
+        "displayUnits": "rad"
     }
 ]

@@ -80,7 +80,8 @@
             "q_current_error",
             "target_u_voltage",
             "target_v_voltage",
-            "target_w_voltage"
+            "target_w_voltage",
+            "electrical_angle"
         ]
     }
 ]
