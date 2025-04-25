@@ -72,5 +72,26 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "requested_angular_speed",
+        "name": "Requested Angular Speed (rad/s)",
+        "type": "float32",
+        "podUnits": "rad/s",
+        "displayUnits": "rad/s"
+    },
+    {
+        "id": "requested_d_current_reference",
+        "name": "Requested D Current Reference (A)",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "requested_q_current_reference",
+        "name": "Requested Q Current Reference (A)",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
     }
 ]

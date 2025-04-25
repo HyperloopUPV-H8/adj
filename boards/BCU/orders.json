@@ -46,5 +46,15 @@
         "type": "order",
         "name": "Unfix DC Link Voltage",
         "variables": []
+    },
+    {
+        "id": 1793,
+        "type": "order",
+        "name": "Start Emulated Current Control",
+        "variables": [
+            "requested_angular_speed",
+            "requested_d_current_reference",
+            "requested_q_current_reference"
+        ]
     }
 ]

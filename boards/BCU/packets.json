@@ -41,10 +41,13 @@
         ]
     },
     {
-        "id":1704,
+        "id": 1704,
         "type": "data",
-        "name":"Motor Currents",
-        "variables":[
+        "name": "Motor Currents",
+        "variables": [
+            "average_current_u",
+            "average_current_v",
+            "average_current_w",
             "current_u_motor_a",
             "current_v_motor_a",
             "current_w_motor_a",
@@ -54,14 +57,30 @@
         ]
     },
     {
-        "id":1705,
+        "id": 1705,
         "type": "data",
-        "name":"SPEETEC 1",
-        "variables":[
+        "name": "SPEETEC 1",
+        "variables": [
             "position_speetec_1",
             "direction_speetec_1",
             "speed_speetec_1",
             "acceleration_speetec_1"
+        ]
+    },
+    {
+        "id": 1706,
+        "type": "data",
+        "name": "Current Control",
+        "variables": [
+            "d_current_reference",
+            "measured_d_current",
+            "d_current_error",
+            "q_current_reference",
+            "measured_q_current",
+            "q_current_error",
+            "target_u_voltage",
+            "target_v_voltage",
+            "target_w_voltage"
         ]
     }
 ]

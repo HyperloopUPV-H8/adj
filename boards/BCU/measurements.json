@@ -100,7 +100,7 @@
         "displayUnits": "V"
     },
     {
-        "id":"current_u_motor_a",
+        "id": "current_u_motor_a",
         "name": "Current U Motor A",
         "type": "float32",
         "podUnits": "A",
@@ -113,7 +113,7 @@
         }
     },
     {
-        "id":"current_v_motor_a",
+        "id": "current_v_motor_a",
         "name": "Current V Motor A",
         "type": "float32",
         "podUnits": "A",
@@ -126,7 +126,7 @@
         }
     },
     {
-        "id":"current_w_motor_a",
+        "id": "current_w_motor_a",
         "name": "Current W Motor A",
         "type": "float32",
         "podUnits": "A",
@@ -139,7 +139,7 @@
         }
     },
     {
-        "id":"current_u_motor_b",
+        "id": "current_u_motor_b",
         "name": "Current U Motor B",
         "type": "float32",
         "podUnits": "A",
@@ -152,7 +152,7 @@
         }
     },
     {
-        "id":"current_v_motor_b",
+        "id": "current_v_motor_b",
         "name": "Current V Motor B",
         "type": "float32",
         "podUnits": "A",
@@ -165,7 +165,7 @@
         }
     },
     {
-        "id":"current_w_motor_b",
+        "id": "current_w_motor_b",
         "name": "Current W Motor B",
         "type": "float32",
         "podUnits": "A",
@@ -178,54 +178,54 @@
         }
     },
     {
-        "id":"position_speetec_1",
+        "id": "position_speetec_1",
         "name": "Position Speetec 1",
         "type": "float64",
-        "podUnits":"m",
-        "displayUnits":"m"
+        "podUnits": "m",
+        "displayUnits": "m"
     },
     {
-        "id":"speed_speetec_1",
+        "id": "speed_speetec_1",
         "name": "Speed Speetec 1",
         "type": "float64",
-        "podUnits":"m/s",
-        "displayUnits":"m/s"
+        "podUnits": "m/s",
+        "displayUnits": "m/s"
     },
     {
-        "id":"acceleration_speetec_1",
+        "id": "acceleration_speetec_1",
         "name": "Acceleration Speetec 1",
         "type": "float64",
-        "podUnits":"m/s^2",
-        "displayUnits":"m/s^2"
+        "podUnits": "m/s^2",
+        "displayUnits": "m/s^2"
     },
     {
-        "id":"direction_speetec_1",
+        "id": "direction_speetec_1",
         "name": "Direction Speetec 1",
         "type": "bool"
     },
     {
-        "id":"position_speetec_2",
+        "id": "position_speetec_2",
         "name": "Position Speetec 2",
         "type": "float64",
-        "podUnits":"m",
-        "displayUnits":"m"
+        "podUnits": "m",
+        "displayUnits": "m"
     },
     {
-        "id":"speed_speetec_2",
+        "id": "speed_speetec_2",
         "name": "Speed Speetec 2",
         "type": "float64",
-        "podUnits":"m/s",
-        "displayUnits":"m/s"
+        "podUnits": "m/s",
+        "displayUnits": "m/s"
     },
     {
-        "id":"acceleration_speetec_2",
+        "id": "acceleration_speetec_2",
         "name": "Acceleration Speetec 2",
         "type": "float64",
-        "podUnits":"m/s^2",
-        "displayUnits":"m/s^2"
+        "podUnits": "m/s^2",
+        "displayUnits": "m/s^2"
     },
     {
-        "id":"direction_speetec_2",
+        "id": "direction_speetec_2",
         "name": "Direction Speetec 2",
         "type": "enum",
         "enumValues": [
@@ -234,33 +234,96 @@
         ]
     },
     {
-        "id":"position_speetec_3",
+        "id": "position_speetec_3",
         "name": "Position Speetec 3",
         "type": "float64",
-        "podUnits":"m",
-        "displayUnits":"m"
+        "podUnits": "m",
+        "displayUnits": "m"
     },
     {
-        "id":"speed_speetec_3",
+        "id": "speed_speetec_3",
         "name": "Speed Speetec 3",
         "type": "float64",
-        "podUnits":"m/s",
-        "displayUnits":"m/s"
+        "podUnits": "m/s",
+        "displayUnits": "m/s"
     },
     {
-        "id":"acceleration_speetec_3",
+        "id": "acceleration_speetec_3",
         "name": "Acceleration Speetec 3",
         "type": "float64",
-        "podUnits":"m/s^2",
-        "displayUnits":"m/s^2"
+        "podUnits": "m/s^2",
+        "displayUnits": "m/s^2"
     },
     {
-        "id":"direction_speetec_3",
+        "id": "direction_speetec_3",
         "name": "Direction Speetec 3",
         "type": "enum",
         "enumValues": [
             "Forward",
             "Backward"
         ]
+    },
+    {
+        "id": "d_current_reference",
+        "name": "D Current Reference",
+        "type": "float64",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "measured_d_current",
+        "name": "Measured D Current",
+        "type": "float64",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "d_current_error",
+        "name": "D Current Error",
+        "type": "float64",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "q_current_reference",
+        "name": "Q Current Reference",
+        "type": "float64",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "measured_q_current",
+        "name": "Measured Q Current",
+        "type": "float64",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "q_current_error",
+        "name": "Q Current Error",
+        "type": "float64",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "target_u_voltage",
+        "name": "Target U Voltage",
+        "type": "float64",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "target_v_voltage",
+        "name": "Target V Voltage",
+        "type": "float64",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "target_w_voltage",
+        "name": "Target W Voltage",
+        "type": "float64",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]
