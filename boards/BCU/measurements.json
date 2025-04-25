@@ -100,6 +100,45 @@
         "displayUnits": "V"
     },
     {
+        "id": "average_current_u",
+        "name": "Average Current U",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                -100.0,
+                100.0
+            ]
+        }
+    },
+    {
+        "id": "average_current_v",
+        "name": "Average Current V",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                -100.0,
+                100.0
+            ]
+        }
+    },
+    {
+        "id": "average_current_w",
+        "name": "Average Current W",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                -100.0,
+                100.0
+            ]
+        }
+    },
+    {
         "id": "current_u_motor_a",
         "name": "Current U Motor A",
         "type": "float32",
