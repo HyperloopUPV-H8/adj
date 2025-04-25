@@ -75,10 +75,10 @@
     },
     {
         "id": "requested_angular_speed",
-        "name": "Angular Speed (rad/s)",
+        "name": "Speed (m/s)",
         "type": "float32",
-        "podUnits": "rad/s",
-        "displayUnits": "rad/s"
+        "podUnits": "m/s",
+        "displayUnits": "m/s"
     },
     {
         "id": "requested_d_current_reference",
