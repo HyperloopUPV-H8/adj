@@ -54,7 +54,10 @@
         "displayUnits": "",
         "enumValues": [
             "Idle",
-            "Testing"
+            "Testing",
+            "Ready",
+            "Boosting",
+            "Precharging"
         ]
     },
     {
