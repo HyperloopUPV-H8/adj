@@ -83,5 +83,14 @@
             "target_w_voltage",
             "electrical_angle"
         ]
+    },
+    {
+        "id": 1707,
+        "type":"data",
+        "name":"Speed Control",
+        "variables":[
+            "requested_linear_speed",
+            "speed_speetec_1"
+        ]
     }
 ]
