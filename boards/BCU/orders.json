@@ -73,7 +73,7 @@
         "variables":[
             "requested_linear_speed"
         ]
-    }
+    },
     {
         "id":1752,
         "type": "order",
