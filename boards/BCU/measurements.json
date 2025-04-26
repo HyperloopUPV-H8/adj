@@ -61,6 +61,21 @@
         ]
     },
     {
+        "id": "control_state",
+        "name": "Control State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "TEST_PWM",
+            "SPACE_VECTOR",
+            "EMULATED_CURRENT_CONTROL",
+            "CURRENT_CONTROL",
+            "SPEED_CONTROL"
+        ]
+    },
+    {
         "id": "space_vector_time",
         "name": "Space Vector Time",
         "type": "float32",
