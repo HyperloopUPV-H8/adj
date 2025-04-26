@@ -67,6 +67,14 @@
         ]
     },
     {
+        "id":1791,
+        "type": "order",
+        "name":"Start Speed Control",
+        "variables":[
+            "requested_linear_speed"
+        ]
+    }
+    {
         "id":1752,
         "type": "order",
         "name":"Bypass DC-Poles Ready"
