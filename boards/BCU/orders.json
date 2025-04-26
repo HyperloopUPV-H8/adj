@@ -65,5 +65,10 @@
             "requested_d_current_reference_2",
             "requested_q_current_reference_2"
         ]
+    },
+    {
+        "id":1752,
+        "type": "order",
+        "name":"Bypass DC-Poles Ready"
     }
 ]
