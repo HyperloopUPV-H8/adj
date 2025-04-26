@@ -377,9 +377,9 @@
     },
     {
         "id": "target_linear_speed",
-        "name": "Target Linear Speed (km/h)",
+        "name": "Target Linear Speed (m/s)",
         "type": "float32",
-        "podUnits": "km/h",
-        "displayUnits": "km/h"
+        "podUnits": "m/s",
+        "displayUnits": "m/s"
     }
 ]

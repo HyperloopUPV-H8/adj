@@ -75,7 +75,7 @@
     },
     {
         "id": "requested_linear_speed",
-        "name": "Linear Speed (m/s)",
+        "name": "Target Linear Speed (m/s)",
         "type": "float32",
         "podUnits": "m/s",
         "displayUnits": "m/s"
