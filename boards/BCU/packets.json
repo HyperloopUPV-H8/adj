@@ -82,7 +82,9 @@
             "target_u_voltage",
             "target_v_voltage",
             "target_w_voltage",
-            "electrical_angle"
+            "electrical_angle",
+            "pi_id_output",
+            "pi_iq_output"
         ]
     },
     {

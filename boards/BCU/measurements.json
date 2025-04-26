@@ -363,6 +363,27 @@
         "displayUnits": ""
     },
     {
+        "id": "pi_id_output",
+        "name": "PI ID Output",
+        "type": "float64",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "pi_iq_output",
+        "name": "PI IQ Output",
+        "type": "float64",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "pi_iq_output",
+        "name": "PI IQ Output",
+        "type": "float64",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "target_u_voltage",
         "name": "Target U Voltage",
         "type": "float64",
