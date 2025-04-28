@@ -1,31 +1,40 @@
 [
     {
-        "id": 900,
-        "name": "close_contactors",
+        "id": 500,
+        "name": "Set PFM",
+        "type": "order",
+        "variables": [
+            "dead_time",
+            "freq"
+        ]
+    },
+    {
+        "id": 501,
+        "name": "Toggle enable",
         "type": "order",
         "variables": []
     },
     {
-        "id": 901,
-        "name": "open_contactors",
+        "id": 502,
+        "name": "Stop PFM",
         "type": "order",
         "variables": []
     },
     {
-        "id": 902,
-        "name": "sdc_obccu",
+        "id": 503,
+        "name": "Start PFM",
         "type": "order",
         "variables": []
     },
     {
-        "id": 903,
-        "name": "imd_bypass",
+        "id": 504,
+        "name": "Turn on RESET",
         "type": "order",
         "variables": []
     },
     {
-        "id": 904,
-        "name": "zeroing",
+        "id": 505,
+        "name": "Turn off RESET",
         "type": "order",
         "variables": []
     }

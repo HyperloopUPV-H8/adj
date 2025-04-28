@@ -1,0 +1,44 @@
+[
+    {
+        "id": "dead_time",
+        "name": "PFM Dead time",
+        "type": "uint32",
+        "podUnits": "ns",
+        "displayUnits": "ns"
+    },
+    {
+        "id": "freq",
+        "name": "PFM frequency",
+        "type": "uint32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
+    },
+    {
+        "id": "buffer_en_packet",
+        "name": "PWM enable buffer status",
+        "type": "bool",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "obcpu_reset_packet",
+        "name": "OBCPU reset status",
+        "type": "bool",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "dead_time_packet",
+        "name": "PFM dead_time",
+        "type": "uint32",
+        "podUnits": "ns",
+        "displayUnits": "ns"
+    },
+    {
+        "id": "frequency_packet",
+        "name": "PFM frequency",
+        "type": "uint32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
+    }
+]

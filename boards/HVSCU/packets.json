@@ -1,0 +1,13 @@
+[
+    {
+        "id": 600,
+        "name": "Data",
+        "type": "data",
+        "variables": [
+            "buffer_en_packet",
+            "obcpu_reset_packet",
+            "dead_time_packet",
+            "frequency_packet"
+        ]
+    }
+]
