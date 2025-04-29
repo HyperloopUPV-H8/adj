@@ -1,13 +1,51 @@
 [
     {
         "id": 600,
-        "name": "Data",
+        "name": "PFM",
         "type": "data",
         "variables": [
             "buffer_en_packet",
             "obcpu_reset_packet",
             "dead_time_packet",
-            "frequency_packet"
+            "frequency_packet",
+            "pfm_status_packet",
+            "switching_status_packet"
+        ]
+    },
+    {
+        "id": 601,
+        "name": "Input current sensor",
+        "type": "data",
+        "variables": [
+            "input_current_raw",
+            "input_current_reading"
+        ]
+    },
+    {
+        "id": 602,
+        "name": "Output current sensor",
+        "type": "data",
+        "variables": [
+            "output_current_raw",
+            "output_current_reading"
+        ]
+    },
+    {
+        "id": 603,
+        "name": "Input voltage sensor",
+        "type": "data",
+        "variables": [
+            "input_voltage_raw",
+            "input_voltage_reading"
+        ]
+    },
+    {
+        "id": 604,
+        "name": "Output voltage sensor",
+        "type": "data",
+        "variables": [
+            "output_voltage_raw",
+            "output_voltage_reading"
         ]
     }
 ]

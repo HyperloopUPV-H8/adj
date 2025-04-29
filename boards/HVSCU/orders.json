@@ -28,13 +28,7 @@
     },
     {
         "id": 504,
-        "name": "Turn on RESET",
-        "type": "order",
-        "variables": []
-    },
-    {
-        "id": 505,
-        "name": "Turn off RESET",
+        "name": "Toggle RESET",
         "type": "order",
         "variables": []
     }

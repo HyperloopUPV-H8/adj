@@ -16,9 +16,11 @@
     {
         "id": "buffer_en_packet",
         "name": "PWM enable buffer status",
-        "type": "bool",
-        "podUnits": "",
-        "displayUnits": ""
+        "type": "enum",
+        "enumValues": [
+            "ENABLED",
+            "DISABLED"
+        ]
     },
     {
         "id": "obcpu_reset_packet",
@@ -40,5 +42,79 @@
         "type": "uint32",
         "podUnits": "Hz",
         "displayUnits": "Hz"
+    },
+    {
+        "id": "pfm_status_packet",
+        "name": "PFM status",
+        "type": "enum",
+        "enumValues": [
+            "STOPPED",
+            "STARTED"
+        ]
+    },
+    {
+        "id": "switching_status_packet",
+        "name": "Switching status",
+        "type": "enum",
+        "enumValues": [
+            "NOT_SWITCHING",
+            "SWITCHING"
+        ]
+    },
+    {
+        "id": "input_current_raw",
+        "name": "Raw",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "input_current_reading",
+        "name": "Reading",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "output_current_raw",
+        "name": "Raw",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "output_current_reading",
+        "name": "Reading",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "input_voltage_raw",
+        "name": "Raw",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "input_voltage_reading",
+        "name": "Reading",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "output_voltage_raw",
+        "name": "Raw",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "output_voltage_reading",
+        "name": "Reading",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]
