@@ -25,6 +25,18 @@
         "variables" : [
             "state"
         ]
+    },
+    {
+        "id" : 779,
+        "type" : "data",
+        "name" : "DCLV_data",
+        "variables" : [
+            "pfm_state",
+            "buffer_state",
+            "reset_state",
+            "frequency",
+            "dead_time"
+        ]
     }
 
 ]
