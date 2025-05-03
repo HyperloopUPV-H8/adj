@@ -1,0 +1,11 @@
+[
+    {
+        "id": 101,
+        "name": "characterize",
+        "type": "order",
+        "variables": [
+            "slope",
+            "offset"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "raw",
+        "name": "Raw",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "reading",
+        "name": "Reading",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "slope",
+        "name": "Slope",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "offset",
+        "name": "Offset",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    }
+]

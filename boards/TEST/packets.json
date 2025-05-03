@@ -1,0 +1,11 @@
+[
+    {
+        "id": 100,
+        "type": "data",
+        "name": "sensor_data",
+        "variables": [
+            "raw",
+            "reading"
+        ]
+    }
+]
