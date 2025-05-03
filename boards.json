@@ -1,5 +1,5 @@
 {
     "boards": {
-        "TEST": "boards/OBCCU/TEST.json"
+        "TEST": "boards/TEST/TEST.json"
     }
 }
