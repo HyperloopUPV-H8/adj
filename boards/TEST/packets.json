@@ -7,5 +7,14 @@
             "raw",
             "reading"
         ]
+    },
+    {
+        "id": 101,
+        "type": "data",
+        "name": "characterization",
+        "variables": [
+            "slope",
+            "offset"
+        ]
     }
 ]

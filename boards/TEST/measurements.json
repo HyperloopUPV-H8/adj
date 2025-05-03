@@ -26,5 +26,12 @@
         "type": "float32",
         "podUnits": "",
         "displayUnits": ""
+    },
+    {
+        "id": "real_value",
+        "name": "Real value",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     }
 ]
