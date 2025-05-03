@@ -1,5 +1,3 @@
 {
-    "boards": {
-        "TEST": "boards/TEST/TEST.json"
-    }
+    "TEST": "boards/TEST/TEST.json"
 }
