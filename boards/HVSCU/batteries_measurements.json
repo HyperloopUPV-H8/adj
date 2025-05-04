@@ -906,8 +906,11 @@
     {
         "id": "state_machine_status",
         "name": "State Machine status",
-        "type": "uint8",
-        "podUnits": "",
-        "displayUnits": ""
+        "type": "enum",
+        "enumValues": [
+            "CONNECTING",
+            "OPERATIONAL",
+            "FAULT"
+        ]
     }
 ]
