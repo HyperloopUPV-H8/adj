@@ -216,11 +216,19 @@
         ]
     },
     {
-        "id": 932,
-        "name": "state_machine",
+        "id": 940,
+        "name": "general_state_machine",
         "type": "data",
         "variables": [
-            "state_machine_status"
+            "general_state_machine_status"
+        ]
+    },
+    {
+        "id": 941,
+        "name": "operational_state_machine",
+        "type": "data",
+        "variables": [
+            "operational_state_machine_status"
         ]
     }
 ]
