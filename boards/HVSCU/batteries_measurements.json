@@ -902,5 +902,12 @@
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A"
+    },
+    {
+        "id": "state_machine_status",
+        "name": "State Machine status",
+        "type": "uint8",
+        "podUnits": "",
+        "displayUnits": ""
     }
 ]

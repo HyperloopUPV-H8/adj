@@ -214,5 +214,13 @@
         "variables": [
             "batteries_current_reading"
         ]
+    },
+    {
+        "id": 932,
+        "name": "state_machine",
+        "type": "data",
+        "variables": [
+            "state_machine_status"
+        ]
     }
 ]
