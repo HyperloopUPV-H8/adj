@@ -1,5 +1,11 @@
 [
     {
+        "id": 0,
+        "name": "FAULT",
+        "type": "order",
+        "variables": []
+    },
+    {
         "id": 900,
         "name": "close_contactors",
         "type": "order",
@@ -20,12 +26,6 @@
     {
         "id": 903,
         "name": "imd_bypass",
-        "type": "order",
-        "variables": []
-    },
-    {
-        "id": 904,
-        "name": "zeroing",
         "type": "order",
         "variables": []
     }
