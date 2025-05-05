@@ -202,19 +202,33 @@
     {
         "id": 930,
         "type": "data",
-        "name": "batteries_current",
+        "name": "batteries_voltage",
         "variables": [
-            "batteries_voltage",
-            "batteries_current"
+            "batteries_voltage_reading"
         ]
     },
     {
-        "id": 551,
-        "name": "Batteries_Voltage",
+        "id": 931,
+        "name": "batteries_current",
         "type": "data",
         "variables": [
-            "Voltage_Battery_A",
-            "Voltage_Battery_B"
+            "batteries_current_reading"
+        ]
+    },
+    {
+        "id": 940,
+        "name": "general_state_machine",
+        "type": "data",
+        "variables": [
+            "general_state_machine_status"
+        ]
+    },
+    {
+        "id": 941,
+        "name": "operational_state_machine",
+        "type": "data",
+        "variables": [
+            "operational_state_machine_status"
         ]
     }
 ]
