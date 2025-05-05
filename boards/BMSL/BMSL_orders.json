@@ -1,17 +1,5 @@
 [
     {
-        "id": 500,
-        "name": "Toggle Buffer",
-        "type": "order",
-        "variables": []
-    },
-    {
-        "id": 501,
-        "name": "Toggle Reset",
-        "type": "order",
-        "variables": []
-    },
-    {
         "id": 502,
         "name": "Turn on PFM",
         "type": "order",
