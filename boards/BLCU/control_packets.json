@@ -1,0 +1,42 @@
+[
+    {
+        "id":"700",
+        "type": "order",
+        "name":"Write Program",
+        "variables":[
+            {"name":"target"}
+        ]
+    },
+    {
+        "id":"701",
+        "type": "order",
+        "name":"Read Program",
+        "variables":[
+            {"name":"target"}
+        ]
+    },
+    {
+        "id":"702",
+        "type": "order",
+        "name":"Erase Program",
+        "variables":[
+            {"name":"target"}
+        ]
+    },
+    {
+        "id":"703",
+        "type": "order",
+        "name":"Get Version",
+        "variables":[
+            {"name":"target"}
+        ]
+    },
+    {
+        "id": "704",
+        "type": "order",
+        "name": "Reset All",
+        "variables":[
+            {"name":"target"}
+        ]
+    }
+]
