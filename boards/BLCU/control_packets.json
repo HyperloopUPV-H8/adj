@@ -4,7 +4,7 @@
         "type": "order",
         "name":"Write Program",
         "variables":[
-            {"name":"target"}
+            "target"
         ]
     },
     {
