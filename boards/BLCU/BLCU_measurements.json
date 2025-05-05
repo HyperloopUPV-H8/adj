@@ -1,6 +1,30 @@
 [
     {
-        "id": "target",
+        "id": "target_1",
+        "name": "Target",
+        "type": "enum",
+        "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]
+    },
+    {
+        "id": "target_2",
+        "name": "Target",
+        "type": "enum",
+        "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]
+    },
+    {
+        "id": "target_3",
+        "name": "Target",
+        "type": "enum",
+        "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]
+    },
+    {
+        "id": "target_4",
+        "name": "Target",
+        "type": "enum",
+        "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]
+    },
+    {
+        "id": "target_5",
         "name": "Target",
         "type": "enum",
         "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]

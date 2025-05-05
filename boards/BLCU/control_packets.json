@@ -4,7 +4,7 @@
         "type": "order",
         "name":"Write Program",
         "variables":[
-            "target"
+            "target_1"
         ]
     },
     {
@@ -12,7 +12,7 @@
         "type": "order",
         "name":"Read Program",
         "variables":[
-            "target"
+            "target_2"
         ]
     },
     {
@@ -20,7 +20,7 @@
         "type": "order",
         "name":"Erase Program",
         "variables":[
-            "target"
+            "target_3"
         ]
     },
     {
@@ -28,7 +28,7 @@
         "type": "order",
         "name":"Get Version",
         "variables":[
-            "target"
+            "target_4"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "type": "order",
         "name": "Reset All",
         "variables":[
-            "target"
+            "target_5"
         ]
     }
 ]
