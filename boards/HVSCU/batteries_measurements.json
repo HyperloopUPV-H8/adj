@@ -890,6 +890,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "total_voltage",
+        "name": "Batteries total voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
         "id": "batteries_voltage_reading",
         "name": "Batteries voltage",
         "type": "float32",

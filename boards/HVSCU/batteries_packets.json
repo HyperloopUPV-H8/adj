@@ -200,6 +200,14 @@
         ]
     },
     {
+        "id": 928,
+        "type": "data",
+        "name": "batteries_total_voltage",
+        "variables": [
+            "total_voltage"
+        ]
+    },
+    {
         "id": 930,
         "type": "data",
         "name": "batteries_voltage",
