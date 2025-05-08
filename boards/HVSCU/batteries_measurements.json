@@ -897,8 +897,8 @@
         "displayUnits": "V"
     },
     {
-        "id": "batteries_voltage_reading",
-        "name": "Batteries voltage",
+        "id": "voltage_reading",
+        "name": "Voltage",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"

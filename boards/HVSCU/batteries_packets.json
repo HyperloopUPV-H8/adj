@@ -210,9 +210,9 @@
     {
         "id": 930,
         "type": "data",
-        "name": "batteries_voltage",
+        "name": "voltage",
         "variables": [
-            "batteries_voltage_reading"
+            "voltage_reading"
         ]
     },
     {
