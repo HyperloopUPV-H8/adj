@@ -35,9 +35,7 @@
             "buffer_state",
             "reset_state",
             "frequency",
-            "dead_time",
-            "DCLV_current",
-            "DCLV_voltage"
+            "dead_time"
         ]
     }
 
