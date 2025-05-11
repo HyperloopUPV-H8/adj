@@ -68,6 +68,15 @@
     },
 
     {
+        "id": 9990,
+        "name": "set_fixed_vbat",
+        "type": "order",
+        "variables": [
+            "vbat_fixed"
+        ]
+    },
+
+    {
         "id": 1751,
         "name": "start_booster",
         "type": "order",

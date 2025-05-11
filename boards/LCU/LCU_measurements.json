@@ -241,6 +241,13 @@
         "displayUnits": "A"
     },
     {
+        "id": "lcu_vbat_fixed",
+        "name": "fixed_vbat",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
         "id": "lcu_vbat_1",
         "name": "LPU 1 Voltage",
         "type": "float32",
