@@ -1,6 +1,6 @@
 {
     "board_id": 1,
-    "board_ip": "192.168.2.69",
+    "board_ip": "192.168.1.4",
     "measurements": [
         "measurements.json"
     ],
