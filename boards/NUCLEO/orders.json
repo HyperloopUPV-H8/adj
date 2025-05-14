@@ -4,5 +4,9 @@
         "name": "ORDER_66",
         "type": "order",
         "variables": []
+    },{
+        "id":0,
+        "name":"FAULT",
+        "type": "order"
     }
 ]
