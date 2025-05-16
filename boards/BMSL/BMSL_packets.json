@@ -35,7 +35,11 @@
             "buffer_state",
             "reset_state",
             "frequency",
-            "dead_time"
+            "dead_time",
+            "output_current",
+            "input_current",
+            "output_voltage",
+            "input_voltage"
         ]
     }
 
