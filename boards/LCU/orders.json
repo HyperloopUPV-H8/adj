@@ -72,7 +72,7 @@
         "name": "set_fixed_vbat",
         "type": "order",
         "variables": [
-            "vbat_fixed"
+            "fixed_vbat"
         ]
     },
 

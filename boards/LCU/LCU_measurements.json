@@ -241,8 +241,8 @@
         "displayUnits": "A"
     },
     {
-        "id": "lcu_vbat_fixed",
-        "name": "fixed_vbat",
+        "id": "fixed_vbat",
+        "name": "fixed_vbat_0",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
