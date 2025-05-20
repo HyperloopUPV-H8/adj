@@ -230,5 +230,14 @@
         "variables": [
             "operational_state_machine_status"
         ]
+    },
+    {
+        "id": 942,
+        "name": "driver_diagnosis",
+        "type": "data",
+        "variables": [
+            "driver_reading_period",
+            "driver_success_conv_rate"
+        ]
     }
 ]

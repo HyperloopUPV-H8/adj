@@ -923,5 +923,15 @@
             "HV CLOSED",
             "CHARGING"
         ]
+    },
+    {
+        "id": "driver_reading_period",
+        "name": "BMS reading period",
+        "type": "int"
+    },
+    {
+        "id": "driver_success_conv_rate",
+        "name": "BMS success conversion rate",
+        "type": "float32"
     }
 ]
