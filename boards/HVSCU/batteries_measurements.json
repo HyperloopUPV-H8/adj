@@ -927,7 +927,7 @@
     {
         "id": "driver_reading_period",
         "name": "BMS reading period",
-        "type": "int"
+        "type": "uint32"
     },
     {
         "id": "driver_success_conv_rate",
