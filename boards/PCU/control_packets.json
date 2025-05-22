@@ -1,0 +1,79 @@
+[
+        {
+            "id": 550,
+            "name": "pwm_packet",
+            "type": "data",
+            "variables": [
+                "pwm_active",
+                "frequency",
+                "duty",
+                "buffer_enable"
+            ]
+        },
+        {
+            "id": 551,
+            "name": "Batteries_Voltage",
+            "type": "data",
+            "variables": [
+                 "Voltage_Battery_A",
+                 "Voltage_Battery_B"
+            ]
+        },
+        {
+            "id": 552,
+            "name": "Current_sensors",
+            "type": "data",
+            "variables": [ 
+                "current_sensor_u_a",
+                "current_sensor_v_a",
+                "current_sensor_w_a", 
+                "current_sensor_u_b", 
+                "current_sensor_v_b", 
+                "current_sensor_w_b","current_Peak",
+                "Error_PI", 
+                "Target_Voltage",
+                "SVPWM_Time"
+            ]
+        },
+        {
+            "id":553,
+            "name": "StateMachine_states",
+            "type": "data",
+            "variables": [
+                "general_state_machine",
+                "operational_state_machine"
+            ]
+        },
+        {
+            "id": 554,
+            "name": "Encoder_data",
+            "type": "data",
+            "variables": [
+                "encoder_position",
+                "encoder_direction",
+                "encoder_speed",
+                "encoder_speed_km_h",
+                "encoder_acceleration"  
+            ]
+        },
+        {
+            "id": 555,
+            "name": "Encoder_data",
+            "type": "data",
+            "variables": [
+                 "target_speed",
+                 "speed_error",
+                "actual_current_ref"
+            ]
+        },
+        {
+            "id": 556,
+            "name": "Control_State",
+            "type": "data",
+            "variables": [
+                "Direction_State",
+                "Current_Control_State",
+                "Speed_Control_State" 
+            ]
+        }
+    ]
