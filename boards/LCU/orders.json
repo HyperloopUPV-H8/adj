@@ -38,17 +38,19 @@
     {
         "id": 9994,
         "name": "start_control",
+
+        "type": "order",
         "variables": [
             "ldu_id",
             "lcu_desired_distance"
-        ],
-        "type": "order"
+        ]
     },
     {
         "id": 9993,
         "name": "stop_control",
         "type": "order",
         "variables": []
+
     },
     {
         "id": 9991,
@@ -66,6 +68,7 @@
             "ldu_id"
         ]
     },
+
 
     {
         "id": 9990,
@@ -90,6 +93,7 @@
         "name": "start_booster",
         "type": "order",
         "variables": []
+
     },
     {
         "id": 1750,

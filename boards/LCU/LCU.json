@@ -5,6 +5,6 @@
     "packets": [
         "packets.json",
         "orders.json"
-    ]
-
+    ],
+    "firmware": ["fw/tdd.json"]
 }
