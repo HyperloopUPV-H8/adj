@@ -77,6 +77,15 @@
     },
 
     {
+        "id": 9989,
+        "name": "start_3dof",
+        "type": "order",
+        "variables": [
+            "lcu_desired_distance"
+        ]
+    },
+
+    {
         "id": 1751,
         "name": "start_booster",
         "type": "order",

@@ -77,7 +77,12 @@
             "lcu_airgap_5",
             "lcu_airgap_6",
             "lcu_airgap_7",
-            "lcu_airgap_8"
+            "lcu_airgap_8",
+            "dist_control_y",
+            "dist_control_z",
+            "rot_control_x",
+            "rot_control_y",
+            "rot_control_z"
         ]
     }
 ]

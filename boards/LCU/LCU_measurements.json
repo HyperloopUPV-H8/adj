@@ -374,6 +374,41 @@
         "displayUnits": "mm"
     },
     {
+        "id": "dist_control_y",
+        "name": "Dist_Control_y",
+        "type": "float32",
+        "podUnits": "mm",
+        "displayUnits": "mm"
+    },
+    {
+        "id": "dist_control_z",
+        "name": "Dist_Control_z",
+        "type": "float32",
+        "podUnits": "mm",
+        "displayUnits": "mm"
+    },
+    {
+        "id": "rot_control_x",
+        "name": "Rot_Control_x",
+        "type": "float32",
+        "podUnits": "degrees",
+        "displayUnits": "degrees"
+    },
+    {
+        "id": "rot_control_y",
+        "name": "Rot_Control_y",
+        "type": "float32",
+        "podUnits": "degrees",
+        "displayUnits": "degrees"
+    },
+    {
+        "id": "rot_control_z",
+        "name": "Rot_Control_z",
+        "type": "float32",
+        "podUnits": "degrees",
+        "displayUnits": "degrees"
+    },
+    {
         "id": "test_gui__1",
         "name": "Airgap BUENO 1",
         "type": "float32",
@@ -565,7 +600,7 @@
         "id": "vertical_state",
         "name": "vertical state",
         "type": "enum",
-        "enumValues": ["IDLE", "CONTROL_CURRENT", "CONTROL_1DOF"]
+        "enumValues": ["IDLE", "CONTROL_CURRENT", "CONTROL_1DOF", "CONTROL_3DOF"]
     },
     {
         "id": "horizontal_state",
