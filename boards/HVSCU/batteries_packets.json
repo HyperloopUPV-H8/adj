@@ -1,5 +1,10 @@
 [
     {
+        "id": 0,
+        "type": "data",
+        "name": "FAULT"
+    },
+    {
         "id": 910,
         "type": "data",
         "name": "battery_1",
