@@ -890,32 +890,55 @@
         "displayUnits": "V"
     },
     {
-
-        "id": "batteries_voltage",
+        "id": "batteries_voltage_reading",
         "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
     },
     {
-        "id": "batteries_current_value",
-        "name": "Batteries current",
-        "type": "float32",
-        "podUnits": "A",
-        "displayUnits": "A"
-    },
-    {
-        "id": "batteries_voltage_value",
-        "name": "Batteries voltage",
+        "id": "voltage_reading",
+        "name": "Voltage sensor",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
     },
     {
-        "id": "batteries_current",
-        "name": "Batteries current",
+        "id": "current_reading",
+        "name": "Current sensor",
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A"
+    },
+    {
+        "id": "general_state_machine_status",
+        "name": "General State Machine status",
+        "type": "enum",
+        "enumValues": [
+            "CONNECTING",
+            "OPERATIONAL",
+            "FAULT"
+        ]
+    },
+    {
+        "id": "operational_state_machine_status",
+        "name": "Operational State Machine status",
+        "type": "enum",
+        "enumValues": [
+            "HV OPEN",
+            "PRECHARGE",
+            "HV CLOSED",
+            "CHARGING"
+        ]
+    },
+    {
+        "id": "driver_reading_period",
+        "name": "BMS reading period",
+        "type": "uint32"
+    },
+    {
+        "id": "driver_success_conv_rate",
+        "name": "BMS success conversion rate",
+        "type": "float32"
     }
 ]

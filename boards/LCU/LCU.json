@@ -7,5 +7,4 @@
         "orders.json"
     ],
     "firmware": ["fw/tdd.json"]
-
 }

@@ -1,11 +1,10 @@
-[ 
-    {
 
+[
+    {
         "id": 320,
-        "name": "lcu_coil_current",
         "type": "data",
-        "variables":  
-        [
+        "name": "lcu_coil_current",
+        "variables": [
             "general_state",
             "vertical_state",
             "horizontal_state",
@@ -67,13 +66,11 @@
             "lcu_dis_pos_exit_8"
         ]
     },
-
     {
-
         "id": 318,
-        "name": "lcu_airgap",
         "type": "data",
-        "variables":  [
+        "name": "lcu_airgap",
+        "variables": [
             "lcu_airgap_1",
             "lcu_airgap_2",
             "lcu_airgap_3",
@@ -81,7 +78,12 @@
             "lcu_airgap_5",
             "lcu_airgap_6",
             "lcu_airgap_7",
-            "lcu_airgap_8"
-    ]
+            "lcu_airgap_8",
+            "dist_control_y",
+            "dist_control_z",
+            "rot_control_x",
+            "rot_control_y",
+            "rot_control_z"
+        ]
     }
 ]

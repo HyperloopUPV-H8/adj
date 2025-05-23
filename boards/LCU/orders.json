@@ -25,6 +25,7 @@
             "ldu_buffer_id"
         ]
     },
+
     {
         "id": 9995,
         "name": "set_current_desired",
@@ -37,6 +38,7 @@
     {
         "id": 9994,
         "name": "start_control",
+
         "type": "order",
         "variables": [
             "ldu_id",
@@ -46,7 +48,9 @@
     {
         "id": 9993,
         "name": "stop_control",
-        "type": "order"
+        "type": "order",
+        "variables": []
+
     },
     {
         "id": 9991,
@@ -64,14 +68,37 @@
             "ldu_id"
         ]
     },
+
+
+    {
+        "id": 9990,
+        "name": "set_fixed_vbat",
+        "type": "order",
+        "variables": [
+            "fixed_vbat"
+        ]
+    },
+
+    {
+        "id": 9989,
+        "name": "start_3dof",
+        "type": "order",
+        "variables": [
+            "lcu_desired_distance"
+        ]
+    },
+
     {
         "id": 1751,
         "name": "start_booster",
-        "type": "order"
+        "type": "order",
+        "variables": []
+
     },
     {
         "id": 1750,
         "name": "exit_booster",
-        "type": "order"
+        "type": "order",
+        "variables": []
     }
 ]
