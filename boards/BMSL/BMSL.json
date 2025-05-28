@@ -5,6 +5,7 @@
         "BMSL_measurements.json"
     ],
     "packets": [
-        "BMSL_packets.json"
+        "BMSL_packets.json",
+        "BMSL_orders.json"
     ]
 }

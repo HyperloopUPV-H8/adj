@@ -1,5 +1,9 @@
 [
     {
+        "id":0,
+        "name":"FAULT",
+        "type": "order"
+    },{
         "id": 900,
         "name": "close_contactors",
         "type": "order",

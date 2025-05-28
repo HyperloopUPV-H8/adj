@@ -2,7 +2,7 @@
     {
        "id": 777,
        "type": "data",
-       "name": "Voltage_data",
+       "name": "Battery Data",
        "variables": [
             "cell_1",
             "cell_2",
@@ -21,9 +21,25 @@
     {
         "id" : 778,
         "type" : "data",
-        "name" : "Current_state",
+        "name" : "Current State",
         "variables" : [
             "state"
+        ]
+    },
+    {
+        "id" : 779,
+        "type" : "data",
+        "name" : "DCLV Data",
+        "variables" : [
+            "pfm_state",
+            "buffer_state",
+            "reset_state",
+            "frequency",
+            "dead_time",
+            "output_current",
+            "input_current",
+            "output_voltage",
+            "input_voltage"
         ]
     }
 
