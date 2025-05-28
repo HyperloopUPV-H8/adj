@@ -28,5 +28,10 @@
         "name": "Target",
         "type": "enum",
         "enumValues": ["VCU", "OBCCU","BMSA", "LCUM", "LCUS", "PCU", "NOTARGET"]
+    },
+    {
+    	"id": "version",
+    	"name": "version",
+    	"type": "uint18"
     }
 ]
