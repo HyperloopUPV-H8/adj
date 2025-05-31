@@ -47,5 +47,14 @@
             "output_voltage_raw",
             "output_voltage_reading"
         ]
+    },
+    {
+        "id": 605,
+        "name": "Batteries voltage HIL",
+        "type": "data",
+        "variables": [
+            "batteries_voltage_hil_raw",
+            "batteries_voltage_hil_reading"
+        ]
     }
 ]

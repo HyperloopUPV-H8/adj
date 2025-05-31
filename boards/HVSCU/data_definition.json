@@ -116,5 +116,19 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "batteries_voltage_hil_raw",
+        "name": "Raw",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "batteries_voltage_hil_reading",
+        "name": "Reading",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
     }
 ]
