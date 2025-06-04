@@ -4,11 +4,11 @@
             "name": "pwm_packet",
             "type": "data",
             "variables": [
-                "pwm_active",
                 "frequency",
                 "modulation_frequency",
-                "duty",
-                "buffer_enable"
+                "duty_u",
+                "duty_v",
+                "duty_w"
             ]
         },
         {
@@ -74,8 +74,18 @@
             "type": "data",
             "variables": [
                 "Direction_State",
-                "Current_Control_State",
                 "Speed_Control_State" 
+            ]
+        },
+        {
+            "id":557,
+            "name":"Reeds_State",
+            "type":"data",
+            "variables":[
+                "reed",
+                "reed",
+                "reed",
+                "reed"
             ]
         }
     ]
