@@ -165,8 +165,9 @@
             "type": "enum",
             "enumValues": [
                 "IDLE",
-                "Sending_PWM",
-                "Accelerating"
+                "Braking",
+                "Accelerating",
+                "Regenerative"
             ]
         },
         {
