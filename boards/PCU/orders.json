@@ -7,7 +7,7 @@
                  "frequency_to_send_svpwm",
                   "frequency_to_send_PWM",
                    "V_Ref",
-                    "VMaxSVPWM",
+                    "VMax",
                     "Direction_State"
             ]
         },
