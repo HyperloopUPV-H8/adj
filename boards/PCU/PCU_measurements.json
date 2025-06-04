@@ -35,29 +35,6 @@
             "displayUnits": "%"
         },
         {
-            "id": "frequency_to_send",
-            "name": "Send frequency (Hz)",
-            "type": "float32",
-            "podUnits": "hz",
-            "displayUnits": "hz",
-            "out_of_range": {
-                "safe":[1000, 100000],
-                "warning":[1500,80000]
-            }
-        },
-        {
-            "id": "duty_to_send",
-            "name": "Send duty",
-            "type": "float32",
-            "podUnits": "%",
-            "displayUnits": "%",
-            "out_of_range": {
-                "safe":[0, 100],
-                "warning":[0,100]
-            }
-
-        },
-        {
             "id": "Voltage_Battery_A",
             "name": "Voltage Battery A",
             "type": "float32"
