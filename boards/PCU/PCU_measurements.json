@@ -1,7 +1,7 @@
 [
         {
             "id": "frequency",
-            "name": "frequency from PWM ACTIVE",
+            "name": "Frequency  Commutation hz",
             "type": "uint32",
             "podUnits": "hz",
             "displayUnits": "hz"
@@ -14,8 +14,22 @@
             "displayUnits": "hz"
         },
         {
-            "id": "duty",
-            "name": "Duty from PWM ACTIVE",
+            "id": "duty_u",
+            "name": "Duty U",
+            "type": "float32",
+            "podUnits": "%",
+            "displayUnits": "%"
+        },
+        {
+            "id": "duty_v",
+            "name": "Duty V",
+            "type": "float32",
+            "podUnits": "%",
+            "displayUnits": "%"
+        },
+          {
+            "id": "duty_w",
+            "name": "Duty W",
             "type": "float32",
             "podUnits": "%",
             "displayUnits": "%"
@@ -42,26 +56,6 @@
                 "warning":[0,100]
             }
 
-        },
-        {
-            "id": "pwm_active",
-            "name": "PWM active",
-            "type": "enum",
-            "enumValues": [
-                "NONE",
-                "U",
-                "V",
-                "W"
-            ]
-        },
-        {
-            "id": "buffer_enable",
-            "name": "Buffer",
-            "type": "enum",
-            "enumValues": [
-                "OFF",
-                "ON"
-            ]
         },
         {
             "id": "Voltage_Battery_A",
