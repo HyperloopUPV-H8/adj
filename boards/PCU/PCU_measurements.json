@@ -49,8 +49,8 @@
             "name": "Reference Voltage",
             "type": "float32",
             "out_of_range": {
-                "safe":[0,163],
-                "warning":[0,150]
+                "safe":[0,400],
+                "warning":[400,450]
             }
 
         },
