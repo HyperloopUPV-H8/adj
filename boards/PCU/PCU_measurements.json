@@ -49,8 +49,8 @@
             "name": "Reference Voltage",
             "type": "float32",
             "out_of_range": {
-                "safe":[0,400],
-                "warning":[400,450]
+                "safe":[0,420],
+                "warning":[0,400]
             }
 
         },
@@ -208,8 +208,8 @@
             "podUnits": "V",
             "displayUnits": "V",
             "out_of_range": {
-                "safe":[0, 400],
-                "warning":[0,399]
+                "safe":[0, 420],
+                "warning":[0,400]
             }
 
         },
