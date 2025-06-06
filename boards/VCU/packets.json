@@ -1,0 +1,34 @@
+[
+  {
+    "type": "data",
+    "name": "Flow",
+    "variables": [
+      "Flow1",
+      "Flow2"
+    ],
+    "id": 64578
+  },
+  {
+    "type": "data",
+    "name": "Reeds",
+    "variables": [
+      "Reed1",
+      "Reed2",
+      "Reed3",
+      "Reed4",
+      "Reed5",
+      "Reed6",
+      "Reed7",
+      "Reed8"
+    ],
+    "id": 31241
+  },
+  {
+    "type": "data",
+    "name": "Regulator",
+    "variables": [
+      "Regulator_in"
+    ],
+    "id": 13124
+  }
+]

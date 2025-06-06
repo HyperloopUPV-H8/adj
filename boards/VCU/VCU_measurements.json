@@ -1,0 +1,306 @@
+[
+  {
+    "id": "Potencia refri Unidades",
+    "name": "Potencia refri Unidades",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "%",
+    "enumValues": [],
+    "safeRange": [
+      -1.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Potencia Refri Placas",
+    "name": "Potencia Refri Placas",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "%",
+    "enumValues": [],
+    "safeRange": [
+      -1.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Activate_actuator",
+    "name": "Activate_actuator",
+    "type": "Boolean",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Selected_Regulator_pressure",
+    "name": "Selected_Regulator_pressure",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Flow1",
+    "name": "Flow1",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Flow2",
+    "name": "Flow2",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Regulator_in",
+    "name": "Regulator_in",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed1",
+    "name": "Reed1",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed2",
+    "name": "Reed2",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed3",
+    "name": "Reed3",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed4",
+    "name": "Reed4",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed5",
+    "name": "Reed5",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed6",
+    "name": "Reed6",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed7",
+    "name": "Reed7",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Reed8",
+    "name": "Reed8",
+    "type": "Digital",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Pression1",
+    "name": "Pression1",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Pression2",
+    "name": "Pression2",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Pression3",
+    "name": "Pression3",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Pression4",
+    "name": "Pression4",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "order",
+    "name": "Potencia Pump Unidades",
+    "variables": [
+      "Potencia refri Unidades"
+    ],
+    "id": 173145
+  },
+  {
+    "type": "order",
+    "name": "Potenica Pump Placas",
+    "variables": [
+      "Potencia Refri Placas"
+    ],
+    "id": 17491
+  },
+  {
+    "type": "order",
+    "name": "Activate_actuator",
+    "variables": [
+      "Activate_actuator"
+    ],
+    "id": 84564
+  },
+  {
+    "type": "order",
+    "name": "Set_regulator",
+    "variables": [
+      "Selected_Regulator_pressure"
+    ],
+    "id": 957654
+  }
+]
