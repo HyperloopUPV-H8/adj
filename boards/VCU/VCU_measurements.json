@@ -32,8 +32,8 @@
     ]
   },
   {
-    "id": "Activate_actuator",
-    "name": "Activate_actuator",
+    "id": "Active_actuator",
+    "name": "Active_actuator",
     "type": "Boolean",
     "podUnits": "",
     "displayUnits": "",
