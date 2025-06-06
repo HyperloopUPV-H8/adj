@@ -30,5 +30,17 @@
       "Regulator_in"
     ],
     "id": 1312
+  },
+  {
+    "type": "data",
+    "name": "Pressure",
+    "variables": [
+      "Presion_alta",
+      "Presion_regulador",
+      "Presion_frenos",
+      "Presion_capsula"
+    ],
+    "id": 1312
   }
+
 ]

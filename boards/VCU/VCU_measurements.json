@@ -224,8 +224,8 @@
     ]
   },
   {
-    "id": "Pression1",
-    "name": "Pression1",
+    "id": "Presion_alta",
+    "name": "Presion_alta",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
@@ -240,8 +240,8 @@
     ]
   },
   {
-    "id": "Pression2",
-    "name": "Pression2",
+    "id": "Presion_regulador",
+    "name": "Presion_regulador",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
@@ -256,8 +256,8 @@
     ]
   },
   {
-    "id": "Pression3",
-    "name": "Pression3",
+    "id": "Presion_frenos",
+    "name": "Presion_frenos",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
@@ -272,8 +272,8 @@
     ]
   },
   {
-    "id": "Pression4",
-    "name": "Pression4",
+    "id": "Presion_capsula",
+    "name": "Presion_capsula",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
