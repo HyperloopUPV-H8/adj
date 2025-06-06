@@ -609,7 +609,8 @@
       "IDLE",
       "CONTROL_CURRENT",
       "CONTROL_1DOF",
-      "CONTROL_3DOF"
+      "CONTROL_3DOF",
+      "STICK_DOWN"
     ]
   },
   {
