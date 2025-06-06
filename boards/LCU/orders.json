@@ -1,104 +1,96 @@
 [
-    {
-        "id": 9999,
-        "name": "set_LDU_pwm_params",
-        "type": "order",
-        "variables": [
-            "ldu_id",
-            "pwm_duty_cycle",
-            "current_control_frequency"
-        ]
-    },
-    {
-        "id": 9998,
-        "name": "send_LDU_en",
-        "type": "order",
-        "variables": [
-            "ldu_buffer_id"
-        ]
-    },
-    {
-        "id": 9996,
-        "name": "send_LDU_dis",
-        "type": "order",
-        "variables": [
-            "ldu_buffer_id"
-        ]
-    },
-
-    {
-        "id": 9995,
-        "name": "set_current_desired",
-        "type": "order",
-        "variables": [
-            "ldu_id",
-            "lcu_desired_current"
-        ]
-    },
-    {
-        "id": 9994,
-        "name": "start_control",
-
-        "type": "order",
-        "variables": [
-            "ldu_id",
-            "lcu_desired_distance"
-        ]
-    },
-    {
-        "id": 9993,
-        "name": "stop_control",
-        "type": "order",
-        "variables": []
-
-    },
-    {
-        "id": 9991,
-        "name": "stop_pwm",
-        "type": "order",
-        "variables": [
-            "ldu_id"
-        ]
-    },
-    {
-        "id": 9992,
-        "name": "start_pwm",
-        "type": "order",
-        "variables": [
-            "ldu_id"
-        ]
-    },
-
-
-    {
-        "id": 9990,
-        "name": "set_fixed_vbat",
-        "type": "order",
-        "variables": [
-            "fixed_vbat"
-        ]
-    },
-
-    {
-        "id": 9989,
-        "name": "start_3dof",
-        "type": "order",
-        "variables": [
-            "lcu_desired_distance"
-        ]
-    },
-
-    {
-        "id": 1751,
-        "name": "start_booster",
-        "type": "order",
-        "variables": []
-
-    },
-    {
-        "id": 1750,
-        "name": "exit_booster",
-        "type": "order",
-        "variables": []
-    }
+  {
+    "type": "order",
+    "name": "set_LDU_pwm_params",
+    "variables": [
+      "ldu_id",
+      "pwm_duty_cycle",
+      "current_control_frequency"
+    ],
+    "id": 9999
+  },
+  {
+    "type": "order",
+    "name": "send_LDU_en",
+    "variables": [
+      "ldu_buffer_id"
+    ],
+    "id": 9998
+  },
+  {
+    "type": "order",
+    "name": "send_LDU_dis",
+    "variables": [
+      "ldu_buffer_id"
+    ],
+    "id": 9996
+  },
+  {
+    "type": "order",
+    "name": "set_current_desired",
+    "variables": [
+      "ldu_id",
+      "lcu_desired_current"
+    ],
+    "id": 9995
+  },
+  {
+    "type": "order",
+    "name": "start_control",
+    "variables": [
+      "ldu_id",
+      "lcu_desired_distance"
+    ],
+    "id": 9994
+  },
+  {
+    "type": "order",
+    "name": "stop_control",
+    "variables": [],
+    "id": 9993
+  },
+  {
+    "type": "order",
+    "name": "stop_pwm",
+    "variables": [
+      "ldu_id"
+    ],
+    "id": 9991
+  },
+  {
+    "type": "order",
+    "name": "start_pwm",
+    "variables": [
+      "ldu_id"
+    ],
+    "id": 9992
+  },
+  {
+    "type": "order",
+    "name": "set_fixed_vbat",
+    "variables": [
+      "fixed_vbat"
+    ],
+    "id": 9990
+  },
+  {
+    "type": "order",
+    "name": "start_3dof",
+    "variables": [
+      "lcu_desired_distance"
+    ],
+    "id": 9989
+  },
+  {
+    "type": "order",
+    "name": "start_booster",
+    "variables": [],
+    "id": 1751
+  },
+  {
+    "type": "order",
+    "name": "exit_booster",
+    "variables": [],
+    "id": 1750
+  }
 ]
