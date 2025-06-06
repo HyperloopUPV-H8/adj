@@ -6,7 +6,7 @@
       "Flow1",
       "Flow2"
     ],
-    "id": 64578
+    "id": 6457
   },
   {
     "type": "data",
@@ -21,7 +21,7 @@
       "Reed7",
       "Reed8"
     ],
-    "id": 31241
+    "id": 3124
   },
   {
     "type": "data",
@@ -29,6 +29,6 @@
     "variables": [
       "Regulator_in"
     ],
-    "id": 13124
+    "id": 1312
   }
 ]
