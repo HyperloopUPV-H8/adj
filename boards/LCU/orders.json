@@ -92,5 +92,19 @@
     "name": "exit_booster",
     "variables": [],
     "id": 1750
+  },
+  {
+    "type": "order",
+    "name": "stick_down",
+    "variables": [],
+    "id": 9987
+  },
+  {
+    "type": "order",
+    "name": "start_5dof",
+    "variables": [
+      "lcu_desired_distance"
+    ],
+    "id": 9988
   }
 ]

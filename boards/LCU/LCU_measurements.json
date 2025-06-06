@@ -466,7 +466,7 @@
   },
   {
     "id": "lcu_desired_distance",
-    "name": "desired distance",
+    "name": "desired distance (mm)",
     "type": "float32",
     "podUnits": "mm",
     "displayUnits": "mm"
