@@ -302,5 +302,23 @@
       0.0,
       100.0
     ]
+  },
+  {
+    "id": "Selected_pump",
+    "name": "Selected_pump",
+    "type": "enum",
+    "enumValues": [
+      "PUMP_UNIDADES",
+      "PUMP_PLACAS"
+    ]
+  },
+  {
+    "id": "Selected_regulator",
+    "name": "Selected_regulator",
+    "type": "enum",
+    "enumValues": [
+      "REGULATOR_1",
+      "REGULATOR_2"
+    ]
   }
 ]
