@@ -1,5 +1,4 @@
 {
-    "HVSCU": "boards/HVSCU/HVSCU.json",
-    "BMSL" : "boards/BMSL/BMSL.json"
+  "BMSL": "boards/BMSL/BMSL.json",
+  "HVSCU": "boards/HVSCU/HVSCU.json"
 }
-
