@@ -16,22 +16,6 @@
     ]
   },
   {
-    "id": "Potencia_Refri_Placas",
-    "name": "Potencia_Refri_Placas",
-    "type": "uint32",
-    "podUnits": "",
-    "displayUnits": "%",
-    "enumValues": [],
-    "safeRange": [
-      -1.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
-  },
-  {
     "id": "Active_actuator",
     "name": "Active_actuator",
     "type": "Boolean",
@@ -50,7 +34,7 @@
   {
     "id": "Selected_Regulator_pressure",
     "name": "Selected_Regulator_pressure",
-    "type": "uint32",
+    "type": "float32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
