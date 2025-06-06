@@ -1,0 +1,80 @@
+[
+  {
+    "type": "data",
+    "name": "pwm_packet",
+    "variables": [
+      "pwm_active",
+      "frequency",
+      "duty",
+      "buffer_enable"
+    ],
+    "id": 550
+  },
+  {
+    "type": "data",
+    "name": "Batteries_Voltage",
+    "variables": [
+      "Voltage_Battery_A",
+      "Voltage_Battery_B"
+    ],
+    "id": 551
+  },
+  {
+    "type": "data",
+    "name": "Current_sensors",
+    "variables": [
+      "current_sensor_u_a",
+      "current_sensor_v_a",
+      "current_sensor_w_a",
+      "current_sensor_u_b",
+      "current_sensor_v_b",
+      "current_sensor_w_b",
+      "current_Peak",
+      "Error_PI",
+      "Target_Voltage",
+      "SVPWM_Time"
+    ],
+    "id": 552
+  },
+  {
+    "type": "data",
+    "name": "StateMachine_states",
+    "variables": [
+      "general_state_machine",
+      "operational_state_machine"
+    ],
+    "id": 553
+  },
+  {
+    "type": "data",
+    "name": "Encoder_data",
+    "variables": [
+      "encoder_position",
+      "encoder_direction",
+      "encoder_speed",
+      "encoder_speed_km_h",
+      "encoder_acceleration"
+    ],
+    "id": 554
+  },
+  {
+    "type": "data",
+    "name": "Encoder_data",
+    "variables": [
+      "target_speed",
+      "speed_error",
+      "actual_current_ref"
+    ],
+    "id": 555
+  },
+  {
+    "type": "data",
+    "name": "Control_State",
+    "variables": [
+      "Direction_State",
+      "Current_Control_State",
+      "Speed_Control_State"
+    ],
+    "id": 556
+  }
+]
