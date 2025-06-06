@@ -80,8 +80,24 @@
     ]
   },
   {
-    "id": "Regulator_in",
-    "name": "Regulator_in",
+    "id": "Regulator_in1",
+    "name": "Regulator_in1",
+    "type": "uint32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "Regulator_in2",
+    "name": "Regulator_in2",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "",

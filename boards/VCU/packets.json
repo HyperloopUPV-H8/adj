@@ -27,7 +27,8 @@
     "type": "data",
     "name": "Regulator",
     "variables": [
-      "Regulator_in"
+      "Regulator_in1",
+      "Regulator_in2"
     ],
     "id": 1312
   },
