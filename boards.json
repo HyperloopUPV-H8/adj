@@ -1,3 +1,4 @@
 {
+    "BMSL": "boards/BMSL/BMSL.json",
     "VCU": "boards/Board8/VCU.json"
 }
