@@ -1,0 +1,163 @@
+[
+    {
+        "id": "cell_1",
+        "name": "Cell 1",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_2",
+        "name": "Cell 2",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_3",
+        "name": "Cell 3",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_4",
+        "name": "Cell 4",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_5",
+        "name": "Cell 5",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "cell_6",
+        "name": "Cell 6",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "max_cell_voltage",
+        "name": "Maximum Cell Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "min_cell_voltage",
+        "name": "Minimum Cell Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "total_voltage",
+        "name": "Total Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "balancing",
+        "name": "Balancing",
+        "type": "bool"
+    },
+    {
+        "id": "SOC",
+        "name": "SOC",
+        "type": "float32",
+        "podUnits": "Percentage",
+        "displayUnits": "Percentage"
+    },
+    {
+        "id": "current",
+        "name": "Current",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "state",
+        "name": "State",
+        "type": "enum",
+        "enumValues": [
+            "CONNECTING",
+            "OPERATIONAL",
+            "FAULT"
+        ]
+    },
+    {
+        "id": "pfm_state",
+        "name": "PFM State",
+        "type": "enum",
+        "enumValues": [
+            "INACTIVE",
+            "ACTIVE"
+        ]
+    },
+    {
+        "id": "buffer_state",
+        "name": "BUFFER State",
+        "type": "enum",
+        "enumValues": [
+            "HIGH",
+            "LOW"
+        ]
+    },
+    {
+        "id": "reset_state",
+        "name": "RESET State",
+        "type": "enum",
+        "enumValues": [
+            "LOW",
+            "HIGH"
+        ]
+    },
+    {
+        "id": "frequency",
+        "name": "Frequency",
+        "type": "uint32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
+    },
+    {
+        "id": "dead_time",
+        "name": "Dead time",
+        "type": "uint32",
+        "podUnits": "ns",
+        "displayUnits": "ns"
+    },
+    {
+        "id": "output_current",
+        "name": "Output Current",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "input_current",
+        "name": "Input Current",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "output_voltage",
+        "name": "Output Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "input_voltage",
+        "name": "Input Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    }
+]

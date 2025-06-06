@@ -1,0 +1,46 @@
+[
+    {
+       "id": 777,
+       "type": "data",
+       "name": "Battery Data",
+       "variables": [
+            "cell_1",
+            "cell_2",
+            "cell_3",
+            "cell_4",
+            "cell_5",
+            "cell_6",
+            "max_cell_voltage",
+            "min_cell_voltage",
+            "total_voltage",
+            "balancing",
+            "SOC",
+            "current"
+        ]
+    },
+    {
+        "id" : 778,
+        "type" : "data",
+        "name" : "Current State",
+        "variables" : [
+            "state"
+        ]
+    },
+    {
+        "id" : 779,
+        "type" : "data",
+        "name" : "DCLV Data",
+        "variables" : [
+            "pfm_state",
+            "buffer_state",
+            "reset_state",
+            "frequency",
+            "dead_time",
+            "output_current",
+            "input_current",
+            "output_voltage",
+            "input_voltage"
+        ]
+    }
+
+]
