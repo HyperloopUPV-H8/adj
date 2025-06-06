@@ -226,7 +226,7 @@
   {
     "id": "Presion_alta",
     "name": "Presion_alta",
-    "type": "uint32",
+    "type": "float32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -242,7 +242,7 @@
   {
     "id": "Presion_regulador",
     "name": "Presion_regulador",
-    "type": "uint32",
+    "type": "float32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -258,7 +258,7 @@
   {
     "id": "Presion_frenos",
     "name": "Presion_frenos",
-    "type": "uint32",
+    "type": "float32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -274,7 +274,7 @@
   {
     "id": "Presion_capsula",
     "name": "Presion_capsula",
-    "type": "uint32",
+    "type": "float32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
