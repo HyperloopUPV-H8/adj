@@ -1,26 +1,18 @@
 [
   {
     "type": "order",
-    "name": "Potencia Pump Unidades",
+    "name": "Potencia Pump",
     "variables": [
-      "Potencia_refri1"
+      "Potencia_refri1",
+      "Selected_pump"
     ],
     "id": 1731
   },
   {
     "type": "order",
-    "name": "Potenica Pump Placas",
-    "variables": [
-      "Potencia_Refri_Placas"
-    ],
-    "id": 1741
-  },
-  {
-    "type": "order",
     "name": "Activate_actuator",
     "variables": [
-      "Active_actuator",
-      "Selected_pump"
+      "Active_actuator"
     ],
     "id": 8456
   },
