@@ -3,7 +3,7 @@
     "type": "order",
     "name": "Potencia Pump Unidades",
     "variables": [
-      "Potencia refri Unidades"
+      "Potencia_refri1"
     ],
     "id": 1731
   },
@@ -11,7 +11,7 @@
     "type": "order",
     "name": "Potenica Pump Placas",
     "variables": [
-      "Potencia Refri Placas"
+      "Potencia_Refri_Placas"
     ],
     "id": 1741
   },

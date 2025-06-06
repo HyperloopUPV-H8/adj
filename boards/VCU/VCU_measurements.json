@@ -1,7 +1,7 @@
 [
   {
     "id": "Potencia_refri1",
-    "name": "Potencia refri Unidades",
+    "name": "Potencia_refri1",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "%",
@@ -17,7 +17,7 @@
   },
   {
     "id": "Potencia_Refri_Placas",
-    "name": "Potencia Refri Placas",
+    "name": "Potencia_Refri_Placas",
     "type": "uint32",
     "podUnits": "",
     "displayUnits": "%",
