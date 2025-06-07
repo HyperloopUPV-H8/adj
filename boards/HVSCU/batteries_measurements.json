@@ -890,45 +890,17 @@
         "displayUnits": "V"
     },
     {
-        "id": "total_voltage",
-        "name": "Batteries total voltage",
+        "id": "batteries_voltage",
+        "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
     },
     {
-        "id": "voltage_reading",
-        "name": "Voltage",
-        "type": "float32",
-        "podUnits": "V",
-        "displayUnits": "V"
-    },
-    {
-        "id": "batteries_current_reading",
+        "id": "batteries_current",
         "name": "Batteries current",
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A"
-    },
-    {
-        "id": "general_state_machine_status",
-        "name": "General State Machine status",
-        "type": "enum",
-        "enumValues": [
-            "CONNECTING",
-            "OPERATIONAL",
-            "FAULT"
-        ]
-    },
-    {
-        "id": "operational_state_machine_status",
-        "name": "Operational State Machine status",
-        "type": "enum",
-        "enumValues": [
-            "HV OPEN",
-            "PRECHARGE",
-            "HV CLOSED",
-            "CHARGING"
-        ]
     }
 ]
