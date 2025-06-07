@@ -360,5 +360,14 @@
             "driver_reading_period",
             "driver_success_conv_rate"
         ]
+    },
+    {
+        "id": 943,
+        "name": "imd",
+        "type": "data",
+        "variables": [
+            "imd_status",
+            "imd_resistance"
+        ]
     }
 ]
