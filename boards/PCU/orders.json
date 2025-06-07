@@ -71,6 +71,14 @@
             "name":"Start_Regenerative_now",
             "type": "order",
             "variables":[]
+        },
+        {
+            "id":515,
+            "name":"Brake using Motor",
+            "type": "order",
+            "variables":[
+                "VMax"
+            ]
         }
         
 ]
