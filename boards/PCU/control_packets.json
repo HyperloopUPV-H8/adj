@@ -43,7 +43,10 @@
             "type": "data",
             "variables": [
                 "general_state_machine",
-                "operational_state_machine"
+                "operational_state_machine",
+                "space_vector_active",
+                "current_control_active",
+                "speed_control_active"
             ]
         },
         {
@@ -74,10 +77,7 @@
             "type": "data",
             "variables": [
                 "Direction_State",
-                "Speed_Control_State",
-                "space_vector_active",
-                "current_control_active",
-                "speed_control_active"
+                "Speed_Control_State"
             ]
         },
         {
