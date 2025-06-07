@@ -74,7 +74,10 @@
             "type": "data",
             "variables": [
                 "Direction_State",
-                "Speed_Control_State" 
+                "Speed_Control_State",
+                "space_vector_active",
+                "current_control_active",
+                "speed_control_active"
             ]
         },
         {

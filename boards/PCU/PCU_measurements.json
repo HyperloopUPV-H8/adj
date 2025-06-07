@@ -328,6 +328,33 @@
                 "Braking",
                 "Not_Braking"
             ]
+        },
+        {
+            "id": "space_vector_active",
+            "name": "Space Vector",
+            "type": "enum",
+          "enumValues": [
+                "DISABLE",
+                "ACTIVE"
+            ]
+        },
+        
+        {
+            "id": "current_control_active",
+            "name": "Current Control",
+            "type": "enum",
+          "enumValues": [
+                "DISABLE",
+                "ACTIVE"
+            ]
+        },
+        {
+            "id": "speed_control_active",
+            "name": "Speed Control",
+            "type": "enum",
+          "enumValues": [
+                "DISABLE",
+                "ACTIVE"
+            ]
         }
-       
 ]
