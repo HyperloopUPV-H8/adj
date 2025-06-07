@@ -367,7 +367,8 @@
         "type": "data",
         "variables": [
             "imd_status",
-            "imd_resistance"
+            "imd_resistance",
+            "imd_is_ok"
         ]
     }
 ]
