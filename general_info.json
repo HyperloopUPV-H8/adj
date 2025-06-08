@@ -1,38 +1,41 @@
 {
-  "ports": {
-    "TCP_CLIENT": 50401,
-    "UDP": 50400,
-    "SNTP": 123,
-    "TFTP": 69,
-    "TCP_SERVER": 50500
-  },
-  "addresses": {
-    "backend": "192.168.0.9"
-  },
-  "units": {
-    "m": "*1",
-    "ºC": "+273.15",
-    "Percentage": "*1",
-    "rad": "*1",
-    "ns": "*1",
-    "A": "*1",
-    "deg": "/57.2957",
-    "m/s": "*1",
-    "mrad": "/1000",
-    "Hz": "*1",
-    "m/ss": "*1",
-    "mm": "/1000",
-    "km/h": "*3.6",
-    "V": "*1",
-    "G": "*9.8"
-  },
-  "message_ids": {
-    "info": 1,
-    "remove_state_order": 6,
-    "state_space": 7,
-    "blcu_ack": 4,
-    "add_state_order": 5,
-    "warning": 3,
-    "fault": 2
-  }
+    "ports": {
+        "TCP_CLIENT": 50401,
+        "TCP_SERVER": 50500,
+        "UDP": 50400,
+        "SNTP": 123,
+        "TFTP": 69
+    },
+    "addresses": {
+        "backend": "192.168.0.9"
+    },
+    "units": {
+        "V": "*1",
+        "A": "*1",
+        "ºC": "+273.15",
+        "m": "*1",
+        "mm": "/1000",
+        "deg": "/57.2957",
+        "Hz": "*1",
+        "Percentage": "*1",
+        "m/s": "*1",
+        "m/ss": "*1",
+        "G": "*9.8",
+        "rad": "*1",
+        "km/h": "*3.6",
+        "mrad": "/1000",
+        "ns": "*1",
+        "Ohm": "*1",
+        "KOhm": "*1000",
+        "MOhm": "*1000000"
+    },
+    "message_ids": {
+        "info": 1,
+        "fault": 2,
+        "warning": 3,
+        "blcu_ack": 4,
+        "add_state_order": 5,
+        "remove_state_order": 6,
+        "state_space": 7
+    }
 }
