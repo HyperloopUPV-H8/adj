@@ -160,26 +160,6 @@
             "battery10_cell4",
             "battery10_cell5",
             "battery10_cell6",
-            "battery10_minimum_cell",
-            "battery10_maximum_cell",
-            "battery10_temperature1",
-            "battery10_temperature2",
-            "battery10_is_balancing",
-            "battery10_total_voltage"
-        ]
-    },
-    {
-        "id": 919,
-        "type": "data",
-        "name": "battery_10",
-        "variables": [
-            "battery10_SOC",
-            "battery10_cell1",
-            "battery10_cell2",
-            "battery10_cell3",
-            "battery10_cell4",
-            "battery10_cell5",
-            "battery10_cell6",
             "battery10_temperature",
             "battery10_total_voltage"
         ]
