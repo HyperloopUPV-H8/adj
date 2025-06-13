@@ -107,7 +107,7 @@
   {
     "id": "Reed1",
     "name": "Reed1",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -123,7 +123,7 @@
   {
     "id": "Reed2",
     "name": "Reed2",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -139,7 +139,7 @@
   {
     "id": "Reed3",
     "name": "Reed3",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -155,7 +155,7 @@
   {
     "id": "Reed4",
     "name": "Reed4",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -171,7 +171,7 @@
   {
     "id": "Reed5",
     "name": "Reed5",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -187,7 +187,7 @@
   {
     "id": "Reed6",
     "name": "Reed6",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -203,7 +203,7 @@
   {
     "id": "Reed7",
     "name": "Reed7",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
@@ -219,7 +219,7 @@
   {
     "id": "Reed8",
     "name": "Reed8",
-    "type": "Digital",
+    "type": "uint32",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
