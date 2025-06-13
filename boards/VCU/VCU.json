@@ -1,3 +1,4 @@
 {
-    "board_id": 5
+    "board_id": 5,
+    "board_ip": "192.168.0.27"
 }
