@@ -1,10 +1,5 @@
 {
     "VCU":"boards/VCU/VCU.json",
-    "HVSCU": "boards/HVSCU/HVSCU.json",
-    "BCU": "boards/BCU/BCU.json",
-    "BMSL":"boards/BMSL/BMSL.json",
-    "LCU":"boards/LCU/LCU.json",
-    "PCU":"boards/PCU/PCU.json",
     "BLCU":"boards/BLCU/BLCU.json"
 }
 
