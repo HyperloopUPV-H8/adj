@@ -318,7 +318,7 @@
   {
     "id": "gd_fault_a",
     "name": "GateDriver_A_Fault",
-    "type": "boolean",
+    "type": "bool",
     "podUnits": "",
     "displayUnits": "",
     "safeRange": [
@@ -333,7 +333,7 @@
   {
     "id": "gd_fault_b",
     "name": "GateDriver_B_Fault",
-    "type": "boolean",
+    "type": "bool",
     "podUnits": "",
     "displayUnits": "",
     "safeRange": [
@@ -348,7 +348,7 @@
   {
     "id": "gd_ready_a",
     "name": "GateDriver_A_Ready",
-    "type": "boolean",
+    "type": "bool",
     "podUnits": "",
     "displayUnits": "",
     "safeRange": [
@@ -363,7 +363,7 @@
   {
     "id": "gd_ready_b",
     "name": "GateDriver_B_Ready",
-    "type": "boolean",
+    "type": "bool",
     "podUnits": "",
     "displayUnits": "",
     "safeRange": [
