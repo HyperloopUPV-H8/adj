@@ -169,22 +169,6 @@
         ]
     },
     {
-        "id": 919,
-        "type": "data",
-        "name": "battery_10",
-        "variables": [
-            "battery10_SOC",
-            "battery10_cell1",
-            "battery10_cell2",
-            "battery10_cell3",
-            "battery10_cell4",
-            "battery10_cell5",
-            "battery10_cell6",
-            "battery10_temperature",
-            "battery10_total_voltage"
-        ]
-    },
-    {
         "id": 920,
         "type": "data",
         "name": "battery_11",
