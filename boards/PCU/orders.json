@@ -1,59 +1,19 @@
 [
   {
     "type": "order",
-    "name": "enable_buffer",
-    "variables": [],
-    "id": 500
-  },
-  {
-    "type": "order",
-    "name": "disable_buffer",
-    "variables": [],
-    "id": 501
-  },
-  {
-    "type": "order",
-    "name": "send_pwm",
-    "variables": [
-      "pwm_active",
-      "frequency_to_send",
-      "duty_to_send"
-    ],
-    "id": 502
-  },
-  {
-    "type": "order",
-    "name": "stop_pwm",
-    "variables": [],
-    "id": 503
-  },
-  {
-    "type": "order",
-    "name": "Enable_Reset",
-    "variables": [],
-    "id": 504
-  },
-  {
-    "type": "order",
-    "name": "Disable_Reset",
-    "variables": [],
-    "id": 505
-  },
-  {
-    "type": "order",
     "name": "Start_SVPWM",
     "variables": [
       "frequency_to_send_svpwm",
       "frequency_to_send_PWM",
       "V_Ref",
-      "VMaxSVPWM",
+      "VMax",
       "Direction_State"
     ],
     "id": 507
   },
   {
     "type": "order",
-    "name": "Stop_SVPWM",
+    "name": "Stop_Motor",
     "variables": [],
     "id": 508
   },
@@ -105,5 +65,19 @@
       "Direction_State"
     ],
     "id": 513
+  },
+  {
+    "type": "order",
+    "name": "Start_Regenerative_now",
+    "variables": [],
+    "id": 514
+  },
+  {
+    "type": "order",
+    "name": "Brake using Motor",
+    "variables": [
+      "VMax"
+    ],
+    "id": 515
   }
 ]

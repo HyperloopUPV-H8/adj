@@ -3,10 +3,11 @@
     "type": "data",
     "name": "pwm_packet",
     "variables": [
-      "pwm_active",
       "frequency",
-      "duty",
-      "buffer_enable"
+      "modulation_frequency",
+      "duty_u",
+      "duty_v",
+      "duty_w"
     ],
     "id": 550
   },
@@ -32,7 +33,8 @@
       "current_Peak",
       "Error_PI",
       "Target_Voltage",
-      "SVPWM_Time"
+      "SVPWM_Time",
+      "imod"
     ],
     "id": 552
   },
@@ -41,7 +43,10 @@
     "name": "StateMachine_states",
     "variables": [
       "general_state_machine",
-      "operational_state_machine"
+      "operational_state_machine",
+      "space_vector_active",
+      "current_control_active",
+      "speed_control_active"
     ],
     "id": 553
   },
@@ -72,9 +77,30 @@
     "name": "Control_State",
     "variables": [
       "Direction_State",
-      "Current_Control_State",
       "Speed_Control_State"
     ],
     "id": 556
+  },
+  {
+    "type": "data",
+    "name": "Reeds_State",
+    "variables": [
+      "reed",
+      "reed",
+      "reed",
+      "reed"
+    ],
+    "id": 557
+  },
+  {
+    "type": "data",
+    "name": "GateDriverReporting",
+    "variables": [
+      "gd_fault_a",
+      "gd_fault_b",
+      "gd_ready_a",
+      "gd_ready_b"
+    ],
+    "id": 558
   }
 ]
