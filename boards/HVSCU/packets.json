@@ -160,11 +160,7 @@
             "battery10_cell4",
             "battery10_cell5",
             "battery10_cell6",
-            "battery10_minimum_cell",
-            "battery10_maximum_cell",
-            "battery10_temperature1",
-            "battery10_temperature2",
-            "battery10_is_balancing",
+            "battery10_temperature",
             "battery10_total_voltage"
         ]
     },
