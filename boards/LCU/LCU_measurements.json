@@ -466,7 +466,7 @@
   },
   {
     "id": "lcu_desired_distance",
-    "name": "desired distance",
+    "name": "desired distance (mm)",
     "type": "float32",
     "podUnits": "mm",
     "displayUnits": "mm"
@@ -609,7 +609,8 @@
       "IDLE",
       "CONTROL_CURRENT",
       "CONTROL_1DOF",
-      "CONTROL_3DOF"
+      "CONTROL_3DOF",
+      "STICK_DOWN"
     ]
   },
   {
@@ -884,5 +885,37 @@
     "type": "float32",
     "podUnits": "mm",
     "displayUnits": "mm"
+  },
+  {
+    "id": "multi_current_1",
+    "name": "multi_current_1",
+    "type": "float32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": []
+  },
+  {
+    "id": "multi_current_2",
+    "name": "multi_current_2",
+    "type": "float32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": []
+  },
+  {
+    "id": "multi_current_3",
+    "name": "multi_current_3",
+    "type": "float32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": []
+  },
+  {
+    "id": "multi_current_4",
+    "name": "multi_current_4",
+    "type": "float32",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": []
   }
 ]
