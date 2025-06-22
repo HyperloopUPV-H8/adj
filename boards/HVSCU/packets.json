@@ -17,7 +17,8 @@
             "battery1_cell5",
             "battery1_cell6",
             "battery1_temperature",
-            "battery1_total_voltage"
+            "battery1_total_voltage",
+            "battery1_conv_rate"
         ]
     },
     {
@@ -33,7 +34,8 @@
             "battery2_cell5",
             "battery2_cell6",
             "battery2_temperature",
-            "battery2_total_voltage"
+            "battery2_total_voltage",
+            "battery2_conv_rate"
         ]
     },
     {
@@ -49,7 +51,8 @@
             "battery3_cell5",
             "battery3_cell6",
             "battery3_temperature",
-            "battery3_total_voltage"
+            "battery3_total_voltage",
+            "battery3_conv_rate"
         ]
     },
     {
@@ -65,7 +68,8 @@
             "battery4_cell5",
             "battery4_cell6",
             "battery4_temperature",
-            "battery4_total_voltage"
+            "battery4_total_voltage",
+            "battery4_conv_rate"
         ]
     },
     {
@@ -81,7 +85,8 @@
             "battery5_cell5",
             "battery5_cell6",
             "battery5_temperature",
-            "battery5_total_voltage"
+            "battery5_total_voltage",
+            "battery5_conv_rate"
         ]
     },
     {
@@ -97,7 +102,8 @@
             "battery6_cell5",
             "battery6_cell6",
             "battery6_temperature",
-            "battery6_total_voltage"
+            "battery6_total_voltage",
+            "battery6_conv_rate"
         ]
     },
     {
@@ -113,7 +119,8 @@
             "battery7_cell5",
             "battery7_cell6",
             "battery7_temperature",
-            "battery7_total_voltage"
+            "battery7_total_voltage",
+            "battery7_conv_rate"
         ]
     },
     {
@@ -129,7 +136,8 @@
             "battery8_cell5",
             "battery8_cell6",
             "battery8_temperature",
-            "battery8_total_voltage"
+            "battery8_total_voltage",
+            "battery8_conv_rate"
         ]
     },
     {
@@ -145,7 +153,8 @@
             "battery9_cell5",
             "battery9_cell6",
             "battery9_temperature",
-            "battery9_total_voltage"
+            "battery9_total_voltage",
+            "battery9_conv_rate"
         ]
     },
     {
@@ -161,7 +170,8 @@
             "battery10_cell5",
             "battery10_cell6",
             "battery10_temperature",
-            "battery10_total_voltage"
+            "battery10_total_voltage",
+            "battery10_conv_rate"
         ]
     },
     {
@@ -177,7 +187,8 @@
             "battery11_cell5",
             "battery11_cell6",
             "battery11_temperature",
-            "battery11_total_voltage"
+            "battery11_total_voltage",
+            "battery11_conv_rate"
         ]
     },
     {
@@ -193,7 +204,8 @@
             "battery12_cell5",
             "battery12_cell6",
             "battery12_temperature",
-            "battery12_total_voltage"
+            "battery12_total_voltage",
+            "battery12_conv_rate"
         ]
     },
     {
@@ -209,7 +221,8 @@
             "battery13_cell5",
             "battery13_cell6",
             "battery13_temperature",
-            "battery13_total_voltage"
+            "battery13_total_voltage",
+            "battery13_conv_rate"
         ]
     },
     {
@@ -225,7 +238,8 @@
             "battery14_cell5",
             "battery14_cell6",
             "battery14_temperature",
-            "battery14_total_voltage"
+            "battery14_total_voltage",
+            "battery14_conv_rate"
         ]
     },
     {
@@ -241,7 +255,8 @@
             "battery15_cell5",
             "battery15_cell6",
             "battery15_temperature",
-            "battery15_total_voltage"
+            "battery15_total_voltage",
+            "battery15_conv_rate"
         ]
     },
     {
@@ -257,7 +272,8 @@
             "battery16_cell5",
             "battery16_cell6",
             "battery16_temperature",
-            "battery16_total_voltage"
+            "battery16_total_voltage",
+            "battery16_conv_rate"
         ]
     },
     {
@@ -273,7 +289,8 @@
             "battery17_cell5",
             "battery17_cell6",
             "battery17_temperature",
-            "battery17_total_voltage"
+            "battery17_total_voltage",
+            "battery17_conv_rate"
         ]
     },
     {
@@ -289,7 +306,8 @@
             "battery18_cell5",
             "battery18_cell6",
             "battery18_temperature",
-            "battery18_total_voltage"
+            "battery18_total_voltage",
+            "battery18_conv_rate"
         ]
     },
     {
@@ -337,8 +355,7 @@
         "name": "driver_diagnosis",
         "type": "data",
         "variables": [
-            "driver_reading_period",
-            "driver_success_conv_rate"
+            "driver_reading_period"
         ]
     },
     {

@@ -63,6 +63,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery1_conv_rate",
+        "name": "Battery 1 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery2_SOC",
         "name": "Battery 2 SOC",
         "type": "float32",
@@ -124,6 +131,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery2_conv_rate",
+        "name": "Battery 2 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery3_SOC",
@@ -194,6 +208,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery3_conv_rate",
+        "name": "Battery 3 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery4_SOC",
         "name": "Battery 4 SOC",
         "type": "float32",
@@ -255,6 +276,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery4_conv_rate",
+        "name": "Battery 4 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery5_SOC",
@@ -320,6 +348,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery5_conv_rate",
+        "name": "Battery 5 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery6_SOC",
         "name": "Battery 6 SOC",
         "type": "float32",
@@ -381,6 +416,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery6_conv_rate",
+        "name": "Battery 6 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery7_SOC",
@@ -446,6 +488,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery7_conv_rate",
+        "name": "Battery 7 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery8_SOC",
         "name": "Battery 8 SOC",
         "type": "float32",
@@ -507,6 +556,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery8_conv_rate",
+        "name": "Battery 8 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery9_SOC",
@@ -572,6 +628,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery9_conv_rate",
+        "name": "Battery 9 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery10_SOC",
         "name": "Battery 10 SOC",
         "type": "float32",
@@ -633,6 +696,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery10_conv_rate",
+        "name": "Battery 10 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery11_SOC",
@@ -698,6 +768,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery11_conv_rate",
+        "name": "Battery 11 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery12_SOC",
         "name": "Battery 12 SOC",
         "type": "float32",
@@ -759,6 +836,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery12_conv_rate",
+        "name": "Battery 12 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery13_SOC",
@@ -824,6 +908,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery13_conv_rate",
+        "name": "Battery 13 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery14_SOC",
         "name": "Battery 14 SOC",
         "type": "float32",
@@ -885,6 +976,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery14_conv_rate",
+        "name": "Battery 14 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery15_SOC",
@@ -950,6 +1048,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery15_conv_rate",
+        "name": "Battery 15 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery16_SOC",
         "name": "Battery 16 SOC",
         "type": "float32",
@@ -1011,6 +1116,13 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"
+    },
+    {
+        "id": "battery16_conv_rate",
+        "name": "Battery 16 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
     },
     {
         "id": "battery17_SOC",
@@ -1076,6 +1188,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery17_conv_rate",
+        "name": "Battery 17 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "battery18_SOC",
         "name": "Battery 18 SOC",
         "type": "float32",
@@ -1139,6 +1258,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "battery18_conv_rate",
+        "name": "Battery 18 Conversion rate",
+        "type": "float32",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
         "id": "batteries_voltage_reading",
         "name": "Batteries voltage",
         "type": "float32",
@@ -1184,11 +1310,6 @@
         "id": "driver_reading_period",
         "name": "BMS reading period",
         "type": "uint32"
-    },
-    {
-        "id": "driver_success_conv_rate",
-        "name": "BMS success conversion rate",
-        "type": "float32"
     },
     {
         "id": "imd_status",
