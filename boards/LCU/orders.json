@@ -106,5 +106,16 @@
       "lcu_desired_distance"
     ],
     "id": 9988
+  },
+  {
+    "type": "order",
+    "name": "multi_current_order",
+    "variables": [
+      "multi_current_1",
+      "multi_current_2",
+      "multi_current_3",
+      "multi_current_4"
+    ],
+    "id": 9986
   }
 ]
