@@ -1343,35 +1343,35 @@
     {
         "id": "time_sensors",
         "name": "Sensors reading frequency",
-        "type": "float",
+        "type": "float32",
         "podUnits": "us",
         "displayUnits": "us"
     },
     {
         "id": "time_stlib_update",
         "name": "STLib update execution time",
-        "type": "float",
+        "type": "float32",
         "podUnits": "us",
         "displayUnits": "us"
     },
     {
         "id": "time_state_machine",
         "name": "State machine execution time",
-        "type": "float",
+        "type": "float32",
         "podUnits": "us",
         "displayUnits": "us"
     },
     {
         "id": "time_protections",
         "name": "Protections execution time",
-        "type": "float",
+        "type": "float32",
         "podUnits": "us",
         "displayUnits": "us"
     },
     {
         "id": "time_comms",
         "name": "Communications execution time",
-        "type": "float",
+        "type": "float32",
         "podUnits": "us",
         "displayUnits": "us"
     }
