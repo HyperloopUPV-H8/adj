@@ -367,5 +367,17 @@
             "imd_resistance",
             "imd_is_ok"
         ]
+    },
+    {
+        "id": 944,
+        "name": "control_diag",
+        "type": "data",
+        "variables": [
+            "time_sensors",
+            "time_stlib_update",
+            "time_state_machine",
+            "time_protections",
+            "time_comms"
+        ]
     }
 ]

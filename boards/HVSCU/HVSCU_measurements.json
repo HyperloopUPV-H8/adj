@@ -1339,5 +1339,40 @@
         "id": "imd_is_ok",
         "name": "IMD OK",
         "type": "bool"
+    },
+    {
+        "id": "time_sensors",
+        "name": "Sensors reading frequency",
+        "type": "float",
+        "podUnits": "us",
+        "displayUnits": "us"
+    },
+    {
+        "id": "time_stlib_update",
+        "name": "STLib update execution time",
+        "type": "float",
+        "podUnits": "us",
+        "displayUnits": "us"
+    },
+    {
+        "id": "time_state_machine",
+        "name": "State machine execution time",
+        "type": "float",
+        "podUnits": "us",
+        "displayUnits": "us"
+    },
+    {
+        "id": "time_protections",
+        "name": "Protections execution time",
+        "type": "float",
+        "podUnits": "us",
+        "displayUnits": "us"
+    },
+    {
+        "id": "time_comms",
+        "name": "Communications execution time",
+        "type": "float",
+        "podUnits": "us",
+        "displayUnits": "us"
     }
 ]
