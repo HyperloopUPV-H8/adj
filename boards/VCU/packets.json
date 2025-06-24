@@ -6,7 +6,7 @@
       "Flow1",
       "Flow2"
     ],
-    "id": 6457
+    "id": 243
   },
   {
     "type": "data",
@@ -21,7 +21,7 @@
       "Reed7",
       "Reed8"
     ],
-    "id": 3124
+    "id": 244
   },
   {
     "type": "data",
@@ -30,7 +30,7 @@
       "Regulator_in1",
       "Regulator_in2"
     ],
-    "id": 1312
+    "id": 245
   },
   {
     "type": "data",
@@ -41,7 +41,7 @@
       "Presion_frenos",
       "Presion_capsula"
     ],
-    "id": 1312
+    "id": 246
   },
   {
     "type": "data",
@@ -49,7 +49,7 @@
     "variables":[
       "Tapes_e"
     ],
-    "id": 1354
+    "id": 247
   }
 
 ]
