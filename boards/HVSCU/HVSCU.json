@@ -1,8 +1,8 @@
 {
-  "board_id": 2,
-  "board_ip": "192.168.1.254",
+  "board_id": 1,
+  "board_ip": "192.168.1.7",
   "measurements": [
-    "BMSL_measurements.json"
+    "HVSCU_measurements.json"
   ],
   "packets": [
     "packets.json",
