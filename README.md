@@ -224,4 +224,3 @@ Array of packet definitions for network communication. Packets are separated by 
 ## Backward Compatibility
 
 This specification maintains compatibility with existing ADJ v1 configurations while supporting the new distributed file structure introduced in v2. The system can automatically migrate v1 configurations to the v2 format.
->>>>>>> main
