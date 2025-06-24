@@ -42,6 +42,14 @@
       "Presion_capsula"
     ],
     "id": 1312
+  },
+  {
+    "type": "data",
+    "name": "Tapes_emergency",
+    "variables":[
+      "Tapes_e"
+    ],
+    "id": 1354
   }
 
 ]

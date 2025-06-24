@@ -313,5 +313,11 @@
       "REGULATOR_1",
       "REGULATOR_2"
     ]
+  },
+  {
+    "id": "Tapes_e",
+    "name": "Tapes_e",
+    "type": "uint32",
+    "enumValues": []
   }
 ]
