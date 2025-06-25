@@ -917,5 +917,111 @@
     "podUnits": "",
     "displayUnits": "",
     "enumValues": []
+  },
+  {
+    "id": "dist_error_z",
+    "name": "Dist_error_z",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "dist_integral_error_z",
+    "name": "Dist_integral_error_z",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "dist_derivate_error_z",
+    "name": "Dist_derivate_error_z",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "dist_error_y",
+    "name": "Dist_error_y",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "dist_integral_error_y",
+    "name": "Dist_integral_error_y",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "dist_derivate_error_y",
+    "name": "Dist_derivate_error_y",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_error_z",
+    "name": "Rot_error_z",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_integral_error_z",
+    "name": "Rot_integral_error_z",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_derivate_error_z",
+    "name": "Rot_derivate_error_z",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_error_y",
+    "name": "Rot_error_y",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_integral_error_y",
+    "name": "Rot_integral_error_y",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_derivate_error_y",
+    "name": "Rot_derivate_error_y",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_error_x",
+    "name": "Rot_error_x",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_integral_error_x",
+    "name": "Rot_integral_error_x",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "rot_derivate_error_x",
+    "name": "Rot_derivate_error_x",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
   }
+  
 ]
