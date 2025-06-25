@@ -4,7 +4,7 @@
         "type": "data",
         "name": "SDC State",
         "variables": [
-            "sdc_good"
+            "HVSCU-Cabinet_sdc_good"
         ]
     },
     {
@@ -12,8 +12,8 @@
         "type": "data",
         "name": "Contactors State",
         "variables": [
-            "bus_voltage",
-            "contactors_state"
+            "HVSCU-Cabinet_bus_voltage",
+            "HVSCU-Cabinet_contactors_state"
         ]
     },
     {
@@ -21,7 +21,7 @@
         "type": "data",
         "name": "Current Sense",
         "variables": [
-            "output_current"
+            "HVSCU-Cabinet_output_current"
         ]
     }
 ]

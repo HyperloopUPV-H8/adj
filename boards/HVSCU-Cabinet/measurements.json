@@ -1,6 +1,6 @@
 [
     {
-        "id": "sdc_good",
+        "id": "HVSCU-Cabinet_sdc_good",
         "name": "SDC Good",
         "type": "enum",
         "podUnits": "",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "id": "bus_voltage",
+        "id": "HVSCU-Cabinet_bus_voltage",
         "name": "Bus Voltage",
         "type": "float32",
         "podUnits": "V",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": "contactors_state",
+        "id": "HVSCU-Cabinet_contactors_state",
         "name": "Contactors State",
         "type": "enum",
         "podUnits": "",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "id": "output_current",
+        "id": "HVSCU-Cabinet_output_current",
         "name": "Output Current",
         "type": "float32",
         "podUnits": "A",
