@@ -6,15 +6,17 @@
       "Potencia_refri1",
       "Selected_pump"
     ],
-    "id": 240
+    "id": 202
   },
   {
     "type": "order",
-    "name": "Activate_actuator",
-    "variables": [
-      "Active_actuator"
-    ],
-    "id": 241
+    "name": "Brake",
+    "id": 200
+  },
+  {
+    "type": "order",
+    "name": "Unbrake",
+    "id": 201
   },
   {
     "type": "order",
@@ -23,6 +25,6 @@
       "Selected_Regulator_pressure",
       "Selected_regulator"
     ],
-    "id": 242
+    "id": 203
   }
 ]

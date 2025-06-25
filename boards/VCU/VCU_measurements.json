@@ -16,15 +16,6 @@
     ]
   },
   {
-    "id": "Active_actuator",
-    "name": "Active_actuator",
-    "type": "enum",
-    "enumValues": [
-      "Desactivado",
-      "Activado"
-    ]
-  },
-  {
     "id": "Selected_Regulator_pressure",
     "name": "Selected_Regulator_pressure",
     "type": "float32",
