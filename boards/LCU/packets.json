@@ -84,7 +84,7 @@
       "rot_control_z",
       "dist_error_y",
       "dist_integral_error_y",
-      "rot_derivate_error_y",
+      "dist_derivate_error_y",
       "dist_error_z",
       "dist_integral_error_z",
       "dist_derivate_error_z",
