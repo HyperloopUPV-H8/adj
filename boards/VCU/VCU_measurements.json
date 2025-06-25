@@ -7,7 +7,7 @@
     "displayUnits": "%",
     "enumValues": [],
     "safeRange": [
-      -1.0,
+      0.0,
       100.0
     ],
     "warningRange": [
@@ -72,11 +72,11 @@
     "enumValues": [],
     "safeRange": [
       0.0,
-      100.0
+      6.0
     ],
     "warningRange": [
       0.0,
-      100.0
+      6.0
     ]
   },
   {
@@ -88,11 +88,11 @@
     "enumValues": [],
     "safeRange": [
       0.0,
-      100.0
+      6.0
     ],
     "warningRange": [
       0.0,
-      100.0
+      6.0
     ]
   },
   {
@@ -224,20 +224,17 @@
     ]
   },
   {
+    "id":"All_reeds",
+    "name": "All_reeds",
+    "type": "uint8"
+  },
+  {
     "id": "Presion_alta",
     "name": "Presion_alta",
     "type": "float32",
     "podUnits": "",
     "displayUnits": "",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
+    "enumValues": []
   },
   {
     "id": "Presion_regulador",
@@ -245,15 +242,8 @@
     "type": "float32",
     "podUnits": "",
     "displayUnits": "",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
+    "enumValues": []
+    
   },
   {
     "id": "Presion_frenos",
@@ -261,15 +251,7 @@
     "type": "float32",
     "podUnits": "",
     "displayUnits": "",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
+    "enumValues": []
   },
   {
     "id": "Presion_capsula",
@@ -277,15 +259,7 @@
     "type": "float32",
     "podUnits": "",
     "displayUnits": "",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
+    "enumValues": []
   },
   {
     "id": "Selected_pump",
@@ -310,5 +284,12 @@
     "name": "Tapes_e",
     "type": "uint8",
     "enumValues": []
+  },
+  {
+    "id":"Tape_enabled",
+    "name": "Tape_enabled",
+    "type": "uint8",
+    "enumValues": []
+
   }
 ]

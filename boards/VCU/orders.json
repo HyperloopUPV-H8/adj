@@ -26,5 +26,15 @@
       "Selected_regulator"
     ],
     "id": 203
+  },
+  {
+    "type":"order",
+    "name":"Enable_tapes",
+    "id": 204
+  },
+  {
+    "type": "order",
+    "name": "Disable_tapes",
+    "id": 205
   }
 ]

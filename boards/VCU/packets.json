@@ -19,7 +19,8 @@
       "Reed5",
       "Reed6",
       "Reed7",
-      "Reed8"
+      "Reed8",
+      "All_reeds"
     ],
     "id": 251
   },
@@ -50,6 +51,14 @@
       "Tapes_e"
     ],
     "id": 254
+  },
+  {
+    "type": "data",
+    "name": "Tapes_enabled",
+    "variables":[
+      "Tape_enabled"
+    ],
+    "id": 255
   }
 
 ]
