@@ -982,7 +982,7 @@
     "displayUnits": "mm"
   },
   {
-    "id": "Rot_error_y",
+    "id": "rot_error_y",
     "name": "Rot_error_y",
     "type": "float32",
     "podUnits": "mm",
@@ -1003,7 +1003,7 @@
     "displayUnits": "mm"
   },
   {
-    "id": "Rot_error_x",
+    "id": "rot_error_x",
     "name": "Rot_error_x",
     "type": "float32",
     "podUnits": "mm",
