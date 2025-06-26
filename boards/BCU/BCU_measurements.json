@@ -822,5 +822,21 @@
       0.0,
       100.0
     ]
+  },
+  {
+    "id": "curr_ref",
+    "name": "Reference Current",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
   }
 ]
