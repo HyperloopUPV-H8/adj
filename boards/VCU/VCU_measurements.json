@@ -98,7 +98,7 @@
   {
     "id": "Reed1",
     "name": "Reed1",
-    "type": "uint32",
+    "type": "uint8",
     "podUnits": "",
     "displayUnits": "",
     "enumValues": [],
