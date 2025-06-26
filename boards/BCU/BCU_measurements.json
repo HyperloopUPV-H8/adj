@@ -838,5 +838,157 @@
       0.0,
       100.0
     ]
+  },
+  {
+    "id": "BCU_master-general-state",
+    "name": "Master State",
+    "type": "enum",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [
+      "Connecting",
+      "Operational",
+      "Fault"
+    ]
+  },
+  {
+    "id": "BCU_master-operational-state",
+    "name": "Master Operational State",
+    "type": "enum",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [
+      "Idle",
+      "Precharge",
+      "Ready",
+      "Boosting",
+      "Testing"
+    ]
+  },
+  {
+    "id": "BCU_slave-general-state",
+    "name": "Slave State",
+    "type": "enum",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [
+      "Connecting",
+      "Operational",
+      "Fault"
+    ]
+  },
+  {
+    "id": "BCU_slave-operational-state",
+    "name": "Slave Operational State",
+    "type": "enum",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [
+      "Idle",
+      "Precharge",
+      "Ready",
+      "Boosting",
+      "Testing"
+    ]
+  },
+  {
+    "id": "BCU_speetec-1-position",
+    "name": "Speetec 1 Position",
+    "type": "float64",
+    "podUnits": "m",
+    "displayUnits": "m"
+  },
+  {
+    "id": "BCU_speetec-1-speed",
+    "name": "Speetec 1 Speed",
+    "type": "float64",
+    "podUnits": "m/s",
+    "displayUnits": "m/s"
+  },
+  {
+    "id": "BCU_speetec-1-acceleration",
+    "name": "Speetec 1 Acceleration",
+    "type": "float64",
+    "podUnits": "m/s^2",
+    "displayUnits": "m/s^2"
+  },
+  {
+    "id": "BCU_speetec-2-position",
+    "name": "Speetec 2 Position",
+    "type": "float64",
+    "podUnits": "m",
+    "displayUnits": "m"
+  },
+  {
+    "id": "BCU_speetec-2-speed",
+    "name": "Speetec 2 Speed",
+    "type": "float64",
+    "podUnits": "m/s",
+    "displayUnits": "m/s"
+  },
+  {
+    "id": "BCU_speetec-2-acceleration",
+    "name": "Speetec 2 Acceleration",
+    "type": "float64",
+    "podUnits": "m/s^2",
+    "displayUnits": "m/s^2"
+  },
+  {
+    "id": "BCU_speetec-3-position",
+    "name": "Speetec 3 Position",
+    "type": "float64",
+    "podUnits": "m",
+    "displayUnits": "m"
+  },
+  {
+    "id": "BCU_speetec-3-speed",
+    "name": "Speetec 3 Speed",
+    "type": "float64",
+    "podUnits": "m/s",
+    "displayUnits": "m/s"
+  },
+  {
+    "id": "BCU_speetec-3-acceleration",
+    "name": "Speetec 3 Acceleration",
+    "type": "float64",
+    "podUnits": "m/s^2",
+    "displayUnits": "m/s^2"
+  },
+  {
+    "id": "BCU_speetec-avg-position",
+    "name": "Position",
+    "type": "float64",
+    "podUnits": "m",
+    "displayUnits": "m"
+  },
+  {
+    "id": "BCU_speetec-avg-speed",
+    "name": "Speed",
+    "type": "float64",
+    "podUnits": "m/s",
+    "displayUnits": "m/s"
+  },
+  {
+    "id": "BCU_speetec-avg-acceleration",
+    "name": "Acceleration",
+    "type": "float64",
+    "podUnits": "m/s^2",
+    "displayUnits": "m/s^2"
+  },
+  {
+    "id": "fixed_dc_link_vtg",
+    "name": "Fixed DC Link Voltage",
+    "type": "float64",
+    "podUnits": "V",
+    "displayUnits": "V",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      450.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
   }
 ]

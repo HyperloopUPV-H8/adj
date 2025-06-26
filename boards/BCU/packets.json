@@ -96,16 +96,5 @@
       "motor_2_curr_w"
     ],
     "id": 21715
-  },
-  {
-    "type": "data",
-    "name": "StatePackets",
-    "variables": [
-      "master_general_state",
-      "master_operational_state",
-      "slave_general_state",
-      "slave_operational_state"
-    ],
-    "id": 21719
   }
 ]
