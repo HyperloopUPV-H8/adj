@@ -1,4 +1,4 @@
 {
-  "HVSCU-Cabinet": "boards/HVSCU-Cabinet/HVSCU-Cabinet.json",
-  "BCU": "boards/BCU/BCU.json"
+  "BCU": "boards/BCU/BCU.json",
+  "HVSCU-Cabinet": "boards/HVSCU-Cabinet/HVSCU-Cabinet.json"
 }
