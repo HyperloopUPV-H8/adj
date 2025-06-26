@@ -1,7 +1,7 @@
 [
   {
     "type": "data",
-    "name": "State",
+    "name": "StatePackets",
     "variables": [
       "BCU_master-general-state",
       "BCU_master-operational-state",
