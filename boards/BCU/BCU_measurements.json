@@ -795,7 +795,6 @@
     "displayUnits": "",
     "enumValues": [
       "Idle",
-      "Precharge",
       "Ready",
       "Boosting",
       "Testing"
@@ -821,7 +820,6 @@
     "displayUnits": "",
     "enumValues": [
       "Idle",
-      "Precharge",
       "Ready",
       "Boosting",
       "Testing"
