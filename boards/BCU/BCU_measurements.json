@@ -54,84 +54,84 @@
   {
     "id": "BCU_speetec-1-position",
     "name": "Speetec 1 Position",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-1-speed",
     "name": "Speetec 1 Speed",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-1-acceleration",
     "name": "Speetec 1 Acceleration",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
   {
     "id": "BCU_speetec-2-position",
     "name": "Speetec 2 Position",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-2-speed",
     "name": "Speetec 2 Speed",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-2-acceleration",
     "name": "Speetec 2 Acceleration",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
   {
     "id": "BCU_speetec-3-position",
     "name": "Speetec 3 Position",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-3-speed",
     "name": "Speetec 3 Speed",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-3-acceleration",
     "name": "Speetec 3 Acceleration",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
   {
     "id": "BCU_speetec-avg-position",
     "name": "Position",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-avg-speed",
     "name": "Speed",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-avg-acceleration",
     "name": "Acceleration",
-    "type": "float64",
+    "type": "double64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
@@ -568,56 +568,8 @@
     ]
   },
   {
-    "id": "mod_index",
-    "name": "Modulation Index",
-    "type": "float64",
-    "podUnits": "",
-    "displayUnits": "",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
-  },
-  {
-    "id": "mod_freq",
-    "name": "Modulation Frequency",
-    "type": "float64",
-    "podUnits": "Hz",
-    "displayUnits": "Hz",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
-  },
-  {
-    "id": "linear_speed",
-    "name": "Linear Speed",
-    "type": "float64",
-    "podUnits": "km/h",
-    "displayUnits": "km/h",
-    "enumValues": [],
-    "safeRange": [
-      0.0,
-      100.0
-    ],
-    "warningRange": [
-      0.0,
-      100.0
-    ]
-  },
-  {
-    "id": "curr_ref",
-    "name": "Current Control Ref",
+    "id": "current_u_1",
+    "name": "Motor 1 Current U",
     "type": "float64",
     "podUnits": "A",
     "displayUnits": "A",
@@ -632,15 +584,15 @@
     ]
   },
   {
-    "id": "speed_ref",
-    "name": "Speed Reference",
+    "id": "M_1_CURR_V",
+    "name": "Motor 1 Current V",
     "type": "float64",
-    "podUnits": "km/h",
-    "displayUnits": "km/h",
+    "podUnits": "A",
+    "displayUnits": "A",
     "enumValues": [],
     "safeRange": [
-      1.0,
-      35.0
+      0.0,
+      100.0
     ],
     "warningRange": [
       0.0,
@@ -648,15 +600,223 @@
     ]
   },
   {
-    "id": "fixed_dc_link_vtg",
-    "name": "Fixed DC Link Voltage",
+    "id": "motor_1_curr_w",
+    "name": "Motor 1 Current w",
     "type": "float64",
-    "podUnits": "V",
-    "displayUnits": "V",
+    "podUnits": "A",
+    "displayUnits": "A",
     "enumValues": [],
     "safeRange": [
       0.0,
-      450.0
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "motor_2_curr_u",
+    "name": "Motor 2 Current U",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "m_2_curr_v",
+    "name": "Motor 2 Current V",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "motor_2_curr_w",
+    "name": "Motor 2 Current W",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "motor_3_curr_u",
+    "name": "Motor 3 Current U",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "motor_3_curr_v",
+    "name": "Motor 3 Current V",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "m_curr_3_w",
+    "name": "Motor 3 Current W",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "m_4_curr_u",
+    "name": "Motor 4 Current U",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "motor_4_curr_v",
+    "name": "Motor 4 Current V",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "motor_4_curr_w",
+    "name": "Motor 4 Current W",
+    "type": "float64",
+    "podUnits": "A",
+    "displayUnits": "A",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "master_general_state",
+    "name": "Master General State",
+    "type": "bool",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "master_operational_state",
+    "name": "Master Operational State",
+    "type": "bool",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "slave_general_state",
+    "name": "Slave General State",
+    "type": "bool",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
+  },
+  {
+    "id": "slave_operational_state",
+    "name": "Slave Operational State",
+    "type": "bool",
+    "podUnits": "",
+    "displayUnits": "",
+    "enumValues": [],
+    "safeRange": [
+      0.0,
+      100.0
     ],
     "warningRange": [
       0.0,
