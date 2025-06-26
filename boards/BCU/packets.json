@@ -1,32 +1,87 @@
 [
-    {
-        "id": 21719,
-        "type": "data",
-        "name": "State",
-        "variables": [
-            "BCU_master-general-state",
-            "BCU_master-operational-state",
-            "BCU_slave-general-state",
-            "BCU_slave-operational-state"
-        ]
-    },
-    {
-        "id": 21716,
-        "type": "data",
-        "name": "Encoder Details",
-        "variables": [
-            "BCU_speetec-1-position",
-            "BCU_speetec-1-velocity",
-            "BCU_speetec-1-acceleration",
-            "BCU_speetec-2-position",
-            "BCU_speetec-2-velocity",
-            "BCU_speetec-2-acceleration",
-            "BCU_speetec-3-position",
-            "BCU_speetec-3-velocity",
-            "BCU_speetec-3-acceleration",
-            "BCU_speetec-avg-position",
-            "BCU_speetec-avg-velocity",
-            "BCU_speetec-avg-acceleration"
-        ]
-    }
+  {
+    "type": "data",
+    "name": "State",
+    "variables": [
+      "BCU_master-general-state",
+      "BCU_master-operational-state",
+      "BCU_slave-general-state",
+      "BCU_slave-operational-state"
+    ],
+    "id": 21719
+  },
+  {
+    "type": "data",
+    "name": "Encoder Details",
+    "variables": [
+      "BCU_speetec-1-position",
+      "BCU_speetec-1-velocity",
+      "BCU_speetec-1-acceleration",
+      "BCU_speetec-2-position",
+      "BCU_speetec-2-velocity",
+      "BCU_speetec-2-acceleration",
+      "BCU_speetec-3-position",
+      "BCU_speetec-3-velocity",
+      "BCU_speetec-3-acceleration",
+      "BCU_speetec-avg-position",
+      "BCU_speetec-avg-velocity",
+      "BCU_speetec-avg-acceleration"
+    ],
+    "id": 21716
+  },
+  {
+    "type": "data",
+    "name": "PWM_data",
+    "variables": [
+      "duty_u",
+      "duty_v",
+      "duty_w",
+      "switching_freq",
+      "dead_time"
+    ],
+    "id": 21711
+  },
+  {
+    "type": "data",
+    "name": "ClarkeParkeTransform",
+    "variables": [
+      "current_u",
+      "current_v",
+      "current_w",
+      "current_alpha",
+      "current_beta",
+      "measured_current_d",
+      "current_q",
+      "elec_angle"
+    ],
+    "id": 21712
+  },
+  {
+    "type": "data",
+    "name": "InverseClarkeParkTransformation",
+    "variables": [
+      "target_vtg_u",
+      "target_vtg_v",
+      "target_voltage_w",
+      "target_vtg_alpha",
+      "target_voltage_beta",
+      "target_voltage_d",
+      "target_voltage_q",
+      "dc_link"
+    ],
+    "id": 21713
+  },
+  {
+    "type": "data",
+    "name": "ControlInformation",
+    "variables": [
+      "ref_curr_d",
+      "ref_curr_q",
+      "ref_speed",
+      "err_curr_d",
+      "err_curr_q",
+      "error_speed"
+    ],
+    "id": 21714
+  }
 ]

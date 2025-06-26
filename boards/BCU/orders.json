@@ -1,1 +1,88 @@
-[]
+[
+  {
+    "type": "order",
+    "name": "Test PWM Order",
+    "variables": [
+      "duty_u",
+      "duty_v",
+      "duty_w"
+    ],
+    "id": 21703
+  },
+  {
+    "type": "order",
+    "name": "Disable Inverter",
+    "variables": [],
+    "id": 21700
+  },
+  {
+    "type": "order",
+    "name": "Stop Control",
+    "variables": [],
+    "id": 21701
+  },
+  {
+    "type": "order",
+    "name": "Precharge Filter",
+    "variables": [],
+    "id": 21702
+  },
+  {
+    "type": "order",
+    "name": "Test Space Vector",
+    "variables": [
+      "mod_index",
+      "mod_freq",
+      "linear_speed"
+    ],
+    "id": 21704
+  },
+  {
+    "type": "order",
+    "name": "Emulate Current Control Ref",
+    "variables": [
+      "curr_ref",
+      "linear_speed"
+    ],
+    "id": 21705
+  },
+  {
+    "type": "order",
+    "name": "Enable Current Control Ref",
+    "variables": [
+      "curr_ref"
+    ],
+    "id": 21706
+  },
+  {
+    "type": "order",
+    "name": "Enable Speed Control",
+    "variables": [
+      "ref_speed"
+    ],
+    "id": 21707
+  },
+  {
+    "type": "order",
+    "name": "Fix DC Link Voltage",
+    "variables": [
+      "fixed_dc_link_vtg"
+    ],
+    "id": 21708
+  },
+  {
+    "type": "order",
+    "name": "Unfix DC Link Voltage",
+    "variables": [],
+    "id": 21709
+  },
+  {
+    "type": "order",
+    "name": "Configure PWM",
+    "variables": [
+      "switching_freq",
+      "dead_time"
+    ],
+    "id": 21710
+  }
+]
