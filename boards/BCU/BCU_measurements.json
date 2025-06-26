@@ -54,84 +54,84 @@
   {
     "id": "BCU_speetec-1-position",
     "name": "Speetec 1 Position",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-1-speed",
     "name": "Speetec 1 Speed",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-1-acceleration",
     "name": "Speetec 1 Acceleration",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
   {
     "id": "BCU_speetec-2-position",
     "name": "Speetec 2 Position",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-2-speed",
     "name": "Speetec 2 Speed",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-2-acceleration",
     "name": "Speetec 2 Acceleration",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
   {
     "id": "BCU_speetec-3-position",
     "name": "Speetec 3 Position",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-3-speed",
     "name": "Speetec 3 Speed",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-3-acceleration",
     "name": "Speetec 3 Acceleration",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
   {
     "id": "BCU_speetec-avg-position",
     "name": "Position",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m",
     "displayUnits": "m"
   },
   {
     "id": "BCU_speetec-avg-speed",
     "name": "Speed",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s",
     "displayUnits": "m/s"
   },
   {
     "id": "BCU_speetec-avg-acceleration",
     "name": "Acceleration",
-    "type": "double64",
+    "type": "float64",
     "podUnits": "m/s^2",
     "displayUnits": "m/s^2"
   },
