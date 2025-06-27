@@ -5,5 +5,12 @@
         "type": "uint32",
         "podUnits": "Percentage",
         "displayUnits": "Percentage"
+    },
+    {
+        "id": "frequency",
+        "name": "Frequency",
+        "type": "uint32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
     }
 ]
