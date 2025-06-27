@@ -1,13 +1,13 @@
 [
     {
-        "id": "Duty",
+        "id": "duty",
         "name": "Duty",
         "type": "uint32",
         "podUnits": "Percentage",
         "displayUnits": "Percentage"
     },
     {
-        "id": "Pump",
+        "id": "pump",
         "name": "Pump",
         "type": "enum",
         "enumValues": [
