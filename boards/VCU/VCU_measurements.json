@@ -5,14 +5,5 @@
         "type": "uint32",
         "podUnits": "Percentage",
         "displayUnits": "Percentage"
-    },
-    {
-        "id": "pump",
-        "name": "Pump",
-        "type": "enum",
-        "enumValues": [
-            "UNIDADES",
-            "PLACAS"
-        ]
     }
 ]
