@@ -3,16 +3,9 @@
         "type": "order",
         "name": "Potencia Refri",
         "variables": [
-            "duty"
+            "duty",
+            "pump"
         ],
         "id": 202
-    },
-    {
-        "type": "order",
-        "name": "Set PFM Frequency",
-        "variables": [
-            "frequency"
-        ],
-        "id": 504
     }
 ]

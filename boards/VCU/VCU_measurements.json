@@ -7,10 +7,12 @@
         "displayUnits": "Percentage"
     },
     {
-        "id": "frequency",
-        "name": "Frequency",
-        "type": "uint32",
-        "podUnits": "Hz",
-        "displayUnits": "Hz"
+        "id": "pump",
+        "name": "Pump",
+        "type": "enum",
+        "enumValues": [
+            "UNIDADES",
+            "PLACAS"
+        ]
     }
 ]
