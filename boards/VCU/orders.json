@@ -1,0 +1,11 @@
+[
+    {
+        "type": "order",
+        "name": "Potencia Refri",
+        "variables": [
+            "Duty",
+            "Pump"
+        ],
+        "id": 202
+    }
+]

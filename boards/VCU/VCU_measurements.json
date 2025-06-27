@@ -1,0 +1,18 @@
+[
+    {
+        "id": "Duty",
+        "name": "Duty",
+        "type": "uint32",
+        "podUnits": "Percentage",
+        "displayUnits": "Percentage"
+    },
+    {
+        "id": "Pump",
+        "name": "Pump",
+        "type": "enum",
+        "enumValues": [
+            "UNIDADES",
+            "PLACAS"
+        ]
+    }
+]
