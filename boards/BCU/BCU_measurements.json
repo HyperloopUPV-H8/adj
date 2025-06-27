@@ -250,7 +250,7 @@
   {
     "id": "current_alpha",
     "name": "Current Alpha",
-    "type": "uint32",
+    "type": "float64",
     "podUnits": "A",
     "displayUnits": "A",
     "enumValues": [],
