@@ -15,16 +15,16 @@
     "name": "Encoder Details",
     "variables": [
       "BCU_speetec-1-position",
-      "BCU_speetec-1-velocity",
+      "BCU_speetec-1-speed",
       "BCU_speetec-1-acceleration",
       "BCU_speetec-2-position",
-      "BCU_speetec-2-velocity",
+      "BCU_speetec-2-speed",
       "BCU_speetec-2-acceleration",
       "BCU_speetec-3-position",
-      "BCU_speetec-3-velocity",
+      "BCU_speetec-3-speed",
       "BCU_speetec-3-acceleration",
       "BCU_speetec-avg-position",
-      "BCU_speetec-avg-velocity",
+      "BCU_speetec-avg-speed",
       "BCU_speetec-avg-acceleration"
     ],
     "id": 21716
