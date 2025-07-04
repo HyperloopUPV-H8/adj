@@ -1,0 +1,11 @@
+[
+    {
+        "type": "data",
+        "name": "Current State",
+        "variables": [
+            "general_state",
+            "operational_state"
+        ],
+        "id": 249
+    }
+]
