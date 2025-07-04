@@ -3,8 +3,7 @@
         "id": "battery1_SOC",
         "name": "Battery 1 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery1_cell1",
@@ -73,8 +72,7 @@
         "id": "battery2_SOC",
         "name": "Battery 2 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery2_cell1",
@@ -143,8 +141,7 @@
         "id": "battery3_SOC",
         "name": "Battery 3 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery3_cell1",
@@ -218,8 +215,7 @@
         "id": "battery4_SOC",
         "name": "Battery 4 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery4_cell1",
@@ -288,8 +284,7 @@
         "id": "battery5_SOC",
         "name": "Battery 5 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery5_cell1",
@@ -358,8 +353,7 @@
         "id": "battery6_SOC",
         "name": "Battery 6 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery6_cell1",
@@ -428,8 +422,7 @@
         "id": "battery7_SOC",
         "name": "Battery 7 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery7_cell1",
@@ -498,8 +491,7 @@
         "id": "battery8_SOC",
         "name": "Battery 8 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery8_cell1",
@@ -568,8 +560,7 @@
         "id": "battery9_SOC",
         "name": "Battery 9 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery9_cell1",
@@ -638,8 +629,7 @@
         "id": "battery10_SOC",
         "name": "Battery 10 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery10_cell1",
@@ -708,8 +698,7 @@
         "id": "battery11_SOC",
         "name": "Battery 11 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery11_cell1",
@@ -778,8 +767,7 @@
         "id": "battery12_SOC",
         "name": "Battery 12 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery12_cell1",
@@ -848,8 +836,7 @@
         "id": "battery13_SOC",
         "name": "Battery 13 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery13_cell1",
@@ -918,8 +905,7 @@
         "id": "battery14_SOC",
         "name": "Battery 14 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery14_cell1",
@@ -988,8 +974,7 @@
         "id": "battery15_SOC",
         "name": "Battery 15 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery15_cell1",
@@ -1058,8 +1043,7 @@
         "id": "battery16_SOC",
         "name": "Battery 16 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery16_cell1",
@@ -1128,8 +1112,7 @@
         "id": "battery17_SOC",
         "name": "Battery 17 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery17_cell1",
@@ -1198,8 +1181,7 @@
         "id": "battery18_SOC",
         "name": "Battery 18 SOC",
         "type": "float32",
-        "podUnits": "%",
-        "displayUnits": "%"
+        "displayUnits": "Percentage"
     },
     {
         "id": "battery18_cell1",
