@@ -4,11 +4,11 @@
         "type": "data",
         "name": "Motor Driver",
         "variables": [
-            "output_duty_cycle_u",
-            "output_duty_cycle_v",
-            "output_duty_cycle_w",
-            "output_commutation_frequency_hz",
-            "output_dead_time_ns"
+            "duty_cycle_u",
+            "duty_cycle_v",
+            "duty_cycle_w",
+            "commutation_frequency_hz",
+            "dead_time_ns"
         ]
     },
     {
