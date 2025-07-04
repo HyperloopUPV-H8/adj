@@ -35,5 +35,21 @@
             "ENERGYZED",
             "READY"
         ]
+    },
+    {
+        "id": "regulator_pressure",
+        "name": "Regulator Pressure",
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
+    },
+    {
+        "id": "regulator",
+        "name": "Regulator",
+        "type": "enum",
+        "enumValues": [
+            "REGULATOR 1",
+            "REGULATOR 2"
+        ]
     }
 ]

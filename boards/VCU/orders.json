@@ -7,5 +7,24 @@
             "pump"
         ],
         "id": 202
+    },
+    {
+        "type": "order",
+        "name": "Set Regulator",
+        "variables": [
+            "regulator_pressure",
+            "regulator"
+        ],
+        "id": 203
+    },
+    {
+        "type": "order",
+        "name": "Enable Tapes",
+        "id": 204
+    },
+    {
+        "type": "order",
+        "name": "Disbable Tapes",
+        "id": 205
     }
 ]
