@@ -51,5 +51,155 @@
             "REGULATOR 1",
             "REGULATOR 2"
         ]
+    },
+    {
+        "id": "reed1",
+        "name": "Reed 1",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed2",
+        "name": "Reed 2",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed3",
+        "name": "Reed 3",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed4",
+        "name": "Reed 4",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed5",
+        "name": "Reed 5",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed6",
+        "name": "Reed 6",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed7",
+        "name": "Reed 7",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "reed8",
+        "name": "Reed 8",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "all_reeds",
+        "name": "All Reeds",
+        "type": "bool",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "flow1",
+        "name": "Flow 1",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "flow2",
+        "name": "Flow 2",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "regulator_1_input",
+        "name": "Regulator 1",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "regulator_2_input",
+        "name": "Regulator 2",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "pressure1",
+        "name": "Pressure 1",
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
+    },
+    {
+        "id": "pressure2",
+        "name": "Pressure 2",
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
+    },
+    {
+        "id": "pressure3",
+        "name": "Pressure 3",
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
+    },
+    {
+        "id": "pressure4",
+        "name": "Pressure 4",
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
+    },
+    {
+        "id": "tape_enabled",
+        "name": "Tape Enabled",
+        "type": "bool",
+        "podUnits": "",
+        "displayUnits": ""
     }
 ]
