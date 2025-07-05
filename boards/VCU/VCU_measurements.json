@@ -197,8 +197,26 @@
         "displayUnits": "bar"
     },
     {
-        "id": "tape_status",
-        "name": "Tape Status",
+        "id": "tape_enable_output",
+        "name": "Tape Enable",
+        "type": "enum",
+        "enumValues": [
+            "DISABLED",
+            "ENABLED"
+        ]
+    },
+    {
+        "id": "emergency_tape",
+        "name": "Emergency Tape",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
+    },
+    {
+        "id": "SDC",
+        "name": "SDC",
         "type": "enum",
         "enumValues": [
             "OFF",

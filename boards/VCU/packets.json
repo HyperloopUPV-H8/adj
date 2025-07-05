@@ -55,9 +55,18 @@
     },
     {
         "type": "data",
-        "name": "Tape Status",
+        "name": "tapes",
         "variables": [
-            "tape_status"
+            "tape_enable_output",
+            "emergency_tape"
+        ],
+        "id": 254
+    },
+    {
+        "type": "data",
+        "name": "sdc",
+        "variables": [
+            "SDC"
         ],
         "id": 255
     }
