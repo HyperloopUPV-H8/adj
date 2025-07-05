@@ -37,8 +37,8 @@
         "type": "data",
         "name": "Regulator",
         "variables": [
-            "regulator_1_input",
-            "regulator_2_input"
+            "regulator_1_pressure",
+            "regulator_2_pressure"
         ],
         "id": 252
     },

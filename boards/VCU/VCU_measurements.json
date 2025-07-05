@@ -151,22 +151,18 @@
         ]
     },
     {
-        "id": "regulator_1_input",
+        "id": "regulator_1_pressure",
         "name": "Regulator 1",
-        "type": "enum",
-        "enumValues": [
-            "OFF",
-            "ON"
-        ]
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
     },
     {
-        "id": "regulator_2_input",
+        "id": "regulator_2_pressure",
         "name": "Regulator 2",
-        "type": "enum",
-        "enumValues": [
-            "OFF",
-            "ON"
-        ]
+        "type": "float32",
+        "podUnits": "bar",
+        "displayUnits": "bar"
     },
     {
         "id": "pressure1",
