@@ -9,7 +9,15 @@
     "name": "Duty Cycle",
     "type": "float32",
     "podUnits": "%",
-    "displayUnits": "%"
+    "displayUnits": "%",
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
   },
   {
     "id": "lcu_battery_voltage",
@@ -23,7 +31,15 @@
     "name": "Desired current to set",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -40.0,
+      40.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "ldu_buffer_id",
@@ -175,21 +191,45 @@
     "name": "Current on LDU 1 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_2",
     "name": "Current on LDU 2 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_3",
     "name": "Current on LDU 3 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_4",
@@ -203,21 +243,45 @@
     "name": "Current on LDU 5 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_6",
     "name": "Current on LDU 6 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_7",
     "name": "Current on LDU 7 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_8",
@@ -231,21 +295,45 @@
     "name": "Current on LDU 9 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_10",
     "name": "Current on LDU 10 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -50.0,
+      50.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "fixed_vbat",
     "name": "fixed_vbat_0",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V"
+    "displayUnits": "V",
+    "safeRange": [
+      250.0,
+      450.0
+    ],
+    "warningRange": [
+      300.0,
+      450.0
+    ]
   },
   {
     "id": "lcu_vbat_1",
