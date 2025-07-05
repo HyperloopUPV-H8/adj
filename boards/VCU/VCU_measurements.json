@@ -33,7 +33,8 @@
             "IDLE",
             "END_OF_RUN",
             "ENERGYZED",
-            "READY"
+            "READY",
+            "DEMONSTRATION"
         ]
     },
     {
@@ -196,10 +197,12 @@
         "displayUnits": "bar"
     },
     {
-        "id": "tape_enabled",
-        "name": "Tape Enabled",
-        "type": "bool",
-        "podUnits": "",
-        "displayUnits": ""
+        "id": "tape_status",
+        "name": "Tape Status",
+        "type": "enum",
+        "enumValues": [
+            "OFF",
+            "ON"
+        ]
     }
 ]

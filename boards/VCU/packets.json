@@ -55,9 +55,9 @@
     },
     {
         "type": "data",
-        "name": "Tape Enabled",
+        "name": "Tape Status",
         "variables": [
-            "tape_enabled"
+            "tape_status"
         ],
         "id": 255
     }
