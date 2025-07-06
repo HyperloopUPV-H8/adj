@@ -1321,5 +1321,14 @@
         "id": "imd_is_ok",
         "name": "IMD OK",
         "type": "bool"
+    },
+    {
+        "id": "sdc_status",
+        "name": "SDC Status",
+        "type": "enum",
+        "enumValues": [
+            "ENGAGED",
+            "DISENGAGED"
+        ]
     }
 ]
