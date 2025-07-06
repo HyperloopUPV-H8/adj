@@ -1291,7 +1291,7 @@
     {
         "id": "driver_reading_period",
         "name": "BMS reading period",
-        "type": "uint32"
+        "type": "int32"
     },
     {
         "id": "imd_status",
