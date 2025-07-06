@@ -218,5 +218,12 @@
             "OFF",
             "ON"
         ]
+    },
+    {
+        "id": "levitation_distance",
+        "name": "Levitation Distance",
+        "type": "float32",
+        "podUnits": "mm",
+        "displayUnits": "mm"
     }
 ]

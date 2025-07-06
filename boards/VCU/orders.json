@@ -50,6 +50,9 @@
     {
         "type": "order",
         "name": "Levitation",
+        "variables" : [
+            "levitation_distance"
+        ],
         "id": 102
     },
     {
