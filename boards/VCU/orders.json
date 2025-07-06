@@ -2,12 +2,12 @@
     {
         "type": "order",
         "name": "Brake",
-        "id": 200
+        "id": 108
     },
     {
         "type": "order",
         "name": "Unbrake",
-        "id": 201
+        "id": 117
     },
     {
         "type": "order",
@@ -16,7 +16,7 @@
             "duty",
             "pump"
         ],
-        "id": 202
+        "id": 98
     },
     {
         "type": "order",
@@ -25,16 +25,36 @@
             "regulator_pressure",
             "regulator"
         ],
-        "id": 203
+        "id": 99
     },
     {
         "type": "order",
         "name": "Enable Tapes",
-        "id": 204
+        "id": 100
     },
     {
         "type": "order",
         "name": "Disbable Tapes",
-        "id": 205
+        "id": 101
+    },
+    {
+        "type": "order",
+        "name": "Close Contactors",
+        "id": 109
+    },
+    {
+        "type": "order",
+        "name": "Open Contactors",
+        "id": 118
+    },
+    {
+        "type": "order",
+        "name": "Levitation",
+        "id": 102
+    },
+    {
+        "type": "order",
+        "name": "Stop Levitation",
+        "id": 111
     }
 ]
