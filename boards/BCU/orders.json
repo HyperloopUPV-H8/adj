@@ -48,16 +48,6 @@
         "variables": []
     },
     {
-        "id": 1793,
-        "type": "order",
-        "name": "Start Emulated Current Control",
-        "variables": [
-            "requested_linear_speed",
-            "requested_d_current_reference",
-            "requested_q_current_reference"
-        ]
-    },
-    {
         "id": 1792,
         "type": "order",
         "name": "Start Current Control",
@@ -67,16 +57,25 @@
         ]
     },
     {
-        "id":1791,
+        "id": 1791,
         "type": "order",
-        "name":"Start Speed Control",
-        "variables":[
+        "name": "Start Speed Control",
+        "variables": [
             "requested_linear_speed"
         ]
     },
     {
-        "id":1752,
+        "id": 1788,
         "type": "order",
-        "name":"Bypass DC-Poles Ready"
+        "name": "DC Poles Ready (BCU)"
+    },
+    {
+        "id": 1787,
+        "type": "order",
+        "name": "Start Speetec emulation",
+        "variables": [
+            "requested_speetec_emulation_mode",
+            "requested_speetec_emulation_value"
+        ]
     }
 ]

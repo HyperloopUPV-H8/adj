@@ -89,11 +89,21 @@
     },
     {
         "id": 1707,
-        "type":"data",
-        "name":"Speed Control",
-        "variables":[
+        "type": "data",
+        "name": "Speed Control",
+        "variables": [
             "requested_linear_speed",
             "speed_speetec_1"
         ]
+    },
+    {
+        "id": 1790,
+        "type": "data",
+        "name": "Enable DC Poles (BCU)"
+    },
+    {
+        "id": 1789,
+        "type": "data",
+        "name": "Disable DC Poles (BCU)"
     }
 ]
