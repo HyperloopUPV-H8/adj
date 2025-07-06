@@ -107,5 +107,22 @@
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A"
+    },
+    {
+        "id": "requested_speetec_emulation_mode",
+        "name": "Emulation Mode",
+        "type": "enum",
+        "variants": [
+            "position",
+            "speed",
+            "acceleration"
+        ]
+    },
+    {
+        "id": "requested_speetec_emulation_value",
+        "name": "Value (m | m/s | m/s^2)",
+        "type": "float64",
+        "podUnits": "",
+        "displayUnits": ""
     }
 ]
