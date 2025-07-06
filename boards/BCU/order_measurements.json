@@ -112,7 +112,7 @@
         "id": "requested_speetec_emulation_mode",
         "name": "Emulation Mode",
         "type": "enum",
-        "variants": [
+        "enumValues": [
             "position",
             "speed",
             "acceleration"
