@@ -59,5 +59,10 @@
         "type": "order",
         "name": "Stop Levitation",
         "id": 111
+    },
+    {
+        "type" : "order",
+        "name": "Emergency Stop",
+        "id": 119
     }
 ]
