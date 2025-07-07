@@ -19,7 +19,7 @@
         "below": {
             "safe": 400.0,
             "warning": 450.0
-        }
+        },
         "out_of_range": {
             "warning": [
                 0,
