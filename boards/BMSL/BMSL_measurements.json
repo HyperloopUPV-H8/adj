@@ -46,7 +46,13 @@
     "name": "Total Voltage",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V"
+    "displayUnits": "V",
+    "out_of_range": {
+            "warning": [
+                0,
+                30
+            ]
+        }
   },
   {
     "id": "SOC",
@@ -60,7 +66,13 @@
     "name": "Current",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                10
+            ]
+        }
   },
   {
     "id": "state",
