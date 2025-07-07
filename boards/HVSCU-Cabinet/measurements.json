@@ -20,6 +20,12 @@
             "safe": 400.0,
             "warning": 450.0
         }
+        "out_of_range": {
+            "warning": [
+                0,
+                500
+            ]
+        }
     },
     {
         "id": "HVSCU-Cabinet_contactors_state",
@@ -40,6 +46,12 @@
         "name": "Output Current",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                0,
+                100
+            ]
+        }
     }
 ]
