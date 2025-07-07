@@ -1269,21 +1269,39 @@
         "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
-        "displayUnits": "V"
+        "displayUnits": "V",
+        "out_of_range": {
+            "warning": [
+                0,
+                100
+            ]
+        }
     },
     {
         "id": "voltage_reading",
         "name": "Voltage sensor",
         "type": "float32",
         "podUnits": "V",
-        "displayUnits": "V"
+        "displayUnits": "V",
+        "out_of_range": {
+            "warning": [
+                0,
+                100
+            ]
+        }
     },
     {
         "id": "current_reading",
         "name": "Current sensor",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                0,
+                100
+            ]
+        }
     },
     {
         "id": "general_state_machine_status",

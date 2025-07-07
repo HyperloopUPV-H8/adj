@@ -175,70 +175,130 @@
     "name": "Current on LDU 1 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_2",
     "name": "Current on LDU 2 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_3",
     "name": "Current on LDU 3 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_4",
     "name": "Current on LDU 4 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_5",
     "name": "Current on LDU 5 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_6",
     "name": "Current on LDU 6 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_7",
     "name": "Current on LDU 7 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_8",
     "name": "Current on LDU 8 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_9",
     "name": "Current on LDU 9 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "lcu_coil_current_10",
     "name": "Current on LDU 10 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "fixed_vbat",
@@ -378,35 +438,65 @@
     "name": "Dist_Control_y",
     "type": "float32",
     "podUnits": "mm",
-    "displayUnits": "mm"
+    "displayUnits": "mm",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "dist_control_z",
     "name": "Dist_Control_z",
     "type": "float32",
     "podUnits": "mm",
-    "displayUnits": "mm"
+    "displayUnits": "mm",
+    "out_of_range": {
+            "warning": [
+                0,
+                100.0
+            ]
+        }
   },
   {
     "id": "rot_control_x",
     "name": "Rot_Control_x",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees"
+    "displayUnits": "degrees",
+    "out_of_range": {
+            "warning": [
+                -5,
+                5
+            ]
+        }
   },
   {
     "id": "rot_control_y",
     "name": "Rot_Control_y",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees"
+    "displayUnits": "degrees",
+    "out_of_range": {
+            "warning": [
+                -5,
+                5
+            ]
+        }
   },
   {
     "id": "rot_control_z",
     "name": "Rot_Control_z",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees"
+    "displayUnits": "degrees",
+    "out_of_range": {
+            "warning": [
+                -5,
+                5
+            ]
+        }
   },
   {
     "id": "test_gui__1",

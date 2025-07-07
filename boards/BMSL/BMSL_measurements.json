@@ -118,7 +118,13 @@
     "name": "Output Current",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "out_of_range": {
+            "warning": [
+                0,
+                10
+            ]
+        }
   },
   {
     "id": "input_current",
@@ -132,7 +138,13 @@
     "name": "Output Voltage",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V"
+    "displayUnits": "V",
+    "out_of_range": {
+            "warning": [
+                0,
+                10
+            ]
+        }
   },
   {
     "id": "input_voltage",
