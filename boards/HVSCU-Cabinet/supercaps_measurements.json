@@ -8,6 +8,12 @@
         "below": {
             "safe": 400.0,
             "warning": 446.4
+        },
+        "out_of_range": {
+            "warning": [
+                0,
+                450
+            ]
         }
     },
     {

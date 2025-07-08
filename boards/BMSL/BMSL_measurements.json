@@ -59,7 +59,13 @@
     "name": "SOC",
     "type": "float32",
     "podUnits": "Percentage",
-    "displayUnits": "Percentage"
+    "displayUnits": "Percentage",
+    "out_of_range": {
+            "warning": [
+                0,
+                100
+            ]
+        }
   },
   {
     "id": "current",
