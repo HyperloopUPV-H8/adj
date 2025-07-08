@@ -3,7 +3,6 @@
         "id": "battery1_SOC",
         "name": "Battery 1 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -73,7 +72,6 @@
         "id": "battery2_SOC",
         "name": "Battery 2 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -143,7 +141,6 @@
         "id": "battery3_SOC",
         "name": "Battery 3 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -218,7 +215,6 @@
         "id": "battery4_SOC",
         "name": "Battery 4 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -288,7 +284,6 @@
         "id": "battery5_SOC",
         "name": "Battery 5 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -358,7 +353,6 @@
         "id": "battery6_SOC",
         "name": "Battery 6 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -428,7 +422,6 @@
         "id": "battery7_SOC",
         "name": "Battery 7 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -498,7 +491,6 @@
         "id": "battery8_SOC",
         "name": "Battery 8 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -568,7 +560,6 @@
         "id": "battery9_SOC",
         "name": "Battery 9 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -638,7 +629,6 @@
         "id": "battery10_SOC",
         "name": "Battery 10 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -708,7 +698,6 @@
         "id": "battery11_SOC",
         "name": "Battery 11 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -778,7 +767,6 @@
         "id": "battery12_SOC",
         "name": "Battery 12 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -848,7 +836,6 @@
         "id": "battery13_SOC",
         "name": "Battery 13 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -918,7 +905,6 @@
         "id": "battery14_SOC",
         "name": "Battery 14 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -988,7 +974,6 @@
         "id": "battery15_SOC",
         "name": "Battery 15 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -1058,7 +1043,6 @@
         "id": "battery16_SOC",
         "name": "Battery 16 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -1128,7 +1112,6 @@
         "id": "battery17_SOC",
         "name": "Battery 17 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -1198,7 +1181,6 @@
         "id": "battery18_SOC",
         "name": "Battery 18 SOC",
         "type": "float32",
-        "podUnits": "%",
         "displayUnits": "%"
     },
     {
@@ -1309,7 +1291,7 @@
     {
         "id": "driver_reading_period",
         "name": "BMS reading period",
-        "type": "uint32"
+        "type": "int32"
     },
     {
         "id": "imd_status",
@@ -1339,5 +1321,14 @@
         "id": "imd_is_ok",
         "name": "IMD OK",
         "type": "bool"
+    },
+    {
+        "id": "sdc_status",
+        "name": "SDC Status",
+        "type": "enum",
+        "enumValues": [
+            "ENGAGED",
+            "DISENGAGED"
+        ]
     }
 ]
