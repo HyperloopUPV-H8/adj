@@ -8,46 +8,6 @@
         "id":4,
         "type": "packet",
         "name":"nack"
-    },
-    {
-        "id":700,
-        "type": "order",
-        "name":"Write Program",
-        "variables":[
-            "target_1"
-        ]
-    },
-    {
-        "id":701,
-        "type": "order",
-        "name":"Read Program",
-        "variables":[
-            "target_2"
-        ]
-    },
-    {
-        "id":702,
-        "type": "order",
-        "name":"Erase Program",
-        "variables":[
-            "target_3"
-        ]
-    },
-    {
-        "id":703,
-        "type": "order",
-        "name":"Get Version",
-        "variables":[
-            "target_4",
-            "version"
-        ]
-    },
-    {
-        "id": 704,
-        "type": "order",
-        "name": "Reset All",
-        "variables":[
-            "target_5"
-        ]
     }
+
 ]
