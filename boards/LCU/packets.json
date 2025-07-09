@@ -99,5 +99,15 @@
       "rot_derivate_error_z"
     ],
     "id": 318
+  },
+
+  {
+    "type": "data",
+    "name": "OperationalState",
+    "variables": [
+      "vertical_state",
+      "horizontal_state"
+    ],
+    "id": 63
   }
 ]
