@@ -117,6 +117,13 @@
         "displayUnits": "V"
     },
     {
+        "id": "bcu_bus_voltage",
+        "name": "Bus Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
         "id": "dc_link_a_voltage",
         "name": "DC Link A Voltage",
         "type": "float32",
