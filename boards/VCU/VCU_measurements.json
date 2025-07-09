@@ -32,7 +32,7 @@
         "enumValues": [
             "IDLE",
             "END_OF_RUN",
-            "ENERGYZED",
+            "ENERGIZED",
             "READY",
             "DEMONSTRATION"
         ]
