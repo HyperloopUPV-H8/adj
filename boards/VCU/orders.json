@@ -77,11 +77,11 @@
         "type": "order",
         "name": "SVPWM",
         "variables" : [
-            "motor_direction",
+            "modulation_frequency",
+            "commutation_frequency",
             "max_voltage",
             "reference_voltage",
-            "commutation_frequency",
-            "modulation_frequency"
+            "motor_direction"
         ],
         "id": 57
     },
@@ -94,11 +94,14 @@
         "type": "order",
         "name": "Current Control",
         "variables" : [
-            "reference_current",
-            "motor_direction",
-            "max_voltage",
+
+            "modulation_frequency",
             "commutation_frequency",
-            "modulation_frequency"
+            "reference_current",
+            "max_voltage",
+            "motor_direction"
+
+
         ],
         "id": 59
     },
@@ -106,10 +109,10 @@
         "type": "order",
         "name": "Speed Control",
         "variables" : [
-            "motor_direction",
             "reference_speed",
+            "commutation_frequency",
             "max_voltage",
-            "commutation_frequency"
+            "motor_direction"
         ],
         "id": 60
     },
