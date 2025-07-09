@@ -225,5 +225,63 @@
         "type": "float32",
         "podUnits": "mm",
         "displayUnits": "mm"
+    },
+    {
+        "id": "run_id",
+        "name": "Run ID",
+        "type": "uint8",
+        "podUnits": "",
+        "displayUnits": ""
+    },
+    {
+        "id": "motor_direction",
+        "name": "Motor Direction",
+        "type": "enum",
+        "enumValues": [
+            "FORWARD",
+            "BACKWARDS"
+        ]
+    },
+    {
+        "id": "max_voltage",
+        "name": "Max Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "reference_voltage",
+        "name": "Reference Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "commutation_frequency",
+        "name": "Commutation Frequency",
+        "type": "float32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
+    },
+    {
+        "id": "modulation_frequency",
+        "name": "Modulation Frequency",
+        "type": "float32",
+        "podUnits": "Hz",
+        "displayUnits": "Hz"
+    },
+    {
+        "id": "reference_current",
+        "name": "Reference Current",
+        "type": "float32",
+        "podUnits": "A",
+        "displayUnits": "A"
+    },
+    {
+        "id": "reference_speed",
+        "name": "Reference Speed",
+        "type": "float32",
+        "podUnits": "km/h",
+        "displayUnits": "km/h"
     }
 ]

@@ -64,5 +64,58 @@
         "type" : "order",
         "name": "Emergency Stop",
         "id": 55
+    },
+    {
+        "type": "order",
+        "name": "Runs",
+        "variables" : [
+            "run_id"
+        ],
+        "id": 56
+    },
+    {
+        "type": "order",
+        "name": "SVPWM",
+        "variables" : [
+            "motor_direction",
+            "max_voltage",
+            "reference_voltage",
+            "commutation_frequency",
+            "modulation_frequency"
+        ],
+        "id": 57
+    },
+    {
+        "type": "order",
+        "name": "Stop Motor",
+        "id": 58
+    },
+    {
+        "type": "order",
+        "name": "Current Control",
+        "variables" : [
+            "reference_current",
+            "motor_direction",
+            "max_voltage",
+            "commutation_frequency",
+            "modulation_frequency"
+        ],
+        "id": 59
+    },
+    {
+        "type": "order",
+        "name": "Speed Control",
+        "variables" : [
+            "motor_direction",
+            "reference_speed",
+            "max_voltage",
+            "commutation_frequency"
+        ],
+        "id": 60
+    },
+    {
+        "type": "order",
+        "name": "Motor Brake",
+        "id": 61
     }
 ]
