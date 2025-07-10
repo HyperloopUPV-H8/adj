@@ -404,5 +404,16 @@
         "LIM (50KM/H)"
 
     ]
+  },
+  {
+    "id": "run_state",
+    "name": "Run State",
+    "type": "enum",
+    "enumValues": [
+        "NOTHING",
+        "MOVING",
+        "BRAKING"
+
+    ]
   }
 ]
