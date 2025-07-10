@@ -90,42 +90,6 @@
         ]
     },
     {
-        "id": "reed5",
-        "name": "Reed 5",
-        "type": "enum",
-        "enumValues": [
-            "OFF",
-            "ON"
-        ]
-    },
-    {
-        "id": "reed6",
-        "name": "Reed 6",
-        "type": "enum",
-        "enumValues": [
-            "OFF",
-            "ON"
-        ]
-    },
-    {
-        "id": "reed7",
-        "name": "Reed 7",
-        "type": "enum",
-        "enumValues": [
-            "OFF",
-            "ON"
-        ]
-    },
-    {
-        "id": "reed8",
-        "name": "Reed 8",
-        "type": "enum",
-        "enumValues": [
-            "OFF",
-            "ON"
-        ]
-    },
-    {
         "id": "all_reeds",
         "name": "All Reeds",
         "type": "bool",
