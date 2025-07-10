@@ -1336,5 +1336,5 @@
         "name": "Minimum SOC",
         "type": "float32",
         "displayUnits": "%"
-    },
+    }
 ]
