@@ -11,6 +11,7 @@
       "cell_6",
       "total_voltage",
       "SOC",
+      "temperature",
       "current"
     ],
     "id": 777

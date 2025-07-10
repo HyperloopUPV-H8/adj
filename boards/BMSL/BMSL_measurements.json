@@ -56,6 +56,13 @@
     "displayUnits": "Percentage"
   },
   {
+    "id": "temperature",
+    "name": "Temperature",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
     "id": "current",
     "name": "Current",
     "type": "float32",
