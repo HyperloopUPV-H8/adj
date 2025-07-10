@@ -165,29 +165,29 @@
         "displayUnits": "bar"
     },
     {
-        "id": "pressure1",
-        "name": "Pressure 1",
+        "id": "pressure_high",
+        "name": "Pressure High",
         "type": "float32",
         "podUnits": "bar",
         "displayUnits": "bar"
     },
     {
-        "id": "pressure2",
-        "name": "Pressure 2",
+        "id": "pressure_regulator",
+        "name": "Pressure Regulator",
         "type": "float32",
         "podUnits": "bar",
         "displayUnits": "bar"
     },
     {
-        "id": "pressure3",
-        "name": "Pressure 3",
+        "id": "pressure_brakes",
+        "name": "Pressure Brakes",
         "type": "float32",
         "podUnits": "bar",
         "displayUnits": "bar"
     },
     {
-        "id": "pressure4",
-        "name": "Pressure 4",
+        "id": "pressure_capsule",
+        "name": "Pressure Capsule",
         "type": "float32",
         "podUnits": "bar",
         "displayUnits": "bar"

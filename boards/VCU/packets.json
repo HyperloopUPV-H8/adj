@@ -46,10 +46,10 @@
         "type": "data",
         "name": "Pressure",
         "variables": [
-            "pressure1",
-            "pressure2",
-            "pressure3",
-            "pressure4"
+            "pressure_high",
+            "pressure_regulator",
+            "pressure_brakes",
+            "pressure_capsule"
         ],
         "id": 253
     },
