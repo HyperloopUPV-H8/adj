@@ -61,6 +61,20 @@
         ]
     },
     {
+        "id": "bcu_operational_state",
+        "name": "Operational State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "Charging",
+            "Charged",
+            "Precharge",
+            "Engaged"
+        ]
+    },
+    {
         "id": "control_state",
         "name": "Control State",
         "type": "enum",
