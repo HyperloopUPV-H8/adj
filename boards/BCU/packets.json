@@ -17,6 +17,7 @@
         "name": "State",
         "variables": [
             "bcu_general_state",
+            "bcu_operational_state",
             "bcu_nested_state",
             "control_state"
         ]
