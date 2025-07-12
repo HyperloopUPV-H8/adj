@@ -42,6 +42,20 @@
     "displayUnits": "V"
   },
   {
+    "id": "min_cell",
+    "name": "Min Cell",
+    "type": "float32",
+    "podUnits": "V",
+    "displayUnits": "V"
+  },
+  {
+    "id": "max_cell",
+    "name": "Max Cell",
+    "type": "float32",
+    "podUnits": "V",
+    "displayUnits": "V"
+  },
+  {
     "id": "total_voltage",
     "name": "Total Voltage",
     "type": "float32",
@@ -54,6 +68,20 @@
     "type": "float32",
     "podUnits": "Percentage",
     "displayUnits": "Percentage"
+  },
+  {
+    "id": "temperature_1",
+    "name": "Temperature 1",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temperature_2",
+    "name": "Temperature 2",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
   },
   {
     "id": "current",
