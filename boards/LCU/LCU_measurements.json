@@ -193,8 +193,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -208,8 +208,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -223,8 +223,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -236,7 +236,15 @@
     "name": "Current on LDU 4 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_5",
@@ -245,8 +253,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -260,8 +268,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -275,8 +283,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -288,7 +296,15 @@
     "name": "Current on LDU 8 coil",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_9",
@@ -297,8 +313,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
@@ -312,8 +328,8 @@
     "podUnits": "A",
     "displayUnits": "A",
     "safeRange": [
-      -50.0,
-      50.0
+      -55.0,
+      55.0
     ],
     "warningRange": [
       -40.0,
