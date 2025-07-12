@@ -47,6 +47,20 @@
         ]
     },
     {
+        "id": "bcu_operational_state",
+        "name": "Operational State",
+        "type": "enum",
+        "podUnits": "",
+        "displayUnits": "",
+        "enumValues": [
+            "Idle",
+            "Charging",
+            "Charged",
+            "Precharge",
+            "Engaged"
+        ]
+    },
+    {
         "id": "bcu_nested_state",
         "name": "Nested State",
         "type": "enum",
@@ -84,7 +98,6 @@
             "Idle",
             "TEST_PWM",
             "SPACE_VECTOR",
-            "EMULATED_CURRENT_CONTROL",
             "CURRENT_CONTROL",
             "SPEED_CONTROL"
         ]
@@ -113,6 +126,13 @@
     {
         "id": "dc_link_average_voltage",
         "name": "DC Link Average Voltage",
+        "type": "float32",
+        "podUnits": "V",
+        "displayUnits": "V"
+    },
+    {
+        "id": "bcu_bus_voltage",
+        "name": "Bus Voltage",
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V"

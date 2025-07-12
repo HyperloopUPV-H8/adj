@@ -3,10 +3,12 @@
     "board_ip": "127.0.0.8",
     "packets": [
         "orders.json",
+        "hvscu_orders.json",
         "packets.json"
     ],
     "measurements": [
         "order_measurements.json",
+        "hvscu_order_measurements.json",
         "measurements.json"
     ]
 }

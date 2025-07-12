@@ -106,5 +106,13 @@
         "id": 1789,
         "type": "data",
         "name": "Disable DC Poles (BCU)"
+    },
+    {
+        "id": 1692,
+        "type": "data",
+        "name": "BCU Bus Voltage",
+        "variables": [
+            "bcu_bus_voltage"
+        ]
     }
 ]
