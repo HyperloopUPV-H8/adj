@@ -42,6 +42,20 @@
     "displayUnits": "V"
   },
   {
+    "id": "min_cell",
+    "name": "Min Cell",
+    "type": "float32",
+    "podUnits": "V",
+    "displayUnits": "V"
+  },
+  {
+    "id": "max_cell",
+    "name": "Max Cell",
+    "type": "float32",
+    "podUnits": "V",
+    "displayUnits": "V"
+  },
+  {
     "id": "total_voltage",
     "name": "Total Voltage",
     "type": "float32",

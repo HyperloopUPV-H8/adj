@@ -9,6 +9,8 @@
       "cell_4",
       "cell_5",
       "cell_6",
+      "min_cell",
+      "max_cell",
       "total_voltage",
       "SOC",
       "temperature_1",
