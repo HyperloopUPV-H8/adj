@@ -367,5 +367,13 @@
             "imd_resistance",
             "imd_is_ok"
         ]
+    },
+    {
+        "id": 944,
+        "name": "sdc",
+        "type": "data",
+        "variables": [
+            "sdc_status"
+        ]
     }
 ]
