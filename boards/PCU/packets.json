@@ -102,5 +102,15 @@
       "gd_ready_b"
     ],
     "id": 558
+  },
+
+  {
+    "type": "data",
+    "name": "OperationalState",
+    "variables": [
+      "operational_state_machine"
+    ],
+    "id": 64
   }
+
 ]
