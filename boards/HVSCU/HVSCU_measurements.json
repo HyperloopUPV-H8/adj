@@ -1330,5 +1330,11 @@
             "ENGAGED",
             "DISENGAGED"
         ]
+    },
+    {
+        "id": "minimum_soc",
+        "name": "Minimum SOC",
+        "type": "float32",
+        "displayUnits": "%"
     }
 ]

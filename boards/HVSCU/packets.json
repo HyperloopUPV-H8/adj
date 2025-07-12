@@ -375,5 +375,13 @@
         "variables": [
             "sdc_status"
         ]
+    },
+    {
+        "id": 945,
+        "name": "minimum_soc",
+        "type": "data",
+        "variables": [
+            "minimum_soc"
+        ]
     }
 ]
