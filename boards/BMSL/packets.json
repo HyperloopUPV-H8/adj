@@ -9,12 +9,14 @@
       "cell_4",
       "cell_5",
       "cell_6",
-      "min_cell",
-      "max_cell",
+      "voltage_min",
+      "voltage_max",
       "total_voltage",
       "SOC",
       "temperature_1",
       "temperature_2",
+      "temp_min",
+      "temp_max",
       "current"
     ],
     "id": 777

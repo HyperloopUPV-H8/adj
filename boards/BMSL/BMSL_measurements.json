@@ -42,14 +42,14 @@
     "displayUnits": "V"
   },
   {
-    "id": "min_cell",
+    "id": "voltage_min",
     "name": "Min Cell",
     "type": "float32",
     "podUnits": "V",
     "displayUnits": "V"
   },
   {
-    "id": "max_cell",
+    "id": "voltage_max",
     "name": "Max Cell",
     "type": "float32",
     "podUnits": "V",
@@ -79,6 +79,20 @@
   {
     "id": "temperature_2",
     "name": "Temperature 2",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temp_min",
+    "name": "Min. Temperature",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temp_max",
+    "name": "Max. Temperature",
     "type": "float32",
     "podUnits": "ºC",
     "displayUnits": "ºC"
