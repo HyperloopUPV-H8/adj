@@ -383,5 +383,13 @@
         "variables": [
             "minimum_soc"
         ]
+    },
+    {
+        "id": 946,
+        "name": "bms",
+        "type": "data",
+        "variables": [
+            "bms_status"
+        ]
     }
 ]
