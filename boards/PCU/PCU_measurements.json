@@ -284,8 +284,8 @@
     "name": "reed_state",
     "type": "enum",
     "enumValues": [
-      "Braking",
-      "Not_Braking"
+      "Not_Braking",
+      "Braking"
     ]
   },
   {
@@ -293,8 +293,8 @@
     "name": "reed_state",
     "type": "enum",
     "enumValues": [
-      "Braking",
-      "Not_Braking"
+      "Not_Braking",
+      "Braking"
     ]
   },
   {
@@ -302,8 +302,8 @@
     "name": "reed_state",
     "type": "enum",
     "enumValues": [
-      "Braking",
-      "Not_Braking"
+      "Not_Braking",
+      "Braking"
     ]
   },
   {
@@ -311,8 +311,8 @@
     "name": "reed_state",
     "type": "enum",
     "enumValues": [
-      "Braking",
-      "Not_Braking"
+      "Not_Braking",
+      "Braking"
     ]
   },
   {
