@@ -280,7 +280,34 @@
     "type": "float32"
   },
   {
-    "id": "reed",
+    "id": "reed1",
+    "name": "reed_state",
+    "type": "enum",
+    "enumValues": [
+      "Braking",
+      "Not_Braking"
+    ]
+  },
+  {
+    "id": "reed2",
+    "name": "reed_state",
+    "type": "enum",
+    "enumValues": [
+      "Braking",
+      "Not_Braking"
+    ]
+  },
+  {
+    "id": "reed3",
+    "name": "reed_state",
+    "type": "enum",
+    "enumValues": [
+      "Braking",
+      "Not_Braking"
+    ]
+  },
+  {
+    "id": "reed4",
     "name": "reed_state",
     "type": "enum",
     "enumValues": [
