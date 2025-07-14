@@ -58,8 +58,8 @@
         "name": "Reed 1",
         "type": "enum",
         "enumValues": [
-            "OFF",
-            "ON"
+            "UNDEPLOYED",
+            "DEPLOYED"
         ]
     },
     {
@@ -67,8 +67,8 @@
         "name": "Reed 2",
         "type": "enum",
         "enumValues": [
-            "OFF",
-            "ON"
+            "UNDEPLOYED",
+            "DEPLOYED"
         ]
     },
     {
@@ -76,8 +76,8 @@
         "name": "Reed 3",
         "type": "enum",
         "enumValues": [
-            "OFF",
-            "ON"
+            "UNDEPLOYED",
+            "DEPLOYED"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "name": "Reed 4",
         "type": "enum",
         "enumValues": [
-            "OFF",
-            "ON"
+            "UNDEPLOYED",
+            "DEPLOYED"
         ]
     },
     {
@@ -167,11 +167,11 @@
     },
     {
         "id": "emergency_tape",
-        "name": "Emergency Tape",
+        "name": "Section Type",
         "type": "enum",
         "enumValues": [
-            "OFF",
-            "ON"
+            "EMERGENCY_SECTION",
+            "NORMAL_SECTION"
         ]
     },
     {
