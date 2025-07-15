@@ -409,5 +409,16 @@
         "variables": [
             "bms_status"
         ]
+    },
+    {
+        "id": 947,
+        "name": "batteries_data",
+        "type": "data",
+        "variables": [
+            "voltage_min",
+            "voltage_max",
+            "temp_min",
+            "temp_max"
+        ]
     }
 ]
