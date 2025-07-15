@@ -84,6 +84,20 @@
     "displayUnits": "ºC"
   },
   {
+    "id": "temperature_3",
+    "name": "Temperature 3",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temperature_4",
+    "name": "Temperature 4",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
     "id": "temp_min",
     "name": "Min. Temperature",
     "type": "float32",
