@@ -1379,14 +1379,22 @@
         "name": "Voltage sensor",
         "type": "float32",
         "podUnits": "V",
-        "displayUnits": "V"
+        "displayUnits": "V",
+        "warningRange": [
+            0.0,
+            430.0
+        ]
     },
     {
         "id": "current_reading",
         "name": "Current sensor",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "warningRange": [
+            -15.0,
+            85.0
+        ]
     },
     {
         "id": "general_state_machine_status",
