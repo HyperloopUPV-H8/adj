@@ -60,26 +60,14 @@
     "name": "Total Voltage",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V",
-    "out_of_range": {
-            "warning": [
-                0,
-                30
-            ]
-        }
+    "displayUnits": "V"
   },
   {
     "id": "SOC",
     "name": "SOC",
     "type": "float32",
     "podUnits": "Percentage",
-    "displayUnits": "Percentage",
-    "out_of_range": {
-            "warning": [
-                0,
-                100
-            ]
-        }
+    "displayUnits": "Percentage"
   },
   {
     "id": "temperature_1",
@@ -128,13 +116,7 @@
     "name": "Current",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                10
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "state",
@@ -192,13 +174,7 @@
     "name": "Output Current",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                10
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "input_current",
@@ -212,13 +188,7 @@
     "name": "Output Voltage",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V",
-    "out_of_range": {
-            "warning": [
-                0,
-                10
-            ]
-        }
+    "displayUnits": "V"
   },
   {
     "id": "input_voltage",

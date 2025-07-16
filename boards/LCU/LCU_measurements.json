@@ -482,65 +482,35 @@
     "name": "Dist_Control_y",
     "type": "float32",
     "podUnits": "mm",
-    "displayUnits": "mm",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "displayUnits": "mm"
   },
   {
     "id": "dist_control_z",
     "name": "Dist_Control_z",
     "type": "float32",
     "podUnits": "mm",
-    "displayUnits": "mm",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "displayUnits": "mm"
   },
   {
     "id": "rot_control_x",
     "name": "Rot_Control_x",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees",
-    "out_of_range": {
-            "warning": [
-                -5,
-                5
-            ]
-        }
+    "displayUnits": "degrees"
   },
   {
     "id": "rot_control_y",
     "name": "Rot_Control_y",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees",
-    "out_of_range": {
-            "warning": [
-                -5,
-                5
-            ]
-        }
+    "displayUnits": "degrees"
   },
   {
     "id": "rot_control_z",
     "name": "Rot_Control_z",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees",
-    "out_of_range": {
-            "warning": [
-                -5,
-                5
-            ]
-        }
+    "displayUnits": "degrees"
   },
   {
     "id": "test_gui__1",
