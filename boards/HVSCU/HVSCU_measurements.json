@@ -1372,7 +1372,13 @@
         "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
-        "displayUnits": "V"
+        "displayUnits": "V",
+        "out_of_range": {
+            "warning": [
+                0,
+                100
+            ]
+        }
     },
     {
         "id": "voltage_reading",
