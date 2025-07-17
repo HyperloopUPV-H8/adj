@@ -193,9 +193,13 @@
     {
         "id": "run_id",
         "name": "Run ID",
-        "type": "uint8",
-        "podUnits": "",
-        "displayUnits": ""
+        "type": "enum",
+        "enumValues":[
+            "LIM + Booster",
+            "Booster",
+            "LIM",
+            "LIM (50KM/H)"
+        ]
     },
     {
         "id": "motor_direction",
