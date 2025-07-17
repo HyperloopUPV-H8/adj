@@ -2,12 +2,12 @@
   "ports": {
     "TCP_CLIENT": 50401,
     "TCP_SERVER": 50500,
-    "UDP": 8000,
+    "UDP": 50400,
     "SNTP": 123,
     "TFTP": 69
   },
   "addresses": {
-    "backend": "127.0.0.9"
+    "backend": "192.168.0.9"
   },
   "units": {
     "m/ss": "*1",

@@ -16,7 +16,8 @@
             "battery1_cell4",
             "battery1_cell5",
             "battery1_cell6",
-            "battery1_temperature",
+            "battery1_temperature1",
+            "battery1_temperature2",
             "battery1_total_voltage",
             "battery1_conv_rate"
         ]
@@ -33,7 +34,8 @@
             "battery2_cell4",
             "battery2_cell5",
             "battery2_cell6",
-            "battery2_temperature",
+            "battery2_temperature1",
+            "battery2_temperature2",
             "battery2_total_voltage",
             "battery2_conv_rate"
         ]
@@ -50,7 +52,8 @@
             "battery3_cell4",
             "battery3_cell5",
             "battery3_cell6",
-            "battery3_temperature",
+            "battery3_temperature1",
+            "battery3_temperature2",
             "battery3_total_voltage",
             "battery3_conv_rate"
         ]
@@ -67,7 +70,8 @@
             "battery4_cell4",
             "battery4_cell5",
             "battery4_cell6",
-            "battery4_temperature",
+            "battery4_temperature1",
+            "battery4_temperature2",
             "battery4_total_voltage",
             "battery4_conv_rate"
         ]
@@ -84,7 +88,8 @@
             "battery5_cell4",
             "battery5_cell5",
             "battery5_cell6",
-            "battery5_temperature",
+            "battery5_temperature1",
+            "battery5_temperature2",
             "battery5_total_voltage",
             "battery5_conv_rate"
         ]
@@ -101,7 +106,8 @@
             "battery6_cell4",
             "battery6_cell5",
             "battery6_cell6",
-            "battery6_temperature",
+            "battery6_temperature1",
+            "battery6_temperature2",
             "battery6_total_voltage",
             "battery6_conv_rate"
         ]
@@ -118,7 +124,8 @@
             "battery7_cell4",
             "battery7_cell5",
             "battery7_cell6",
-            "battery7_temperature",
+            "battery7_temperature1",
+            "battery7_temperature2",
             "battery7_total_voltage",
             "battery7_conv_rate"
         ]
@@ -135,7 +142,8 @@
             "battery8_cell4",
             "battery8_cell5",
             "battery8_cell6",
-            "battery8_temperature",
+            "battery8_temperature1",
+            "battery8_temperature2",
             "battery8_total_voltage",
             "battery8_conv_rate"
         ]
@@ -152,7 +160,8 @@
             "battery9_cell4",
             "battery9_cell5",
             "battery9_cell6",
-            "battery9_temperature",
+            "battery9_temperature1",
+            "battery9_temperature2",
             "battery9_total_voltage",
             "battery9_conv_rate"
         ]
@@ -169,7 +178,8 @@
             "battery10_cell4",
             "battery10_cell5",
             "battery10_cell6",
-            "battery10_temperature",
+            "battery10_temperature1",
+            "battery10_temperature2",
             "battery10_total_voltage",
             "battery10_conv_rate"
         ]
@@ -186,7 +196,8 @@
             "battery11_cell4",
             "battery11_cell5",
             "battery11_cell6",
-            "battery11_temperature",
+            "battery11_temperature1",
+            "battery11_temperature2",
             "battery11_total_voltage",
             "battery11_conv_rate"
         ]
@@ -203,7 +214,8 @@
             "battery12_cell4",
             "battery12_cell5",
             "battery12_cell6",
-            "battery12_temperature",
+            "battery12_temperature1",
+            "battery12_temperature2",
             "battery12_total_voltage",
             "battery12_conv_rate"
         ]
@@ -220,7 +232,8 @@
             "battery13_cell4",
             "battery13_cell5",
             "battery13_cell6",
-            "battery13_temperature",
+            "battery13_temperature1",
+            "battery13_temperature2",
             "battery13_total_voltage",
             "battery13_conv_rate"
         ]
@@ -237,7 +250,8 @@
             "battery14_cell4",
             "battery14_cell5",
             "battery14_cell6",
-            "battery14_temperature",
+            "battery14_temperature1",
+            "battery14_temperature2",
             "battery14_total_voltage",
             "battery14_conv_rate"
         ]
@@ -254,7 +268,8 @@
             "battery15_cell4",
             "battery15_cell5",
             "battery15_cell6",
-            "battery15_temperature",
+            "battery15_temperature1",
+            "battery15_temperature2",
             "battery15_total_voltage",
             "battery15_conv_rate"
         ]
@@ -271,7 +286,8 @@
             "battery16_cell4",
             "battery16_cell5",
             "battery16_cell6",
-            "battery16_temperature",
+            "battery16_temperature1",
+            "battery16_temperature2",
             "battery16_total_voltage",
             "battery16_conv_rate"
         ]
@@ -288,7 +304,8 @@
             "battery17_cell4",
             "battery17_cell5",
             "battery17_cell6",
-            "battery17_temperature",
+            "battery17_temperature1",
+            "battery17_temperature2",
             "battery17_total_voltage",
             "battery17_conv_rate"
         ]
@@ -305,7 +322,8 @@
             "battery18_cell4",
             "battery18_cell5",
             "battery18_cell6",
-            "battery18_temperature",
+            "battery18_temperature1",
+            "battery18_temperature2",
             "battery18_total_voltage",
             "battery18_conv_rate"
         ]
@@ -382,6 +400,25 @@
         "type": "data",
         "variables": [
             "minimum_soc"
+        ]
+    },
+    {
+        "id": 946,
+        "name": "bms",
+        "type": "data",
+        "variables": [
+            "bms_status"
+        ]
+    },
+    {
+        "id": 947,
+        "name": "batteries_data",
+        "type": "data",
+        "variables": [
+            "voltage_min",
+            "voltage_max",
+            "temp_min",
+            "temp_max"
         ]
     }
 ]

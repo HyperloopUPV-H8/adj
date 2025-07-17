@@ -117,5 +117,13 @@
       "multi_current_4"
     ],
     "id": 9986
+  },
+  {
+    "type": "order",
+    "name": "levitation_vcu",
+    "variables": [
+      "distance"
+    ],
+    "id": 9998
   }
 ]

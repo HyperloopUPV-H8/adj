@@ -9,7 +9,15 @@
     "name": "Duty Cycle",
     "type": "float32",
     "podUnits": "%",
-    "displayUnits": "%"
+    "displayUnits": "%",
+    "safeRange": [
+      0.0,
+      100.0
+    ],
+    "warningRange": [
+      0.0,
+      100.0
+    ]
   },
   {
     "id": "lcu_battery_voltage",
@@ -23,7 +31,15 @@
     "name": "Desired current to set",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A"
+    "displayUnits": "A",
+    "safeRange": [
+      -40.0,
+      40.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "ldu_buffer_id",
@@ -176,12 +192,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_2",
@@ -189,12 +207,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_3",
@@ -202,12 +222,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_4",
@@ -215,12 +237,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_5",
@@ -228,12 +252,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_6",
@@ -241,12 +267,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_7",
@@ -254,12 +282,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_8",
@@ -267,12 +297,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_9",
@@ -280,12 +312,14 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "lcu_coil_current_10",
@@ -293,19 +327,29 @@
     "type": "float32",
     "podUnits": "A",
     "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "safeRange": [
+      -55.0,
+      55.0
+    ],
+    "warningRange": [
+      -40.0,
+      40.0
+    ]
   },
   {
     "id": "fixed_vbat",
     "name": "fixed_vbat_0",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V"
+    "displayUnits": "V",
+    "safeRange": [
+      250.0,
+      450.0
+    ],
+    "warningRange": [
+      300.0,
+      450.0
+    ]
   },
   {
     "id": "lcu_vbat_1",
@@ -438,65 +482,35 @@
     "name": "Dist_Control_y",
     "type": "float32",
     "podUnits": "mm",
-    "displayUnits": "mm",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "displayUnits": "mm"
   },
   {
     "id": "dist_control_z",
     "name": "Dist_Control_z",
     "type": "float32",
     "podUnits": "mm",
-    "displayUnits": "mm",
-    "out_of_range": {
-            "warning": [
-                0,
-                100.0
-            ]
-        }
+    "displayUnits": "mm"
   },
   {
     "id": "rot_control_x",
     "name": "Rot_Control_x",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees",
-    "out_of_range": {
-            "warning": [
-                -5,
-                5
-            ]
-        }
+    "displayUnits": "degrees"
   },
   {
     "id": "rot_control_y",
     "name": "Rot_Control_y",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees",
-    "out_of_range": {
-            "warning": [
-                -5,
-                5
-            ]
-        }
+    "displayUnits": "degrees"
   },
   {
     "id": "rot_control_z",
     "name": "Rot_Control_z",
     "type": "float32",
     "podUnits": "degrees",
-    "displayUnits": "degrees",
-    "out_of_range": {
-            "warning": [
-                -5,
-                5
-            ]
-        }
+    "displayUnits": "degrees"
   },
   {
     "id": "test_gui__1",
@@ -1109,6 +1123,13 @@
   {
     "id": "rot_derivate_error_x",
     "name": "Rot_derivate_error_x",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
+  },
+  {
+    "id": "distance",
+    "name": "Distance (mm)",
     "type": "float32",
     "podUnits": "mm",
     "displayUnits": "mm"

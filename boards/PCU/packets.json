@@ -44,6 +44,7 @@
     "variables": [
       "general_state_machine",
       "operational_state_machine",
+      "run_state",
       "space_vector_active",
       "current_control_active",
       "speed_control_active"
@@ -85,10 +86,10 @@
     "type": "data",
     "name": "Reeds_State",
     "variables": [
-      "reed",
-      "reed",
-      "reed",
-      "reed"
+      "reed1",
+      "reed2",
+      "reed3",
+      "reed4"
     ],
     "id": 557
   },

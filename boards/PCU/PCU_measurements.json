@@ -68,13 +68,7 @@
     "name": "Current sensor U connector A",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                -100.0,
-                100.0
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "current_sensor_u_b",
@@ -88,13 +82,7 @@
     "name": "Current sensor V connector A",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                -100.0,
-                100.0
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "current_sensor_v_b",
@@ -108,13 +96,7 @@
     "name": "Current sensor W connector A",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                -100.0,
-                100.0
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "current_sensor_w_b",
@@ -212,13 +194,7 @@
     "name": "Position Encoder",
     "type": "float64",
     "podUnits": "m",
-    "displayUnits": "m",
-    "out_of_range": {
-            "warning": [
-                0,
-                50
-            ]
-        }
+    "displayUnits": "m"
   },
   {
     "id": "encoder_direction",
@@ -304,12 +280,39 @@
     "type": "float32"
   },
   {
-    "id": "reed",
+    "id": "reed1",
     "name": "reed_state",
     "type": "enum",
     "enumValues": [
-      "Braking",
-      "Not_Braking"
+      "Not_Braking",
+      "Braking"
+    ]
+  },
+  {
+    "id": "reed2",
+    "name": "reed_state",
+    "type": "enum",
+    "enumValues": [
+      "UNDEPLOYED",
+      "DEPLOYED"
+    ]
+  },
+  {
+    "id": "reed3",
+    "name": "reed_state",
+    "type": "enum",
+    "enumValues": [
+      "Not_Braking",
+      "Braking"
+    ]
+  },
+  {
+    "id": "reed4",
+    "name": "reed_state",
+    "type": "enum",
+    "enumValues": [
+      "Not_Braking",
+      "Braking"
     ]
   },
   {
@@ -397,6 +400,47 @@
     "warningRange": [
       0.0,
       100.0
+    ]
+  },
+  {
+    "id": "requested_speetec_emulation_mode",
+    "name": "Emulation Mode",
+    "type": "enum",
+    "enumValues": [
+        "STOP",
+        "position",
+        "speed",
+        "acceleration"
+    ]
+  },
+  {
+    "id": "requested_speetec_emulation_value",
+    "name": "Value (m | m/s | m/s^2)",
+    "type": "float32",
+    "podUnits": "",
+    "displayUnits": ""
+  },
+  {
+    "id": "run_id",
+    "name": "Run Mode",
+    "type": "enum",
+    "enumValues": [
+        "LIM + Booster",
+        "Booster",
+        "LIM",
+        "LIM (50KM/H)"
+
+    ]
+  },
+  {
+    "id": "run_state",
+    "name": "Run State",
+    "type": "enum",
+    "enumValues": [
+        "NOTHING",
+        "MOVING",
+        "BRAKING"
+
     ]
   }
 ]

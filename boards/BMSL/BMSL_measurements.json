@@ -42,43 +42,81 @@
     "displayUnits": "V"
   },
   {
+    "id": "voltage_min",
+    "name": "Min Cell",
+    "type": "float32",
+    "podUnits": "V",
+    "displayUnits": "V"
+  },
+  {
+    "id": "voltage_max",
+    "name": "Max Cell",
+    "type": "float32",
+    "podUnits": "V",
+    "displayUnits": "V"
+  },
+  {
     "id": "total_voltage",
     "name": "Total Voltage",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V",
-    "out_of_range": {
-            "warning": [
-                0,
-                30
-            ]
-        }
+    "displayUnits": "V"
   },
   {
     "id": "SOC",
     "name": "SOC",
     "type": "float32",
     "podUnits": "Percentage",
-    "displayUnits": "Percentage",
-    "out_of_range": {
-            "warning": [
-                0,
-                100
-            ]
-        }
+    "displayUnits": "Percentage"
+  },
+  {
+    "id": "temperature_1",
+    "name": "Temperature 1",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temperature_2",
+    "name": "Temperature 2",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temperature_3",
+    "name": "Temperature 3",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temperature_4",
+    "name": "Temperature 4",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temp_min",
+    "name": "Min. Temperature",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
+  },
+  {
+    "id": "temp_max",
+    "name": "Max. Temperature",
+    "type": "float32",
+    "podUnits": "ºC",
+    "displayUnits": "ºC"
   },
   {
     "id": "current",
     "name": "Current",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                10
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "state",
@@ -136,13 +174,7 @@
     "name": "Output Current",
     "type": "float32",
     "podUnits": "A",
-    "displayUnits": "A",
-    "out_of_range": {
-            "warning": [
-                0,
-                10
-            ]
-        }
+    "displayUnits": "A"
   },
   {
     "id": "input_current",
@@ -156,13 +188,7 @@
     "name": "Output Voltage",
     "type": "float32",
     "podUnits": "V",
-    "displayUnits": "V",
-    "out_of_range": {
-            "warning": [
-                0,
-                10
-            ]
-        }
+    "displayUnits": "V"
   },
   {
     "id": "input_voltage",

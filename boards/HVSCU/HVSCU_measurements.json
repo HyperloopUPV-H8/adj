@@ -48,8 +48,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery1_temperature",
-        "name": "Battery 1 Temperature",
+        "id": "battery1_temperature1",
+        "name": "Battery 1 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery1_temperature2",
+        "name": "Battery 1 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -117,8 +124,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery2_temperature",
-        "name": "Battery 2 Temperature",
+        "id": "battery2_temperature1",
+        "name": "Battery 2 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery2_temperature2",
+        "name": "Battery 2 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -186,16 +200,18 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery3_temperature",
-        "name": "Battery 3 Temperature",
+        "id": "battery3_temperature1",
+        "name": "Battery 3 Temperature 1",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
     },
     {
-        "id": "battery3_is_balancing",
-        "name": "Battery 3 Is Balancing",
-        "type": "bool"
+        "id": "battery3_temperature2",
+        "name": "Battery 3 Temperature 2",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
     },
     {
         "id": "battery3_total_voltage",
@@ -260,8 +276,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery4_temperature",
-        "name": "Battery 4 Temperature",
+        "id": "battery4_temperature1",
+        "name": "Battery 4 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery4_temperature2",
+        "name": "Battery 4 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -329,8 +352,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery5_temperature",
-        "name": "Battery 5 Temperature",
+        "id": "battery5_temperature1",
+        "name": "Battery 5 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery5_temperature2",
+        "name": "Battery 5 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -398,8 +428,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery6_temperature",
-        "name": "Battery 6 Temperature",
+        "id": "battery6_temperature1",
+        "name": "Battery 6 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery6_temperature2",
+        "name": "Battery 6 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -467,8 +504,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery7_temperature",
-        "name": "Battery 7 Temperature",
+        "id": "battery7_temperature1",
+        "name": "Battery 7 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery7_temperature2",
+        "name": "Battery 7 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -536,8 +580,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery8_temperature",
-        "name": "Battery 8 Temperature",
+        "id": "battery8_temperature1",
+        "name": "Battery 8 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery8_temperature2",
+        "name": "Battery 8 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -605,8 +656,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery9_temperature",
-        "name": "Battery 9 Temperature",
+        "id": "battery9_temperature1",
+        "name": "Battery 9 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery9_temperature2",
+        "name": "Battery 9 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -674,8 +732,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery10_temperature",
-        "name": "Battery 10 Temperature",
+        "id": "battery10_temperature1",
+        "name": "Battery 10 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery10_temperature2",
+        "name": "Battery 10 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -743,8 +808,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery11_temperature",
-        "name": "Battery 11 Temperature",
+        "id": "battery11_temperature1",
+        "name": "Battery 11 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery11_temperature2",
+        "name": "Battery 11 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -812,8 +884,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery12_temperature",
-        "name": "Battery 12 Temperature",
+        "id": "battery12_temperature1",
+        "name": "Battery 12 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery12_temperature2",
+        "name": "Battery 12 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -881,8 +960,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery13_temperature",
-        "name": "Battery 13 Temperature",
+        "id": "battery13_temperature1",
+        "name": "Battery 13 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery13_temperature2",
+        "name": "Battery 13 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -950,8 +1036,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery14_temperature",
-        "name": "Battery 14 Temperature",
+        "id": "battery14_temperature1",
+        "name": "Battery 14 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery14_temperature2",
+        "name": "Battery 14 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -1019,8 +1112,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery15_temperature",
-        "name": "Battery 15 Temperature",
+        "id": "battery15_temperature1",
+        "name": "Battery 15 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery15_temperature2",
+        "name": "Battery 15 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -1088,8 +1188,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery16_temperature",
-        "name": "Battery 16 Temperature",
+        "id": "battery16_temperature1",
+        "name": "Battery 16 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery16_temperature2",
+        "name": "Battery 16 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -1157,8 +1264,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery17_temperature",
-        "name": "Battery 17 Temperature",
+        "id": "battery17_temperature1",
+        "name": "Battery 17 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery17_temperature2",
+        "name": "Battery 17 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -1226,8 +1340,15 @@
         "displayUnits": "V"
     },
     {
-        "id": "battery18_temperature",
-        "name": "Battery 18 Temperature",
+        "id": "battery18_temperature1",
+        "name": "Battery 18 Temperature 1",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "battery18_temperature2",
+        "name": "Battery 18 Temperature 2",
         "type": "float32",
         "podUnits": "ºC",
         "displayUnits": "ºC"
@@ -1251,13 +1372,7 @@
         "name": "Batteries voltage",
         "type": "float32",
         "podUnits": "V",
-        "displayUnits": "V",
-        "out_of_range": {
-            "warning": [
-                0,
-                100
-            ]
-        }
+        "displayUnits": "V"
     },
     {
         "id": "voltage_reading",
@@ -1265,12 +1380,10 @@
         "type": "float32",
         "podUnits": "V",
         "displayUnits": "V",
-        "out_of_range": {
-            "warning": [
-                0,
-                100
-            ]
-        }
+        "safeRange": [
+            0.0,
+            430.0
+        ]
     },
     {
         "id": "current_reading",
@@ -1278,12 +1391,10 @@
         "type": "float32",
         "podUnits": "A",
         "displayUnits": "A",
-        "out_of_range": {
-            "warning": [
-                0,
-                100
-            ]
-        }
+        "safeRange": [
+            -15.0,
+            85.0
+        ]
     },
     {
         "id": "general_state_machine_status",
@@ -1349,10 +1460,45 @@
             "DISENGAGED"
         ]
     },
-        {
+    {
         "id": "minimum_soc",
         "name": "Minimum SOC",
         "type": "float32",
         "displayUnits": "%"
+    },
+    {
+        "id": "bms_status",
+        "name": "BMS Status",
+        "type": "enum",
+        "enumValues": [
+            "OK",
+            "FAULT"
+        ]
+    },
+    {
+        "id": "voltage_min",
+        "name": "Minimum cell voltage",
+        "type": "float32",
+        "displayUnits": "V"
+    },
+    {
+        "id": "voltage_max",
+        "name": "Maximum cell voltage",
+        "type": "float32",
+        "displayUnits": "V"
+    },
+    {
+        "id": "temp_min",
+        "name": "Minimum temperature",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
+    },
+    {
+        "id": "temp_max",
+        "name": "Maximum temperature",
+        "type": "float32",
+        "podUnits": "ºC",
+        "displayUnits": "ºC"
     }
 ]
