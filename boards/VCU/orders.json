@@ -67,7 +67,7 @@
     },
     {
         "type": "order",
-        "name": "Runs",
+        "name": "Propulsion",
         "variables" : [
             "run_id"
         ],
