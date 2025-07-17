@@ -1126,6 +1126,13 @@
     "type": "float32",
     "podUnits": "mm",
     "displayUnits": "mm"
+  },
+  {
+    "id": "distance",
+    "name": "Distance (mm)",
+    "type": "float32",
+    "podUnits": "mm",
+    "displayUnits": "mm"
   }
   
 ]
