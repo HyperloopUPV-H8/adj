@@ -43,70 +43,115 @@
         "name": "Commutation Frequency (Hz)",
         "type": "uint32",
         "podUnits": "Hz",
-        "displayUnits": "Hz"
+        "displayUnits": "Hz",
+        "below": {
+            "warning": 30000
+        }
     },
     {
         "id": "dead_time_ns",
         "name": "Dead Time (ns)",
         "type": "uint32",
         "podUnits": "ns",
-        "displayUnits": "ns"
+        "displayUnits": "ns",
+        "above": {
+            "warning": 100
+        }
     },
     {
         "id": "modulation_index",
         "name": "Modulation Index",
         "type": "float32",
         "podUnits": "",
-        "displayUnits": ""
+        "displayUnits": "",
+        "out_of_range": {
+            "warning": [
+                0.0,
+                1.1547
+            ]
+        }
     },
     {
         "id": "modulation_frequency_hz",
         "name": "Modulation Frequency (Hz)",
         "type": "float32",
         "podUnits": "Hz",
-        "displayUnits": "Hz"
+        "displayUnits": "Hz",
+        "above": {
+            "warning": 0.0
+        }
     },
     {
         "id": "requested_dc_link_voltage",
         "name": "Requested DC Link Voltage (V)",
         "type": "float32",
         "podUnits": "V",
-        "displayUnits": "V"
+        "displayUnits": "V",
+        "below": {
+            "warning": 446.4
+        }
     },
     {
         "id": "requested_linear_speed",
         "name": "Target Linear Speed (m/s)",
         "type": "float32",
         "podUnits": "m/s",
-        "displayUnits": "m/s"
+        "displayUnits": "m/s",
+        "above": {
+            "warning": 0.0
+        }
     },
     {
         "id": "requested_d_current_reference",
         "name": "D Current Reference (A)",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                0.0,
+                80.0
+            ]
+        }
     },
     {
         "id": "requested_q_current_reference",
         "name": "Q Current Reference (A)",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                0.0,
+                80.0
+            ]
+        }
     },
     {
         "id": "requested_d_current_reference_2",
         "name": "D Current Reference(A)",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                0.0,
+                80.0
+            ]
+        }
     },
     {
         "id": "requested_q_current_reference_2",
         "name": "Q Current Reference (A)",
         "type": "float32",
         "podUnits": "A",
-        "displayUnits": "A"
+        "displayUnits": "A",
+        "out_of_range": {
+            "warning": [
+                0.0,
+                80.0
+            ]
+        }
     },
     {
         "id": "requested_speetec_emulation_mode",
@@ -123,6 +168,9 @@
         "name": "Value (m | m/s | m/s^2)",
         "type": "float32",
         "podUnits": "",
-        "displayUnits": ""
+        "displayUnits": "",
+        "above": {
+            "warning": 0.0
+        }
     }
 ]

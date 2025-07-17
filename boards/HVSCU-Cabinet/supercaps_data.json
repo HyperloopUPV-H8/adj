@@ -4,7 +4,8 @@
         "type": "data",
         "name": "Supercaps Voltage Overview",
         "variables": [
-            "HVSCU-Cabinet_total_supercaps_voltage"
+            "HVSCU-Cabinet_total_supercaps_voltage",
+            "HVSCU-Cabinet_soc"
         ]
     },
     {
