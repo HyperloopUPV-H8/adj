@@ -1,6 +1,6 @@
 {
     "board_id": 217,
-    "board_ip": "127.0.0.17",
+    "board_ip": "127.0.0.6",
     "packets": [
         "orders.json",
         "hvscu_orders.json",
