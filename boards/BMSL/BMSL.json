@@ -1,6 +1,6 @@
 {
   "board_id": 2,
-  "board_ip": "127.0.0.4",
+  "board_ip": "127.0.0.8",
   "measurements": [
     "BMSL_measurements.json"
   ],
