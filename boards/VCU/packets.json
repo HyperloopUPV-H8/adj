@@ -65,5 +65,13 @@
             "SDC"
         ],
         "id": 255
+    },
+    {
+        "type": "data",
+        "name": "recovery_state",
+        "variables": [
+            "state"
+        ],
+        "id": 65
     }
 ]
